@@ -1,0 +1,675 @@
+整数	せいすう	Integer
+チラシ・びら	ちらし	Leaflet
+徒歩5分	とほごふん	A Five Minute Walk
+賃貸アパート	ちんたいあぱーと	A Rental Apartment
+家賃	やちん	Monthly Rent
+管理費	かんりひ	Caretaker Fee
+無料・ただ	むりょう・ただ	No Charge
+三階建て	さんかいだて	A Three Story Building
+南向き	みなみむき	Facing The South
+築10年	ちく10ねん	Being Built 10 Years Ago
+自転車置き場	じてんしゃおきば	A Bicycle Parking Lot
+マンション => 少し高級な感じがある集合住宅。分譲と賃貸がある。	まんしょん => すこしこうきゅうなかんじがあるしゅうごうじたく。ぶんじょうとちんたいがある。	Mansion => Rather high-class apartment. May be available for rental or purchase.
+敷金	しききん=>家は部屋を借りる時に家主に預けておく保証金	Key money deposited with the owner as a guarantee when the contract is first taken out.
+礼金	れいきん=>家や部屋を借りる時に家主に払う一時金。ない場合もある。	One time payment to the owner when we rent an apartment or house. In some cases this payment isn’t required.
+1 LDK	L: リビング(居間)、D: ダイニング(食事の出来る場所)、K: キッチン(台所)、数字: LDK以外の部屋の数を表す。	L: Living, D: Dining, K: Kitchen, Number: Number of Rooms
+広々としている	Spacious	ひろびろとしている
+ナカメがいい	なかめがいい	Have a Good View
+日当たりがいい	ひあたりがいい	Gets a Lot of Sunlight
+人通りが多い	ひとどおりがおおい	There are lots of Pedestrians
+一軒家・一戸建て	いっけんや・いっこだて	A Detached House
+物干し	ものほし	A Clothesline
+風呂場	ふろば	A Bathroom
+洗面所	せんめんじょ	A Washroom
+一人暮らし	ひとりぐらし	Live Alone
+一人住まい	ひとりすまい	Living Alone
+近所付き合い	きんじょつきあい	Relation with Neighbor
+彼と付き合う	かれとつきあう	Go out with a Man
+友達と付き合う	ともだちとつきあう	Go along with Friends
+引越しの荷造りをする	ひっこしのにづくりをする	Pick up to Move
+回覧板を回す	かいらんばんをまわす	Send a Bulletin around to Neighbors
+この辺り	このあたり	This Neighberhood・Vicinity
+この付近	このふきん	The Neighborhood・Vicinity
+真ん前	まんまえ	The Very Font Of
+真後ろ	まうしろ	The Very Back Of
+真ん中	まんなか	The Very Middle Of
+斜の前	ななのなめ	Catecorner to the Right (Left)
+買い替える	かいかえる	Buy a New One for the Old One
+家電製品	かでんせいひん	Electronic Appliances
+省エネ	しょうえね	Energy Conservation
+電気代を節約する	でんきだいをせつやくする	Reduce The Electricity Bill
+ゴミが溜まる	ごみがたまる	Garbage Accumulates
+リサイクルに出す	りさいくるにだす	Put Out for Recycling
+不用品を処分する	ふようひんをしょぶんする	Get Rid of Clutter
+ゴミを分別する	ごみをぶんべつする	Seperate Garbage
+燃やせるゴミ	もやせるごみ	Burnable Garbage
+可燃ゴミ	かねんごみ	Burnagle Garbage
+燃えないゴミ	もえないごみ	Unburnable Garbage
+燃やせないゴミ	もやせないごみ	Unburnable Garbage
+生ゴミ	なまごみ	Kitchen Garbage
+粗大ゴミ	そだいごみ	Large Size Garbage
+資源ゴミ	しげんごみ	Recycle Garbage
+指定のゴミ袋	していのごみぶくろ	Garbage Bag Specified by the City Government
+ペットボトルをすすぐ	ぺっとぼとるをすすぐ	Rinse a Pet Bottle
+ラベルをはがす	らべるをはがす	Peel the Label Off
+ツールを貼る	つーるをはる	Put a Sticker On
+アルミ缶をつぶす	あるみかんをつぶす	Crush The Almunium Can
+古新聞を再利用する	ふるしんぶんをさいりようする	Reuse the Old Newspaper
+水がもれる	みずがもれる	Water Leaks
+水をもらす	みずをもらす	Let Water Leak
+秘密がもれる	ひみつがもれる	A Secret Leaks Out
+秘密をもらす	ひみつをもらす	Leak a Secret
+こぼれる	こぼれる	Spill Out
+段ボール箱	だんぼーるばこ	A Cardboard Box
+ガムテープ	がむてーぷ	A Parcel Tape
+肉などのトレイ	にくなどのとれい	A Styrofoam Tray
+ポリ袋	ぷりぶくろ	A Plastic Bag
+キャプ	きゃっぷ	A Bottle Top
+良くいらっしゃいました	よくいらっしゃいました	Welcome! Please Come In
+どうぞお上がり下さい	どうぞおがりください	Welcome! Please Come In
+お邪魔します	おじゃまします	Thank You
+ご無沙汰しています	ごぶさたしています	It has been a long time since we saw each other. How have you been?
+お元気でいらっしゃいましたか?	おげんきでいらっしゃいましたか	It has been a long time since we saw each other. How have you been?
+ええ、おかげさまで	ええ、おかげさまで	Quite Well、Thank You
+つまらないものですが	つまらないものですが	I have something to give to you. I hope you will like it.
+有り難う御座います	ありがとうございます	Thank you very much
+遠慮なき頂きます	えんりょなくいただきます	Thank you very much. It is very kind of you.
+お茶を持ちします	おちゃをもちします	I will bring you a cup of tea
+どうぞおかまいなく	どうぞおかまいなく	Please Don’t Worry
+ゆっくりしていってください	ゆっくりしていってください	Please Stay as Long as You Can
+ごゆうくりお召し上がりください	ごゆっくりおめしあがりください	Please Enjoy
+友人を家に招く	ゆうじんをいえにまねく	Invite Friends to One's House
+友人家に招待する	ゆうじんいえにしょうたいする	Invite Friends to One's Home
+座る心地がいいソファー	すわるここちがいいソファー	A Comfortable Sofa
+寝心地がいいベッド	ねごこちがいいべっと	A Comfortable Bed
+居心地が良い家	いごこちがよいいえ	AComfortable House
+家で過ごす	いえですごす	Stay Home
+ゆっくりする	ゆっくりする	Have a Leisurely Time
+のんびりする	のんびりする	Relax
+くつろぐ	くつろぐ	Relax、Make Onself at Home
+快適に暮らす	かいてきにくらす	Have a Comfortable Life
+半額セール	はんがくせーる	A Half Price Sale
+手ごろな価格	てごろなかかく	An Affordable Price
+家事をする	かじをする	Do Housework
+炊事	すいじ	Cooking
+食卓を片付ける	しょくたくをかたづける	Clear the Table
+汚れた食器	よごれたしょっき	Dirty Dishesh
+洗い物を流しに持って行く	あらいものをながしにもっていく	Take the Dirty Dishes to the sink
+子育てをする	こそだてをする	Raise A Child
+子供をかわいがる	こどもをかわいがる	Love One’s Children
+子供を甘やかす	こどもをあまやかす	Spoil One’s Child
+子供が甘える	こどもがあまえる	A Child Wants More Attention
+子供をしつける	こどもをしつける	Teach Manners to Child
+しつけ	しつけ	Discipline・Teaching Manners
+お尻をたたく	おしりをたたく	Spank
+怒鳴る	どなる	Yell
+この話はよそう	このはなしはよそう	Let’s Stop Talking About It
+よしなさい・よせ	よしなさい・よせ	Stop It
+妊娠する	にんしんする	Get Pregnant
+子供を生む	こどもをうむ	Give Birth To a Baby
+生まれる	うまれる	Be Born
+赤ちゃんをおんぶする	あかちゃんをおんぶする	Carry a baby on one's back
+赤ちゃんをおぶう	あかちゃんをおぶう	Carry a Baby on One’s Back
+だっこする	だっこする	Pick the baby・Pet up
+腕に抱く	うでにだく	Pick The Baby・Pet Up
+紙おむつ	かみおむつ	Disposable Diaper
+やんちゃな子供	やんちゃなこども	A Mischievous Child
+落書きをする	らくがきする	Scribble
+暴れる	あばれる	Get Out Of Control
+頭をぶつ	あたまをぶつ	Bump One’s Head On
+顔をなぐる	かおをなぐる	Punch Someone in the Face
+足でける	あしでける	Kick
+猫の耳を引っ張る	ねこのみみをひっぱる	Pull Cat’s Ear
+動物をいじめる	どうぶつをいじめる	Be Cruel to an Annual
+さわぐ	さわぐ	Make a Noise
+さわがしい	さわがしい	Be Noisy
+そうぞうしい	そうぞうしい	Be Noisy・Rip Roaring
+やかましい	やかましい	Be Noisy・Fault Finding・Vexing
+にぎやかな	にぎやかな	Be Lively
+銀行でお金を下ろす	ぎんこうでおかねをおろす	Withdraw Some Money from One's Bank
+銀行でお金を引き出す	ぎんこうでおかねをひきだす	Withdraw Some Money from One’s Bank
+銀行でお金を預ける	ぎんこうでおかねをあずける	Put Money in a Bank Account
+銀行口座	ぎんこうこうざ	Bank Account
+自動で引き落とされる	じどうでひきおとされる	Be Paid byAutomatic Bank Transfer
+授業料を払い込む	じどうりょうをはらいこむ	Pay Tuition Fees with a Bank Transfer
+家賃を振り込む	やちんをふりこむ	Transfer a Monthly Rent
+振り込み	ふりこみ	Bank Transfer
+公共料金を支払い	こうきょうりょうきんをしはらい	Pay The Public Utility Charges
+支払い	しはらい	Payment
+電気代	でんきだい	Electricity Bills
+ガス代	がすだい	Gas Bill
+水道代	すいどうだい	Water Bills
+電話代	でんわだい	Telephone Bills
+手数料がかかる	てすうりょうがかかる	A Charge is Levied
+収入	しゅうにゅう	Income・Revenue
+支出	ししゅつ	Expenditure
+黒字	くろじ	Surplus・The Black
+赤字	あかじ	Deficit・The Red
+外食する	がいしょくする	Eat Out
+自炊する	じすいする	Cook One’s Own Meals
+高くつく	たかくつく	Be Costly
+栄養がかたよる	えいようがかたよる	One’s Diet Becomes Unbalanced
+バランスが取れた食事	ばらんすがとれたしょくじ	A Balanced Meal
+生活費が不足する	せいかつひがふそくする	Run Out of Spending Money
+食費を節約する	しょくひをせつやくする	Economize on Food Expenses
+旅行するを余裕がない	りょこうするをよゆうがない	Have No Extra Money for Travelling
+収入につりあう生活	しゅうにゅうにつりあうせいかつ	Affordable Lifestyle
+むだを省く	むたをはぶく	Eliminate Waste
+むだづかいをする	むだづかいをする	Waste Money
+ぜいたくをする	ぜいたくをする	Splurge
+老人ホームのホームヘルパー	ろうじんほーむのほーむへるパー	A Helper in the Nursing Home
+語学学校の講師	ごがくがっこうのこうし	A Language School Teacher
+会社の事務員	かいしゃのじむいん	A Clerk
+コンピューター関係の仕事	こんぴゅーたーかんけいのしごと	ITRelated JOB
+レストランのオーナー	れすとらんのおーなー	A Resturant Owner
+ホテルの従業員	ほてるのじゅうぎょういん	A Hotel Worker
+フリーター	ふりーたー	A General Name of People Who Live on Part-Time Jobs
+就職する	しゅうしょくする	Get a Job
+就職活動	しゅうしょくかつどう	Job Hunting
+求人情報	きゅうじんじょうほう	Job Information
+履歴書を書く	りれきしょをかく	Prepare a Resume
+年齢制限がある	ねんれいせいげんがある	Has an age Limit
+経験を問わない	けいけんをとわない	No Previous Experience are Required
+採用する	さいようする	Employ
+人手が不足している	ひとでがふそくしている	Lack of Manpower
+正社員を募集する	せいしゃいんをぼしゅうする	Advertise a Permanent Position
+派遣社員に登録する	はけんしゃいんにとうろくする	Register as an Agency Map
+会社に問い合わせる	かいしゃにといあわせる	Ask the Company About
+気軽にたずねる	きがるにたずねる	Feel Free To Ask Questions
+面接で緊張する	めんせつできんちょうする	Get Nervous at a Job Interview
+面接にふさわしい服装	めんせつにふさわしいふくそう	Proper Outfit for a Job Interview
+８時間勤務	はちじかんきんむ	Working an 8-hour Day, an 8 hour shift
+時給で働く	じきゅうではたらく	Work for an hourly Wage
+交通費が支給される	こうつうひがしきゅうされる	Be Reimbursed for one's transportation Costs
+お金をかせぐ	おかねをかせぐ	Work for One’s Living、Make Money
+お金をもうける	おかねをもうける	Make a Profit・Make a Good Bargain
+店がもうかる	みせがもうがる	The Store Makes a Lot of Profit
+上司	じょうし	Boss
+部下	ぶか	Subordinate
+先輩	せんぱい	One’s Senior
+同僚	どうりょう	Colleague
+仕事の仲間	しごとのなかま	Colleauge
+大企業に就職する	だいきぎょうにしゅうしょくする	Get a Job in a Big Company
+4月に入社する	4がつににゅうしゃする	Join a Company in April
+我が社の女子社員	わがしゃのじょししゃいん	Female Staff in our Company
+新入社員	しんにゅうしゃいん	A New Employee
+先輩に教わる	せんぱいにおそわる	Learn from the more Experienced Memebers of the Staff
+先輩を見習う	せんぱいをみならう	Follow the Example of the More Experienced Staff
+早退する	そうたいする	Go Home Early
+遅刻する	ちこくする	Be Late
+休憩する	きゅうけいする	Take a Break
+休みを取る	やすみをとる	Take a Holiday
+休暇を取る	きゅうかをとる	Take a Holiday
+有給休暇	ゆうきゅうきゅうか	Paid Leave
+席を外す	せきをはずす	Leave One’s Desk
+やりがいのある仕事	やりがいのあるしごと	A Challenging Job
+仕事が生きがいだ	しごとがいきがいだ	I Live for My Work
+休み間がない	やすみまがない	Never Have Time to Rest
+体がもたない	からだがもたない	Can't Keep This Pace Up
+やる気がない	やるきがない	Have no Motivation / Drive
+やる気が出ない	やるきがでない	Not Get Motivated
+具合が悪いふりをする	ぐあいがわるいふりをする	Pretent to Feel Sick
+仕事を怠ける	しごとをなまける	Neglect One's Work
+怠け者	なまけもの	A Lazy Person
+仕事をサボる	しごとをさぼる	Neglect One's Work
+働き者	はたらきもの	A Hardworking Person
+仕事でミスをする	しごとでみすをする	Make a Mistake at Work
+遅刻の言い訳をする	ちこくのいいわけをする	Make Excuse for Being Late
+上司にコマをする	じょうしにごまをする	Butter Up With Boss
+おせじをする	おせじをする	Flutter Someone
+超忙しい	ちょういそがしい	Extremely Busy
+会議が長引く	かいぎがながびく	The Meeting is Prolonged
+会議の準備をする	かいぎのじゅんびをする	Prepare for the Meeting
+ミーティングの準備をする	みーてぃングのじゅんびをする	Prepare for the Meeting
+意見を述べる	いけんをのべる	Opinion Express
+意見をまとめる	いけんをまとめる	Opinion Summarize
+意見を求める	いけんをもとめる	Opinion Ask For
+具体的な案をする	ぐたいてきななあんをする	Suggest Concrete Plans
+抽象的な案を出す	ちゅうしょうてきなあんをだす	Suggest Abstract Plan
+アイデアを出す	あいであをだす	Suggest Ideas
+結論が出す	けつろんがだす	Come to a Conclusion
+資料を配る	しりょうをくばる	Materials Distribute
+プリントを配る	ぷりんとをくばる	Handouts distribute
+メモを取る	めもをとる	Take Notes
+張り切る	はりきる	Be Full of Enthusiasm
+仕事を引き受ける	しごとをひきうける	Take a Job
+仕事の打ち合わせをする	しごとのうちあわせをする	Make Business Arrangements
+スケジュールを組む	すけじゅーるをくむ	Make up the Schedule
+仕事を順調にこなす	しごとをじゅんちょうにこなす	Work Efficiently
+電話を取り次ぐ	でんわをとりつぐ	Take a Phone Message
+電話を転送する	でんわをてんそうする	Transfer a Call
+電話を保留する	でんわをほりゅうする	Put Someone on Hold
+残業する	ざんぎょうする	Work Overtime
+出張が多い	しゅっちょうがおおい	Go On Lot of Business Trip
+出世する	しゅっせする	Get Promoted
+昇進する	しょうしんする	Get a  Promotion
+本社に転勤になる	ほんしゃにてんきんになる	Be Transferred to the Head Office
+転職する	てんしょくする	Find a Job in Another Company
+会社を首になる	かいしゃをくびになる	Get Fired
+リストラされる	りすとらされる	Get Fired
+退職する	たいしょくする	Retire
+失業する	しつぎょうする	Lose One’s Job
+書類を作成する	しょるいをさくせいする	Prepare A Document
+カナを漢字に変換する	かなをかんじにへんかんする	Convert Kana Into Kanji
+文字を削除する	もじをさくじょする	Delete Characters / Letters
+漢字を確定する	かんじをかくていする	Select The Correct Kanji
+改行する	かいぎょうする	Start A New Line
+文字のサイズを設定する	もじのさいずをせっていする	Set The Font Size
+フォントを変更する	ふぉんとをへんこうする	Change The Font Size
+カーソルを移動する	かーそるをいどうする	Move The Cursor
+範囲を選択する	はんいをせんたくする	Select The Area
+目的の位置に合わせる	もくてきのいちにあわせる	Adjust The Layout
+文字を中央にそろえる	もじをちゅうおうにそろえる	Center Justify
+右に寄せる	みぎによせる	Align Right
+下線をつける	かせんをつける	Underline
+アンダーラインをつける	あんだーらいんをつける	Underline
+記号を入れる	きごうをいれる	Insert Symbols
+図を挿入する	ずをそうにゅうする	Insert a Figure / Diagram
+図を拡大する	ずをかくだいする	Enlarge a Figure / Diagram
+内容を修正する	ないようをしゅうせいする	Modify The Content
+文書を編集する	ぶんしょをへんしゅうする	Compile A Document
+元に戻す	もとにもどす	Reverse
+図形をコピーする	ずけいをこぴーする	Copy a Figure / Diagram
+やり直す	やりなおす	Do it Over
+切り取る・カットする	きりとる・かっとする	Cut
+切り取る	きりとる	Cutting
+貼り付ける・ペーストする	はりつける・ぺーすとする	Paste
+貼り付け	はりつけ	Paste
+画像を取り込む	がぞうをとりこむ	Import an Image
+文書を保存する	ぶんしょをほぞんする	Save a Document
+上書きを保存する	うわがきをほぞんする	Save Changes (To a Computer File)
+ファイルを添付する	ふぁいるをてんぷする	Attach A File
+プリンターで印刷する	ぷりんたーでいんさつする	Print (On One's Printer)
+プリンターでプリントする	ぷりんたーでぷりんとする	Print (On One's Printer)
+プリンターの用紙が切れる	ぷりんたーのようしがきれる	The Printer is Out of Paper
+インク・トナーがなくなる	いんく・となーがなくなる	Run out of Ink・Toner
+印刷の範囲を指定する	いんさつのはんいをしていする	Select a Range for Printing
+印刷の向きを確認する	いんさつのむきをかくにんする	Check The Vertical Alignment of the Print Job
+余白を多くする	よはくをおおくする	Set Bigger Margins
+標準サイズの用紙	ひょうじゅんさいずのようし	Standard - Size Paper
+印刷がずれる	いんさつがずれる	The Printing On The Page is Askew
+手間を省く	てまをはぶく	Save a Lot of Work
+表示を切り替える	ひょうじをきりかえる	Change The Display Setting
+データが消える	でーたがきえる	Lose Data
+消去する	しょうきょする	Delete Data
+迷惑メール	めいわくめーる	Junk E-Mail・Spam
+受信を拒否する	じゅしんをきょひする	Reject Messages
+個人情報を盗まれる	こじんじょうほうをぬすまれる	Have Personal Information Stolen
+ワイルスに感染する	わいるすにかんせんする	Get Injected By a Computer Virus
+新いワイルスに対応する	あたらしいわいるすにたいおうする	Deal With a New Computer Virus
+チャットを楽しむ	ちゃっとをたのしむ	Enjoy Chatting On Line
+コミュニケーションを楽しむ	こみゅにけしょーんをたのしむ	Enjoy Communicating
+掲示板に書き込む	けいじばんにかきこむ	Post (A Message) on a Electronic Bulletin Board
+ネットオークション	ねっとおーくしょん	A Net Auction
+品物を売り買いする	しなものをうりかいする	Trade Goods
+オンラインゲームをする	おんらいんげーむをする	Play On Line Games
+思いやりがある	おもいやりがある	Considerate
+若々しい	わかわかしい	Youthful
+生き生きとした	いきいきとした	Lively
+ほがらかな	ほがらかな	Cheerful
+さわやかな	さわやかな	Refreshing・Delightful
+人なつっこい	ひとなつっこい	Friendly
+無邪気な	むじゃきな	Innocent・Childlike
+大ざっぱな	おおざっぱな	Rough
+いいかげんな	いいかげんな	Irresponsible
+だらしない	だらしない	Sloppy
+不潔な	ふけつな	Filthy
+厚かましい	あつかましい	Impudent
+ずうずうしい	ずうずうしい	Impudent
+欲張りな	よくばりな	Greedy
+強引な	ごういんな	Pushy
+乱暴な	らんぼうな	Rough
+わがままな	わがままな	Self Centered
+プライドが高い	ぷらいどがたかい	Very Proud
+マナーがいい	まなーがいい	Well Mannered
+センスがいい	せんすがいい	Tasteful
+要領がいい	ようりょうがいい	Good At Handling Things
+おだやかな	おだやかな	Mild
+おとなしい	おとなしい	Quiet
+落ち着いている	おちついている	Self-Possessed
+頼もしい	たのもしい	Reliable
+そそっかしい	そそっかしい	Scatter-Brained、Careless
+のんきな	のんきな	Carefree
+短気な	たんきな	Self Centered
+気が短い	きがみじかい	Short Tempered
+気が小さい	きがちいさい	Timid
+あわれな	あわれな	Miserable
+くどい	くどい	Long Winded (Way of Saying)
+ひきょうな	ひきょうな	Mean
+ずるい	ずるい	Dishonest・You Are Cheating
+ダサい	ださい	Tacky・Not Cool
+上品な	じょうひんな	Refined
+品がある	ひんがある	Refined
+品がいい	ひんがいい	Refined
+かっこい	かっこい	Cool
+気が強い	きがつよい	Aggressive
+器用な	きような	Skilful
+まじめな	まじめな	Serious・Honest
+下品な	げひんな	Vulger
+品がない	ひんがない	Vulger
+かっこい悪い	かっこいわるい	Not Cool
+気が弱い	きがよわい	Faint-Hearted・Timid
+不器用な	ふきような	Clumsy
+ふまじめな	ふまじめな	Not Serious
+豊かな国	ゆたかなくに	Wealthy Country
+快適な暮らし	かいてきなくらし	Comfortable Life
+楽な方法	らくなほうほう	Easy Way
+派手なシャツ	はでなしゃつ	Flashy Shirt
+粗末な食事	そまつなしょくじ	Plain Food
+まじめな暮らし	まじめなくらし	Miserable Life
+やっかいな問題	やっかいなもんだい	Difficult Problem
+あいまいな返事	あいまいなへんじ	Vague Reply
+ありふれた話	ありふれたはなし	Ordinary Story
+あわただしい一日	あわただしいいちにち	Busy Day
+さわがしい通り	さわがしいとおり	Noisy Street
+そうぞうしい通り	そうぞうしいとおり	Noisy Street
+スピーカーの音がやかましい	すぴーかーのおとがやかましい	The Speaker is Very Loud
+彼はファションにやかましい	かれはふぁしょんにやかましい	He Has Strong Views on Fashion
+めでたい日	めでたいひ	Joyous Day
+長さが等しい	ながさがひとしい	Be The Same Length
+みにく争い	みにくあらそい	Ugly Dispute
+荒っぽい言葉	あらっぽいことば	Rough Language
+空っぽの財布	からっぽのさいふ	Empty Wallet
+焼きすぎて魚が真っ黒になる	やきすぎてさかながまっくろになる	Fish is Burned Back on the Gril
+顔が真っ青になる	かおがまっさおになる	Face Turns Pale
+顔が真っ赤になる	かおがまっかになる	Face Turns Red
+頭が真っ白になる	かおがまっしろになる	Someone’s Hair Turns Grey (As They Age)
+頭の中が真っ白になる	あたまのなかがまっしろになる	Be Totally Lost
+にらむ	めにらむ	Glare At
+部屋の中を除く	へやのなかをのぞく	Peek in The Room
+たばこをくわえる	たばこをくわえる	Leave a Cigarette in One's Room
+りんごをかじる	りんごをかじる	Bite into An Apple
+耳音でささやく	みみおとでささやく	Wisper in The Ear
+ガムをかむ	がむをかむ	Chew Gum
+うなずく	うなずく	Nod
+肩にかつぐ	かたにかつぐ	Carry On One’s Shoulder
+わきに抱える	わきにかかえる	Carry Under One's Arm
+かごをぶら下げる	かごをぶらさげる	Hang a Basket
+ひじをつく	ひじをつく	Put One’s Elbows on The Table
+触る	さわる	Touch
+頭をかく	あたまをかく	Scratch One’s Head
+ポケットに手をつっこむ	ぽけっとにてをつっこむ	Put One`s Hand in One’s Pocket
+パンにハムをはさむ	ぱんにはむをはさむ	Put Ham In a Sandwitch
+のりでくっつける	のりでくっつける	Use Glue To Stick Two Things Together
+水道の蛇口をひねる	すいどうのじゃぐちをひねる	Turn On A Tap
+ひざを曲げる	ひざをまげる	Bend One’s Knees
+みぞをまたぐ	みぞをまたぐ	Step Over a Ditch
+いしにつまずく	いしにつまずく	Stumble on a Stone
+雪道ですべる	ゆきみちですべる	Slip on a Snowy Road
+道路でしゃがむ	どうろでしゃがむ	Sit Down on The Road
+体をねじる	からだをねじる	Twist One’s Body
+壁にもたれる	かべにもたれる	Lean Against The Wall
+壁にぶつかる	かべにぶつかる	Bump Into Wall
+壁にボールをぶつける	かべにぼーるをぶつける	Throw a Ball Against the Wall
+自転車とすれ違う	じてんしゃとすれちがう	Go By a Bicycle
+地面をほう	じめんをほう	Crawl On The Ground
+おじきをする	おじきをする	Bow
+くやしい	くやしい	So Unfortunate
+くやむ	くやむ	Regret
+つらい	つらい	Painful
+情けない	なさけない	Miserable
+申し訳ない	もうしわけない	Shameful
+残念だ	ざんねんだ	It’s a Pity
+仕方がない	しかたがない	It Can’t be Helped
+しょうがない	しょうがない	It Can’t be Helped
+やむを得ない	やむをえない	There is Nothing You Can Do About It
+疑問に思う	ぎもんにおもう	I Doubt It
+不思議だ	ふしぎだ	It’s Mysterious・Weird
+納得がない	なっとくがない	Be Unable to Accept
+納得がいく	なっとくがいく	Be Convinced
+あきる	あきる	Get Bored
+あきれる	あきれる	Be Amazed
+あきらめる	あきらめる	Give Up
+あせる	あせる	Be In Hurry
+ためらう	ためらう	Hesitate
+あこがれる	あこがれる	Long For
+落ち込む	おちこむ	Feel Depressed
+恋しい	こいしい	Miss・Long For
+なつかしい	なつかしい	Feel Homesick・Have Fond Memories
+ありがたい	ありがたい	Feel Grateful
+みっともない	みっともない	Shameful・Unsuitable
+ばからしい	ばからしい	Silly
+おしい	おしい	Regrettable
+にくい	にくい	Hate
+にくらしい	にくらしい	Hate
+面倒くさい	めんどうくさい	Feel Weary Of
+面倒な仕事	めんどうなしごと	A Troublesome Task
+夢中になる	むちゅうになる	Be Mad About
+悩む	なやむ	Be Distressed By
+退屈する	たいくつする	Be Bored
+悩み	なやみ	Worry
+神に祈る	かみにいのる	Pray to God
+神にちかう	かみにちかう	Swear By God
+仏をおがむ	ほとけをおがむ	Worship the Buddha
+尊敬する	そんけいする	Respect
+えらいと思う	えらいとおもう	Find (Someone) Admirable
+信用する	しんようする	Trust
+疑う	うたがう	Doubt
+いじめる	いじめる	Bully
+やっつける	やっつける	Beat (Attack)
+からかう	からかう	Make Fun of Someone
+バカにする	ばかにする	Look Down On
+けなす	けなす	Run Down
+責める	せめる	Blame
+おどかす	おどかす	Surprise・Threaten
+頼る	たよる	Depend On
+頼りにする	たよりにする	Depend On
+許す	ゆるす	Forgive
+裏切る	うらぎる	Betray
+だます	だます	Cheat
+傷つける	きずつける	Hurt
+避ける	さける	Avoid
+放っておく	ほっておく	Leave
+私のことはほっといて	わたしのことはほっといて	Leave me Alone！
+仕事を任せる	しごとをまかせる	Entrust The Job With
+感謝する	かんしゃする	Be Grateful
+ほほえむ	ほほえむ	Give a Happy Smile
+冗談を言う	じょうだんをいう	Joke
+従う	したがう	Obey・Follow
+いやみをいう	いやみをいう	Make Sarcastic Remarks
+逆らう	さからう	Defy
+文句を言う	もんくをいう	Complain About
+うそをつく	うそをつく	Lie
+わびる	わびる	Apolozige
+うそつき	うそつき	A Liar
+だまる	だまる	Become Quiet
+友達に恵まれる	ともだちにめぐまれる	Have Many Good Friends
+自慢する	じまんする	Brag About
+友達をもめる	ともだちをもめる	Have Trouble with Friends
+いやな態度を取る	いやなたいどをとる	Have a Bad Attitude
+いばる	いばる	Be Arrogant
+ふざける	ふざける	Play With
+態度を改める	たいどをあらためる	Change One’s Attitude
+まねをする	まねをする	Mimic・Copy・Imitate
+悪口を言う	わるぐちいう	Say Bad Things About
+失敗を人のせいにする	しっぱいをひとのせいにする	Blame Others For One's Own Mistakes
+医師の診察を受ける	いしのしんさつをうける	See The Doctor
+早めに医者にかかる	はやめにいしゃにかかる	Go and See the Doctor Before It Gets Worse
+健康診断を受ける	けんこうしんだんをうける	Have a Physical Checkup
+血圧が高い	けつあつがたかい	Have High Blood Pressure
+病気の症状	びょうきのしょうじょう	Symptoms of Sickness
+血圧が低い	けつあつがひくい	Have High Blood Pressure
+症状が治まる	しょうじょうがおさまる	Condition Improves
+顔色が悪い	かおいろがわるい	Look Unwell
+顔が真っ青だ	かおがまっさおだ	Look Very Pale
+体の具合が悪い	からだのぐあいがわるい	Not Feel Well
+吐き気がかかる	はきけがかかる	Feel Sick
+吐く	はく	Vomit
+頭がぼうっとする	あたまがぼうっとする	My Head is not Clear
+熱中症	ねっちゅうしょう	HeatStroke
+体に熱がこもる	からだにねつがこもる	Feel Feverish
+家にこもる	いえにこもる	Refuses to Go Out
+体がだるい	からだがだるい	Feel Languid
+肩がこる	かたがこる	Have Stiff Shoulders
+肩をもむ	かたをもむ	Message One’s Shoulder
+ストレスがたまる	すとれすがたまる	Feel Stressed Out
+痛みをこらえる	いたみをこらえる	Endure Pain
+痛みをがまんする	いたみをがまんする	Endure Pain
+悲しいをこらえる	かなしいをこらえる	Bear Sadness
+痛みに耐える	いたみにたえる	Endure Pain
+悲しみに耐える	かなしみにたえる	Bear Sadness
+肌が荒れる	はだがあれる	Have Rough Skin
+肌のつやがいい	はだのつやがいい	Have Smoot Skin
+体がかゆい	からだがかゆい	Get Itchy All Over
+体をかく	からだをかく	Scratch
+湿疹ができる	しっしんができる	Get a Rash
+アレルギーがある	あれるぎーがある	Be Alargic To
+花粉症で鼻がつまる	かふんしょうではながつまる	Be Stuffed Up From Hay Fever
+虫歯になる	むしばになる	Get Cavity
+リハビリをする	りはびりをする	Go For Rehabiliation
+リハビリを受ける	りはびりをうける	Receive Rehabilliation
+傷口がふさがる	きずぐちがふさがる	Wounds Heal
+レントゲンを撮る	れんとげんをとる	Have An X-Ray Taken
+手術の傷あとが痛む	しゅじゅつのきずあとがいたむ	The Scar From My Operation Aches
+がんで死亡する	がんでしぼうする	Die From Cancer
+必ずしも〜とは限らない→お金持ちが必ずしも幸福とは限らない	かならずしも〜とはかぎらない→おかねもちがかならずしもこうふくとはかぎらない	Being Rich Does Not Necessary Mean Happy
+必ず→人間は必ず死ぬ	かならず→にんげんはかならずしぬ	We Will All Eventually Die
+いつか→いつかアフリカに行きたい・ここにはいつか来たことがある	いつか→いつかあふりかにいきたい・ここにはいつかきたことがある	Someday I Would Like to Go To Africa・I Have Come Here Once Before
+いつまでも→いつまでもお元気で	いつまでも→いつまでもおげんきで	Please Take Care
+いつのまにか→いつのまにか夜になった	いつのまにか→いつのまにかよるになった	Night Came Before We Knew It
+つい→ついうそを言ってしまった	つい→ついうそをいってしまった	I Lied Without Meaning To
+ついに→ついに絵が完成でした	ついに→ついにえがかんせいでした	Finally The Painting was Finished
+どうしても→用事があってどうしても行けない・どうしても成功させたい	どうしても→ようじがあってどうしてもいけない・どうしてもせいこうさせたい	It is Simply Not Possible For Me To Go As I Have Other Commitments・I would like to succeed it no matter what
+どうも上手に話せない	どうもじょうずにはなせない	I Cannot Really Explain it Well
+どうも道に迷ったようだ	どうもみちにまよったようだ	I Think I am Lost
+どうも失礼しました	どうもしつれいしました	Please Excuse Me
+昨日はどうも	きのうはどうも	It was Nice to see you yesterday
+なんとか→なんとか会議に間に合った	なんとか→なんとかかいぎにまにあった	I Managed To Make It To The Meeting
+この問題どうにかしなければならない	このもんだいどうにかしなければならない	We Must Somehow Resolve The Problem
+なんとなく→これはなんとなく面白そうな本だ	なんとなく→これはなんとなくおもしろそうなほんだ	This Book is Sort Of Interesting
+なんとも〜ない→そんなこと、なんとも思わない	なんとも〜ない→そんなこと、なんともおもわない	I don’t Care About It
+もし(も)→もし(も)100万円あったら...	もし(も)→もし(も)100まんえんあったら	If I had One Million Yen
+もしかすると・もしかしたら→もしかすると、彼の話はうそかもしれない	もしかすると・もしかしたら→もしかすると、かれのはなしはうそかもしれない	He Could Be Telling a Lie
+なるべく(=できるだけ)→早く来て下さい	なるべく(=できるだけ)→はやくきてください	Please Come Early If We Can
+なるほど→なるほど面白い本だ	なるほど→なるほどおもしろいほんだ	It Certainly Is An Interesting Book
+確か→あの人は、確か(=多分)林さんのお父さんだと思う	たしか→あのひとは、たしか(=たぶん)はやしさんのおとうさんだとおもう	I Think He is Hayashi San's Father
+確かに→あの人は、確かに(=間違いなく)林さんのお父さんだ	たしかに→あのひとは、たしかに(=まちがいなく)はやしさんのおとうさんだ	That Guy Is Definitely Hayashi-San's Father
+まもなく→コンサートがまもなく(=もうすぐ)始まる	まもなく→こんさーとがまもなく(=もうすぐ)はじまる	The Concert Will Start Soon
+まもなく→家に帰ってまもなく(=少し後)客が来た	まもなく→いえにかえってまもなく(=すこしあと)きゃくがきた	Soon After I Came Home, A Guest Arrived
+近々→近々(＝近日中に)お伺います	ちかぢか→ちかぢか(=きんじつちゅうに)おうかがいます	I will Come To See Yoo Sometime Soon
+そのうち→そのうちわかるようになるでしょう	そのうち→そのうちわかるようになるでしょう	You Will Understand Someday
+やがて→やがて夏休みも終わる	やがて→やがてなつやすみもおわる	The Summer Holiday Will Soon Be Over
+やがて→父が死んでやがて1年になる	やがて→ちちがしんてやがていちねんになる	It Will Soon Be A Year Since My Father Passed Away
+ようやく→ようやく(=やっと)暖かくなってきた	ようやく→ようやく(=やっと)あたたかくなってきた	It's Finally Getting Warmer
+いずれ→いずれ(いつか)こうなると思っていた	いずれ→いずれ(いつか)こうなるとおもっていた	I Figured That It Would Eventually Be Like This
+たちまち→チケットはたちまち(=すぐに)売り切れた	たちまち→ちけっとはたちまち(=すぐに)うりきれた	The Tickets Were Immediately Sold Out
+ただちに→ただちに(=すぐに)出発したほうがいい	ただちに→ただちに(すぐに)しゅっぱつしたほうがいい	You’d Better Go Right Away
+にわかに→にわかに(=急に)空が曇って来た	にわかに→にわかに(=きゅうに)そらがくもってきた	Suddenly The Sky Became Overcast
+にわか雨	にわかあめ	A Sudden Shower
+絶えず→絶えず水が流れている	たえず→たえずみずがながれている	The Water Is Constantly Running
+つねに→つねに(=いつも)健康に注意する	つねに→つねに(=いつも)けんこうにちゅういする	Keep Health In Mind
+しきりに→しきりに(=何度も)電話が鳴る	しきりに→しきりに(=なんども)でんわがなる	Praise Repeatedly
+しよっちゅう→しよっちゅう(=よく)酒を飲む	しよっちゅう→しよっちゅう(=よく)さけをのむ	Frequently Drink Alchohol
+(もう)すでに→(その絵はすでに売れてしまった	(もう)すでに→そのえはすでにうれてしまった	The Painting Has Already Been Sold
+とっくに→期限はとっくに(=ずいぶん前に)過ぎている	とっくに→きげんはとっくに(=ずいぶんまえに)すぎている	The Deadline Has Already Passed
+とっくの(=ずっと)昔	とっくの(=ずっと)むかし	Long Ago
+前もって→前もって調べておく	まえもって→まえもってしらべておく	Look into...In Advance
+ほぼ→ほぼ(=約)1万円	ほぼ→ほぼ(=やく)1まんえん	Approximately (About) 10,000 Yen
+お(お)よそ→おおよそ・およそ(=だいたい)2週間	お(お)よそ→おおよそ・およそ(=だいたい)2しゅうかん	Approximately (roughly) 2 weeks
+ほんの→ほんの少し	ほんの→ほんのすこし	A Tiny Bit (Very Little)
+たった→たった一人で	たった→たったひとりで	All By Oneself
+せいぜい→出席者はせいぜい30人程度だ	せいぜい→しゅっせきしゃはせいぜい30にんていどだ	There Will Be Only About 30 Attendants
+少なくとも→少なくとも30人は来る	すくなくとも→すくなくとも30ひとはくる	At Least 30 People are Coming
+せめて→せめて5位以内になりたかった	せめて→せめて5いいないになりたかった	I was Hoping to Come in no Worse Than Fifth
+せめて→せめて声だけでも聞きたい	せめて→せめてこえだけでもききたい	If Only I Could Hear His/Her Voice
+たびたび・しばしば→「たびたびお電話してすみません」	たびたび・しばしば→「たびたびおでんわしてすみません」	Sorry For Phoning You So Many Times
+いよいよ→いよいよ明日出発します	いよいよ→いよいよあしたしゅっぱつします	I Will Finally Depart Tomorrow
+いちいち→いちいち文句を言う	いちいち→いちいちもんくをいう	Complain About Everything
+ふわふわ(する)→このタオルはふわふわしている	ふわふわ(する)→このたおるはふわふわしている	This Towel is Very Soft
+ふわふわ(する)→ふわふわと浮かぶ雲	ふわふわ(する)→ふわふわとうかぶくも	Floating Clouds in the Sky
+まごまごする→分からなくてまごまごする	まごまごする→わからなくてまごまごする	Be At A Loss
+それぞれ・めいめい・ひとりひとり・各々→それぞれ意見を述べる	それぞれ・めいめい・ひとりひとり・おのおの→それぞれいけんをのべる	Each Person Voices His/Her Opinions
+ばったり→友達にばったり会う	ばったり→ともだちにばったりあう	Bump Into A Friend
+こっそり→こっそり逃げる	こっそり→こっそりにげる	Sneak Out
+ぴったり→ぴったりくっつく	ぴったり→ぴったりくっつく	Stick Tightly
+ぎっしり→みかんがぎっしりつまっている	ぎっしり→みかんがぎっしりつまっている	It is packed with Tangerines
+ぎっしり→予定がぎっしり入っている	ぎっしり→よていがぎっしりはいっている	The Schedule is Tight
+じつくり→じつくり読む	じつくり→じつくりよむ	Read Slowly And Carefully
+ちらっと・ちらりと→ちらっと見る	ちらっと・ちらりと→ちらっとみる	Glance At
+うんざり(する)→親の説教にうんざりする	うんざり(する)→おやのせっきょうにうんざりする	Get Fed Up With One’s Parents' Lectures
+びっしょり→急に雨が降ってびっしょりぬれた	びっしょり→きゅうにあめがふってびっしょりぬれた	I Got Soaked in a Sudden Rain
+しいんとする→しいんとする・シーンとする	しいんとする→しいんとする・シーンとする	Be All Quiet
+しいんとする→しいんと・シーンと静かになる	しいんとする→しいんと・シーンとしずかになる	It Falls Still and Silent
+ずらりと・ずらっと→本がずらりと並んでいる	ずらりと・ずらっと→ほんがずらりとならんでいる	Books Are Lined Up
+さっさと→さっさと帰る	さっさと→さっさとかえる	Leave at Once
+せっせと→せっせと働く	せっせと→せっせとはたらく	Work Steadily
+どっと→客がどっと来る	どっと→きゃくがどっとくる	Customers Pour Into
+どっと→どっと疲れる	どっと→どっとつかれる	Suddenly Feel Exhausted
+すっとする→すっと立ち上がる	すっとする→すっとたちあがる	Stand Up Abruptly
+気分がすっとする	きぶんがすっとする	Feel Refreshed
+ひとりでに→ドアがひとりでに開く	ひとりでに→どあがひとりでにあく	The Door Opens By Itself
+いっせいに→いっせいに立ち上がる	いっせいに→いっせいにたちあがる	Stand Up All At Once
+相当・かなり→田中さんは、相当気が強い	そうとう・かなり→たなかさんは、そうとうきがつよい	Tanaka-San is Rather Strong Minded
+大いに→友人と大いに語り合う	おおいに→ゆうじんとおおいにかたりあう	Have a Long Talk with Friends
+大いに→可能性は大いにある	おおいに→かのうせいはおおいにある	There is Great Possibility
+うんと→うんと便利になる	うんと→うんとべんりになる	Become Extremely Convenient
+うんと→お金がうんとある	うんと→おかねがうんとある	Have a Lot of Money
+たっぷり→水をたっぷり飲む	たっぷり→みずをたっぷりのむ	Drink a Lot of Water
+たっぷり→時間がたっぷりある	たっぷり→じかんがたっぷりある	Have an Ample Time
+あまりにも→あまりにも難しい問題	あまりにも→あまりにもむずかしいもんだい	An Overly Difficult Problem To Solve
+やや→やや大きめの茶わん	やや→ややおおきめのちゃわん	A little Bigger Rice Bowl
+多少→多少イタリアン語が話せます	たしょう→たしょういたりあんごがはなせます	I Can Speak Some Italian
+いくぶん・いくら→景気がいくぶん良くなかった	いくぶん・いくら→けいきがいくぶんよくなかった	The Economic Situation Has Improved a Little
+わりに・わりと→わりに・わりと(=比較的)やさしい問題	わりに・わりと→わりに・わりと(=ひかくてき)やさしいもんだい	A Relatively Easy Problem
+わりあいに→わりあいに早く着いた	わりあいに→わりあいにはやくついた	I Unexpectedly Arrived Early
+なお(いっそう)→これのほうが、なお安い	なお(いっそう)→これのほうが、なおやすい	The One is EvenCheaper Than That
+より(いっそう)→これのほうが、より難しい	より(いっそう)→これのほうが、よりむずかしい	This One is Even More Difficult
+むしろ→AよりむしろBのほうがいい	むしろ→AよりむしろBのほうがいい	I Would Rather Have B Than A
+余計に→そうすると、余計分かるなくなる	よけいに→そうすると、よけいわかるなくなる	You Would Get More Confused If You Did So
+じょじょに→じょじょにうまくなる	じょじょに→じょじょにうまくなる	Get Better Little by Little
+次第に→雪が次第にとける	しだいに→ゆきがしだいにとける	The Snow Gradually Melts
+さらに→さらに美味しくなる	さらに→さらにおいしくなる	Become More Delicious
+一段と→寒さが一段と寂しくなる	いちだんと→さむさがいちだんとさびしくなる	It becomes a Lot Colder
+ぐっと→ぐっと良くなった	ぐっと→ぐっとよくなった	It has Imrpoved A Lot
+めっきり→めっきり寒くなる	めっきり→めっきりさむくなる	It Becomes Noticeably Cool
+主に→この雑誌の対象は、主に中学生だ	おもに→このざっしのたいしょうは、おもにちゅうがくせいだ	This Magazine is Mainly For Junior High School Student
+くれぐれも→くれぐれもご両親に宜しくお伝えください	くれぐれも→くれぐれもごりょうしんによろしくおつたえください	Please Send My Best Regards To Your Parents
+一応→工事は一応完成した	いちおう→こうじはいちおうかんせいした	The Construction Has More or Less Finished
+一般に→一般に女性のほうが長生きをする	いっぱんに→いっぱんじょせいのほうがながいきをする	Generally Women Live Longer
+明らかに→明らかに違う	あきらかに→あきらかにちがう	It is Obviously Wrong
+いわば→昨日の会議は、いわば宴会のようなものだった	いわば→きのうのかいぎは、いわばえんかいのようなものだった	Yesterday's Meeting was Like a Party
+いわゆる→古典音楽とは、いわゆるクラシックのことを言う	いわゆる→こてんおんがくとは、いわゆるくらしっくのことをいう	Koten -Ongaku Means So-Call Classical Music
+まさか→まさかこんな事件が起きるとは....	まさか→まさかこんなじけんおきるとは....	We Never Imagined That Such An Event Would Ever Happen
+まさに→まさにあなたの言う通りです	まさに→まさにあなたのいうとおりです	What are you Saying is Perfectly Right
+まさに→今まさに夜が明けよいとしている	まさに→いままさによがあけよいとしている	The Day is Just Breaking
+一度に・いっぺんに→一度に覚えるのは無理だ	いちどに。いっぺんに→いちどにおぼえるのはむりだ	It is Impossible to Memorize Everything at Once
+一気に→ビールを一気に飲む	いっきに→びーるをいっきにのむ	Gulp Down a Mug of Beer
+思い切り→父に思い(っ)切りしかられた	おもいきり→ちちにおもい(っ)きりしかられた	My Father Severely Reprimanded Me
+思い切って→思い切って転職する	おもいきって→おもいきっててんしょくする	Take the Plunge and Change Jobs
+思わず→痛くて思わず叫んだ	おもわず→いたくておもわずさけんだ	I Cried out with Pain
+思いがけず・思いがけなく→思いがけず昔の友人に会った	おもいがけず・おもいがけなく→おもいがけずむかしのゆうじんにあった	Unexpectedly I bumped into my old friend
+なにしろ→なにしろ(=とにかく)忙しいくて食事をとる時間もない	なにしろ→なにしろ(=とにかく)いそがしくてしょくじをとるじかんもない	I Have Been too busy to Eat
+なにかと→来週はなにかと忙しい	なにかと→らいしゅうはなにかといそがしい	I Will Be Very Busy With This and That Next Week
+相変わらず→あの店は相変わらず混んでいる	あいかわらず→あのみせはあいかわらずこんでいる	The Shop is As Busy as Ever
+取り合いず→取り合いず何か食べよう	とりあいず→とりあいずなにかたべよう	Let's Eat First
+取り合いず→取り合いず問題はないだろう	とりあいず→とりあいずもんだいはないだろう	Let's Not Worry About it Now
+わざと→時計をわざと進めせる	わざと→とけいをわざとすすめせる	Intentionally Set The Clock Ahead
+わざわざ→わざわざお越しいいただいて	わざわざ→わざわざおこしいただいて	I Appreciate You Coming
+いっそう→これのほうが、(なお)いっそう大きい	いっそう→これのほうが、(なお)いっそうおおきい	This One is a Lot Bigger
+いっそ→苦しくてがまんできない。いっそ死にたい	いっそ→くるしくてがまんできない。いっそしにたい	I Cannot bear the Pain Anymore, I'd rather Die
+今に→そんなことをしていると、今に後悔しますよ	いまに→そんなことをしていると、いまにこうかいしますよ	You Will Someday Regret What You are Doing Now
+今にも→今にも雨が降りそうだ	いまにも→いまにもあめがふりそうだ	It Looks Like It's Going to Rain Any Minute
+今さら→今さらできないと言われても困る	いまさら→いまさらできないといわれてもこまる	It is Too Late For You To Renege
+未だに→未だにその事件は解決していない	いまだに→いまだにそのじけんはかいけつしていない	The Crime Has Still Not Been Solved
+ただ今→田中は、ただいま、席を外しています	ただいま→たなかは、ただいま、せきをはずしています	Tanaka San is not here at the moment
+たった今→彼はたった今帰った	たったいま→かれはたったいまかえった	He Has Just Left
+別に欲しいものはない	べつにほしいものはない	I don't really need anything
+この問題はそう難しくない	このもんだいはそうむずかしくない	This problem is not that difficult
+大して勉強しなかったが、合格できた	たいしてべんきょうしなかったが、ごうかくできた	I passed the exam although I did not study much
+私はその事件とは一切関係ない	わたしはそのじけんとはいっさいかんけいない	I have nothing to do with the case
+彼はとても50歳には見えない	かれはとても50さいにはみえない	He doesn't at all look 50 years old
+彼女は恐らく結婚しないだろう	かのじょはおそらくけっこんしないだろう	She Won't Most Probably Get Married
+どうやら雨が降りそうだ	どうやらあめがふりそうだ	It looks like it is going to rain
+彼の話は果たして本当だろうか	かれのはなしははたしてほんとうだろうか	Is his story really true?
+やってもどうせだめだろう	やってもどうせだめだろう	It probably won't work out even if I try it
+せっかく覚えたのに、テストに出なかった	せっかくおぼえたのに、てすとにでなかった	I spent some time memorising them but they were not on the test
+せっかくここまで来たら、彼の家に寄ってみよう	せっかくここまできたら、かれのいえによってみよう	Let's drop by his house since we are in the area
+一旦・一度・ひとたび→一旦約束したら、守るべきだ	いったん・いちど・ひとたび→いったんやくそくしたら、まもるべきだ	Once you make a promise, you should keep it
+一旦・ひとまず→一旦休んで、午後からまた始めよう	いったん・ひとまず→いったんやすんで、ごごからまたはじめよう	Let's Take a Break and Start Again in the afternoon
+かえって→近道したら、かえって時間がかかった	かえって→ちかみちしたら、かえってじかんがかかった	We took a shortcut but it actually took us more time
+さっそく→ご注文の品を早速お送りします。	さっそく→ごちゅうもんのしなをさっそくおおくりします	I will send the items you ordered right away
+さすがに→さすがに先生はよく知っている	さすかに→さすがにせんせいはよくしっている	That is just what we expected from our dedicated teacher!
+おいにく→その日はあいにく都合が悪いです	おいにく→そのひはおいにくつごうがわるいです	Unfortunately I am not available (I can't make it)
+あくまで(も)→彼はあくまで自分が正しいと主張した	あくまで(も)→かれはあくまでじぶんがただしいとしゅちょうした	He Insisted That He Was Right
+なんだが・なんとなく・なぜか→なんだか眠い	なんだか・なんとなく・なぜか→なんだかねむい	I feel sleepy for some reason
+なんと・なんて→なんときれいな人だろう	なんと・なんで→なんときれいなひとだろう	What a beautiful Woman
