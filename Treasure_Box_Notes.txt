@@ -1,0 +1,737 @@
+#separator:tab
+#html:true
+#tags column:4
+適用	てきよ	Application	
+順序	じゅんじょ	Order・Sequence	
+資産	しさん	Property・Fortune	
+専属	せんぞく	Exclusive	
+各種	かくしゅ	Every Kind・All Sorts	
+台帳	だいちょう	Account Book	
+蓄積	ちくせき	Accumulation	
+特権	とっけん	Privilege・Special Right	
+原則	げんそく	Principle	
+障害	しょうがい	Obstacle・Impediment・Hindrance	
+遮断	しゃだん	Blocked・Cut Off	
+施す	ほどこす	To Do・To Perform・To Donate	
+頻度	ひんど	Frequency	
+移行	いこう	Transition・Migration・Changeover・Switchover・Shift	
+失効	しっこう	Lapse・Abatement・Invalidation・Expiration	
+投稿	とうこう	Post・Contribution	
+全記事	ぜんきじ	All Articles	
+経緯	いきさつ	Backgroun・Details・Particulars・Whole Story	
+担保	たんぽ	Security・Guarantee	
+購入元	こうにゅうもと	Purchaser	
+保守	ほしゅ	Maintenance	
+正規	せいき	Regular・Normal・Formal・Legal	
+端末	たんまつ	Terminal	
+多要素認証	たようそにんしょう	Multi Factor Authentication	
+講じる	こうじる	To Take Measures	
+強化	きょうか	Strengthening・Intensifying・Enhancement	
+対策	たいさく	Step・Countermeasure	
+維持	いじ	Maintain	
+紐つけられる	ひもつけられる	To be Tied	
+抜き出す	ぬきだす	Extraction	
+箇条書き	かじょうがき	Bullet Points	
+重要度	じゅうようど	Importance	
+下がる	さがる	Going Down	
+意識	いしき	Consciousness	
+従う	したがう	Follow	
+汎用化	はんようか	Generalization	
+基本例	きほんれい	Basic Example	
+整備	せいび	Maintenance	
+複数	ふくすう	Multiple	
+上書き	うわがき	Subscription	
+有効化	ゆうこうか	Activation・Validation	
+直後	ちょくご	Immediately Following	
+統制	とうせい	Regulation・Control	
+放置	ほうち	Neglect	
+各種	かくしゅ	Various	
+疑問	ぎもん	Question	
+当該箇所	とうがいかしょ	Relevant Part	
+叩く	たたく	Hit	
+所属	しょぞく	Affliation	
+識別	しきべつ	Identification	
+初稿	しょこう	First Draft	
+入稿	にゅうこう	Manuscript Submission	
+極める	きわめる	To Carry To Extremes	
+設置	せっち	Installation	
+基盤	きばん	Foundation・Basis・Infrastructure	
+請負	うけおい	Contract	
+埋まる	うまる	Fill Up	
+短縮	たんしゅく	Shortening	
+意図	いと	Intention	
+重複	じゅうふく	Duplication	
+翌月	よくげつ	Next Month	
+障壁	しょうへき	Barrier	
+互換	ごかん	Compatible	
+互換性	ごかんせい	Compatibility	
+互換機	ごかんき	Compatible Machine	
+互換製品	ごかんせいひん	Interchangeable Product	
+互換モード	ごかんもーど	Compatibility Mode	
+互換テスト	ごかんてすと	Compatibility Test	
+互換レイアー	ごかんれいあー	Compatibility Layer	
+識別子	Identifier		
+識別子参照並び	しきべつしさんしょうならび	Identifier Reference List	
+識別子参照値	しきべつしさんしょうち	Identifier Reference Value	
+撮る	とる	Take a Picture	
+教材	きょうざい	Teaching Materials	
+流用	りゅうよう	Diversion・Appropriation	
+復活	ふっかつ	Revival	
+回避策	かいひさく	Hanover	
+競合	きょうごう	Conflict	
+主眼	しゅがん	Main Focus	
+後編	こうへん	Latter Part・Sequel	
+前編	ぜんぺん	First Part	
+何点	なんてん	How Many Points	
+枯草熱	かれくさねつ	Hay Fever	
+花粉症	かふんしょう	Hay Fever・Pollinosis・Allergic Rhitnitis・Allergy to Pollen	
+花粉	かふん	Pollen	
+日々	ひび	Day to Day	
+復旧	ふっきゅう	Restoration	
+結ばれる	むすばれる	To be tied together	
+上振れ・下振れ	うえふれ・したぶれ	Upside Downward Swing	
+注視	ちゅうし	Gazing steadily at・Maintain a watch over・Observing (a person) closely	
+日焼け	ひやけ	Sunburn	
+脱炭素	だつたんそ	Decarbonization	
+推進	すいしん	Propulsion・Drive	
+支援	しえん	Support・Backing・Aid・Assistance	
+支援者	しえんしゃ	Supporter・Backer	
+負担	ふたん	Burden・Load Responsibility	
+現行	げんこう	Present・Current・In Operation	
+懸念	けねん	Worry・Fear・Anxiety・Concern	
+着手	ちゃくしゅ	Starting Work	
+達成	たっせい	Achievement・Attainment・Accomplishment・Realization	
+規格	きかく	Standard・Norm	
+配慮	はいりょ	Consideration・Concern・Attention・Thoughtfulness・Making Arrangements・Care・Trouble	
+困難	こんなん	Difficulty・Hardship・Trouble・Distress	
+適合	てきごう	Conformity・Compatibility・Adaptability・Congruity・Congruence	
+抽出	ちゅうしゅつ	Extraction・Abstraction	
+下層	かそう	Lower Layer	
+整う	ととのう	To Be Ready・To Be Prepared・To Be Arranged	
+閲覧	えつらん	Inspection・Reading・Perusal	
+遷移	せんい	Transition・Scientific Contexts	
+定まる	さだまる	To Become Settled・To Be Fixed	
+抜粋	ばっすい	Extract’・Excerpt・Selection	
+到達度	とうたつど	Acchievement Level	
+望む	のぞむ	To Desire・To Want・To Wish For・To Hope For	
+音声	おんせい	Voice Speech	
+変遷	へんせん	Change・Transition・Vicissitudes	
+総務省	そうむしょう	Ministry of Internal Affairs and Communications	
+推奨	すいしょう	Recommendation	
+準拠	じゅんきょ	Basis・Based On・Conformance・Conformity	
+収録	しゅうろく	Recording (In a Book・The Minutes)	
+解説	かいせつ	Explanation・Commentary・Exposition・Elucidation	
+拡大縮小	かくだいしゅくしょう	Scaling・Zooming	
+嵌る	はまる	To Fit・To Get Into・To Go Into・To BE Fitted With	
+任意	にんい	Any	
+可読性	かどくせい	Readability・Legibility	
+印刷	いんさつ	Print	
+掲載	けいさい	Publication	
+要素	ようそ	Component・Factor	
+差異	さい	Difference・Disparity・Gap	
+微小	びしょう	Microscopic	
+肌感	はだかん	Feeling・Sensation	
+妨げる	さまたげる	To Disturb・To Prevent・To Obstruct・To Hinder	
+許容	きょよう	Permission・Allowance・Acceptance・Tolerance・Pardon	
+制御	せいぎょ	Control・Suppression・Keeping in Check	
+名称	めいしょう	Name・Title	
+名称	めいしょう	Name・Title	
+維持	いじ	Maintenance・Preservation・Improvement	
+順守	じゅんしゅ	Observance・Adherence・Abiding By	
+類推	るいすい	Analogy	
+極力	きょくりょく	To The Utmost・The Best of One's Ability	
+用途	ようと	Purpose	
+改行	かいぎょう	New Line	
+基本要素規定	きほんようそきてい	Basic Element Regulations	
+宣言	せんげん	Declaration・Proclamation・Announcement	
+形成	けいせい	Formation	
+振り分け	ふりわけ	Divide・Parting・Seperating・Distribution	
+階層	かいそう	Class・Level・Stratum・Layer・Hierarchy	
+順序	じゅんじょ	Order・Sequence・Procedure	
+補助	ほじょ	Assistance・Support・Help・Aid	
+区分	くぶん	Division・Restore・Demarcation・Partition・Segementation	
+埋め込む	うめこむ	To Bury・To Embed・To Implant	
+起点	きてん	Starting Point・Origin	
+末尾	まつび	End (e.g. of report, document, paragraph, etc.)	
+末尾再帰	まつびさいき	Tail Recursion	
+末尾方式コード	まつびほうしきコード	Final Digit Code	
+配達	はいたつ	Delivery	
+加盟店	かめいてん	Member Store	
+下部	かぶ	Beneath	
+長期連休	ちょうきれんきゅう	Long Term Holiday	
+提示	ていじ	Presentation	
+不在等	ふざいとう	Absence	
+起動	きどう	Start-Up	
+新機能	しんきのう	New Function	
+開催中	かいさいちゅう	In Session	
+応募	おおぼ	Application	
+配信停止	はいしんていし	Unsubscribe	
+保護	ほご	Defend	
+発行元	はっこうもと	Publisher	
+栄養	えいよう	Nutrition	
+満足度	まんぞくど	Level of Satisfaction	
+恐縮	きょうしゅく	Feeling Obliged	
+駿崩	しゅんくずれ	Sudden Collapse	
+アミノ酸	あみのさん	Amino Acid	
+行間	ぎょうかん	Line Spacing in Text、Between Line	
+風物詩	ふうぶつし	Tradition	
+崩れる	くずれる	To Collapse・To Crumble	
+人災	じんさい	Man-Made Calamity	
+数少ない	かずすくない	Few in Number	
+不運	ふうん	Misfortune・Bad Luck・Ill Luck・Ill Fortune	
+予測	よそく	Prediction・Estimation	
+回避	かいひ	Evasion・Avoidance	
+回避不能	かいひふのう	Inevitable・Inescapable・Unavoidable	
+防止策	ぼうしさく	Preventive Measures	
+基礎	きそ	Foundation・Basis「Foundation Engineering」	
+減少	げんしょう	Decrease・Reduction・Decline	
+対比	たいひ	Contrast・Comparison	
+軒並み	のきなみ	Row of Houses	
+属性	ぞくせい	Attrobute・Property・Context・Element	
+決裁	けっさい	Sanction・Approval・Decision	
+致命傷	ちめいしょう	Fatal Wound	
+見極める	みきわめる	To Ascertain・To MakeTo Determine・To Probe	
+空調	くうちょう	Air Conditioning	
+許諾	きょだく	Consent・Assent・Approval・Permission	
+暮らし	くらし	Livelihood・Life・Circumstances	
+嵩む	かさむ	To Mount Up・To Pile Up	
+中途半端	ちゅうとはんぱ	Incomplete	
+メンテ	めんて	Maintenance	
+概要	がいよう	Overview	
+実施	じっし	Implementation	
+新卒	しんそつ	Fresh Graduates	
+活躍	かつやく	Activity	
+大歓迎	だいかんげい	Worm Welcome・Favorable Reception	
+知見	ちけん	Expertise・Experience・Knowledge	
+注釈	ちゅうしゃく	Notes・Comment・Remark・Annotation	
+尚	なお	Still・Furthermore・Yet	
+視聴者	しちょうしゃ	Viewer・(Television) Audience	
+気軽	きがる	Carefree・Sprightly	
+気軽い	きがるい	Cheerful・Lighthearted	
+登壇者	とうだんしゃ	Speakers	
+主催	しゅさい	Sponsporship	
+貢献	こうけん	Contribution	
+取扱	とりあつかい	Treatment・Service・Handling・Management	
+顧客	こかく	Customer	
+売上高	うりあげだか	Sales・Amount Sold	
+最大化	さいだいか	Maximization	
+視覚的	しかくてき	Visual	
+内外	ないがい	Inside and Outside	
+挿入	そうにゅう	Insertion・Infixing	
+実装戦略	じっそうせんりゃく	Implementation Strategy	
+簡易化	かんいか	Simplification	
+業界	ぎょうかい	Industry	
+組み込まれています	くみこまれています	Built In	
+初心者	しょしんしゃ	Beginner	
+経験者	けいけんしゃ	Experienced Person	
+コラーボレショーン	こらーぼれしょーん	Collaboration	
+先頭	せんとう	Head	
+影響	えいきょう	Impact	
+配置	はいち	Arrangement	
+率の向上	りつのこうじょう	Rate Improvement	
+促す	うながす	To Urge	
+機械学習	きかいがくしゅう	Machine Learning	
+記録	きろく	Record・Minutes	
+類似	るいじ	Resemblance・Similarities	
+母数	ぼすう	Parameter (Statistical)	
+追跡	ついせき	Chase・Pursuit・Tracking・Stalking	
+洗練	せんれん	Polish・Refinement	
+考慮	こうりょ	Consideration・Taking Into Account	
+備わる	そなわる	To Be Furnished With・To Be Provided With	
+分析	ぶんせき	Analysis	
+最初限	さいしょげん	Minimum	
+抑える	おさえる	To Keep Within Limits・To Restrain (Emotions)・To Control	
+最適	さいてき	Most Suitable・Optimum・Optimal	
+傷付ける	きずつける	Hurt・Wound	
+献立	こんだて	Menu・Bill of Fare	
+馳走	ちそう	Treating Someone	
+都合	つごう	Circumstances	
+車掌	しゃしょう	Train Conductor	
+選挙	せんきょ	Election	
+投票	とうひょう	Voting・Ballot・Poll・Vote	
+不手際	ふてぎわ	Clumsiness・Awkwardness・Ineptitude	
+判定	はんてい	Judgement	
+何処	どこ	Where・What Place	
+完璧	かんぺき	Perfect・Complete・Flawless	
+感染	かんせん	Infection・Contagion・Becoming Infected	
+危機感	ききかん	Sense of Impending Crisis	
+瞬間	しゅんかん	Moment・Second・Instant	
+事態	じたい	Situation・Present State of Affairs・Circumstances	
+暗闇	くらやみ	Darkness・The Dark	
+感染者数	かんせんしゃすう	Number of Infected	
+経済的	けいざいてき	Economics	
+私服	しふく	Ordinary Clothes	
+保身	ほしん	Self Protection	
+叶える	かなえる	To Fulfil・To Grant	
+移籍金	いせききん	Transfer Fee	
+修理業	しゅうりぎょう	Repair Business	
+過剰摂取	かじょうせっしゅ	Overdose・Excessive Consumption	
+増税	ぞうぜい	Tax Increase	
+生じる	しょうじる	To Produce・To Yield	
+全域	ぜんいき	The Whole Area・All Areas	
+激論	げきろん	Heated Argument・Heated Discussion	
+苦難	くなん	Suffering・Distress・Hardship	
+真	しん	True・Seriousness	
+面白い	おもしろい	Amusing・Funny・Interesting	
+諸問題	しょもんだい	Many Problems・Various Problems	
+攻略	こうりゃく	Capture	
+障害	しょうがい	Hinderance・Obstacles・Impediment	
+成す	なす	To Build Up・To Establish	
+抽出	ちゅうしゅつ	Extract	
+主体	しゅたい	Pluck	
+徹底	てってい	Throughness	
+極悪	ごくあく	Heinous	
+方眼紙	ほうがんし	Graph Paper	
+整形	せいけい	Shaping	
+量産	りょうさん	Mass Production	
+推進	すいしん	Propulsion	
+事案	じあん	Concern・Circumstance	
+再発防止	さいはつぼうし	Preventing Recurrence	
+務める	つとめる	Work・Serve	
+事象	じしょう	Event・Phenomenon	
+発覚	はっかく	Detection・Discovery	
+遷移	せんい	Transition	
+慎重	しんちょ	Cautious	
+頻繁	ひんぱん	Frequent	
+複製	ふくせい	Reproduction・Duplication・Reprinting	
+表記	ひょうき	Label	
+一貫	いっかん	Consistent	
+見逃	みのが	Overlook	
+即時	そくじ	Immediate	
+越される	こされる	Will be Passed	
+伴う	ともなう	Accompany	
+静止時間	せいしじかん	Standing Time	
+経験則	けいけんそく	Rule of Thumb	
+測定	そくてい	Measurements	
+枯渇	こかつ	Depletion	
+夜間	やかん	Night	
+推奨	すいしょう	Recommendation・Endorsement	
+ズバリ	ずばり	Frankly・Once for All	
+削減	さくげん	Cut・Reduction	
+頷ける	うなずける	To be able to accept・To find acceptable	
+公式	こうしき	Official	
+請求	せいきゅう	Claim	
+課金	かきん	Billing	
+示唆	しさ	Suggestion・Hinto・Implication	
+注記	ちゅうき	Notes	
+集約	しゅうやく	Putting Together・Aggregation	
+実情	じつじょう	Real Condition	
+鑑みる	かんがみる	To Take Into Account	
+余裕	よゆう	Surplus・Margin	
+不足	ふそく	Shortage	
+抜粋	ばっすい	Extract・Excerpt・Selection	
+極める	きわめる	To Decide・To Choose・To Determine・To Make Up One's Mind・To Resolve・To Settle・To Arrange	
+冒頭	ぼうとうう	Beginning・Opening・Start・Outset	
+冒頭陳述	ぼうとうちんじゅつ	Opening Statement	
+従来	じゅうらい	Up To Now・Traditional・Coneventional	
+従来通り	じゅうらいとおり	As Before・As Usual・The Way It Used To Be	
+従来技術	じゅうらいぎじゅつ	Existing Technology	
+従来型	じゅうらいがた	Existing (Type、Style、Form)・Traditional	
+正規名	せいきめい	Cannonical Name	
+昇格	しょうかく	Promotion・Status	
+負荷	ふか	Burden	
+先述	せんじゅつ	Above Mentioned・Aforementioned	
+料金	りょうきん	Price	
+避けられない	さけられない	To Avoid (Physical Contact With)	
+換算	かんさん	Conversion	
+解放	かいほう	Release・Unleasing・Liberation・Setting Free	
+踏まえる	ふまえる	To Be Based On・To Take Into Account	
+実測値	じっそくち	Measure Value・Actual Measurement	
+直後	ちょくご	Right After	
+ひとまず	ひとまず	For Now、For The Time Being・For The Present	
+括弧	かっこ	Brackets・Parenthesis	
+概ね	おおむね	In General・Generally・Mostly・Roughly・Largely・Mainly・On The Whole	
+優秀	ゆうしゅう	Superior・Excellent・Brilliant・Outstanding	
+制約事項	せいやくじこう	Restrictions	
+固定	こてい	Fixed	
+救世主的	きゅうせいしゅうてき	Messiah-Like・Saviourly	
+観点	かんてん	Point of View	
+向上	こうじょう	Elevation・Rise・Improvement・Advancement・Progress	
+維持	いじ	Maintenance・Preservation・Improvement	
+急速	きゅうそく	Rapid	
+配下	はいか	Subordinate	
+重複	ちょうふく	Duplication・Repetition	
+紐づく	ひもづく	To Be Linked・To Be Related	
+疎通	そつう	Mutual Understanding・Communication	
+疎通確認	そつうかくにん	Conectivity Test・Connection Check	
+確立	かくりつ	Establishment・Settlement	
+所感	しょかん	Impressions・Thoughts・Feelings・Opinions	
+独自	どくじ	Unique	
+承諾	しょうだく	Consent・Approval・Acceptance・Agreement・Compliance	
+関連付ける	かんれんづける	To Connect・To Correlate・To Associate・To Relate・To Link	
+冒頭	ぼうとう	Begining・Opening・Start・Outset	
+冒頭陳述	ぼうとうちんじゅつ	Opening Statement	
+回避	かいひ	Avoidance	
+既定	きてい	Established・Fixed・Prearranged・Predetermined	
+自己署名	じこしょめい	Self Signed Certificate	
+設置済み	せっちずみ	Installed	
+注意喚起	ちゅういかんき	Heads Up	
+所有	しょゆう	Ownership	
+控える	ひかえる	To Be Temperate In・To Refrain	
+超える	こえる	To Cross Over・To Pass Through・To Pass Over・To Go Beyond	
+前提	ぜんてい	Condition・Assumption・Prerequisite・Hypothesis	
+半角英数記号のみ	はんかくえいすうきごうのみ	Single-byte Alphanumeric Characters Only	
+照合	しょうごう	Collation・Comparison	
+照合	しょうごう	Collation・Comparison	
+照合の上	しょうごうのうえ	After Checking Up<br>	
+照合操作	しょうごうそうさ	Collation Operation	
+照合順序	しょうごうじゅんじょ	Collating Sequence	
+照合順番	しょうごうじゅんばん	Collating Sequence	
+挙動不審	きょどうふしん	Suspicious Behavior	
+候補	こうほ	Candidate・Contender・Prospect	
+静的	せいてき	Static	
+静的適合性審査	せいてきてきごうせいしんさ	Static Conformance Review	
+節約家	せつやくか	Saving	
+特訓	とっくん	Special Training・Intensive Training・Crash Course	
+代行	だいこう	Acting as Agent・Acting on (Someone's) Behalf・Executing business for	
+代行者	だいこうしゃ	Agent・Proxy	
+代行送信	だいこうそうしん	Agent・Proxy	
+抑制	よくせい	Control・Restraint・Suppression・Constraint・Inhibition	
+軽減	けいげん	&nbsp;Mitigation	
+推奨	すいしょう	Recommendation	
+無効	むこう	Invalid・Void・Ineffective・Unavailable	
+強固	きょうこ	Firm・Strong・Solid・Stable	
+睨めっこ	にらめっこ	Staring-Out (down) game・Game in which two children looking at each other try to make the opponents laugh first・Constant looking at something (Computer Screen・The Clock)<br>	
+経路	けいろ	Course・Route・Path・Channel	
+画面下部	がめんかぶ	Lower Part・Substructure	
+下図	かず	The Figure Below	
+悪用	あくよう	Abuse・Misuse・Perversion	
+遠隔	えんかく	Distant・Remote・Isolated	
+攻撃	こうげき	Attack・Assualt・Raid・Onslaught・Offensive	
+窃取	せっしゅ	Theft・Stealing・Larceny	
+被害	ひがい	Damage・Injury・Harm	
+痕跡	こんせき	Trace・Vestige・Mark・Sign・Evidence	
+侵害	しんがい	Infringement・Violation・Invasion・Encroachment・Trespass	
+名前空間化	なまえくうかんか	Namespaced	
+備忘	びぼう	Memorendum	
+存続期間	そんぞくきかん	Lifetime	
+拡張子	かくちょうし	Filename Extension	
+移り変わり	うつりかわり	Change (Ex: Season)	
+夏至	げし	Summer Solstice	
+冬至	とうじ	Winter Solstice	
+節気	せっき	24 divisions of the solar year・24 terms used to denote the changing of the seasons	
+立秋	りっしゅう	First day of Autumn・First day of fall	
+終戦記念	しゅうせんきねん	Commemorating the end of the war	
+事象	じしょう	Phenomenon	
+記憶	きおく	Memory	
+大戦	たいせん	Great War	
+及ぼす	およぼす	To Exert (Influence)・To Exercise・To Cause	
+思惑	おもわく	Expectation・Anticipation・Prediction・Forecast	
+思惑	しわく	Perceptive Mental Disturbances	
+思惑違い	おもわくちがい	Disappointment	
+天皇陛下	てんのうへいか	His Majesty The Emperor	
+誤字	ごじ	Typo	
+誤訳	ごやく	Mistranslation	
+脱字	だつじ	Omitted Character・Omitted Letter	
+負荷	ふか	Load	
+流量	りゅうりょう	Flow Rate・Quantity of Flow	
+流量計	りゅうりょうけい	Current Meter (Electricity)	
+保持	ほじ	Retention・Maintenance・Preservation	
+容赦	ようしゃ	Pardon	
+特典	とくてん	Privilege・Special Favor・Benefit	
+縮退済	しゅくたいずみ	Degraded	
+付与	ふよ	Grant・Allowance・Endowment・Assignment	
+交える	まじえる	To Mix・To Combine・To Include	
+従来	じゅうらい	Up To Now・So Far	
+記法	きほう	Notation	
+分離	ぶんり	Separation・Partition・Detachment・Segragation・Isolation	
+救済	きゅうさい	Relief・Aid・Help・Rescue	
+後学	こうがく	Future Reference	
+検討案	けんとうあん	Proposal	
+局所	きょくしょ	Local・Part・Section・Private Parts	
+局所変数	きょくしょへんすう	Local Variables	
+認証局	にんしょうきょく	Certificate Authority	
+愛顧	あいこ	Patronage・Favour・Favor・Custom	
+大前提	だいぜんてい	Important Condition・Basic Premise・Basic Assumption	
+冗長	じょうちょう	Tediou・Verbose・Wordy・Lengthy・Longwinded	
+冒頭	ぼうとう	Beginning・Opening・Start・Outset	
+言及	げんきゅう	Reference・Allusion	
+互換	ごかん	Compatible	
+転記	てんき	Posting (of notes, notices, etc)・Transcription	
+利点	りてん	Advantage・Point in Favor・Point in Favour	
+間隔	かんかく	Space Interval・Space	
+追い立てる	おいたてる	To Drive On・To Urge Forward	
+上昇	じょうしょう	Rising・Ascending・Climbing	
+意欲	いよく	Will・Desire・Eagerness・Interest・Drive	
+乖離	かいり	Divergence・Alienation・Deviation・Estrangement	
+乖離率	かいりりつ	Deviation rate・rate of Divergence	
+都度	つど	Each (every) time・Whenever	
+受講	じゅこう	Attendance	
+探偵	たんてい	Detective・Investigator・Sleuth	
+魔物	まもの	Monster	
+委託	いたく	Entrusting (Something to a person)・Consignment	
+勤務	きんむ	Service・Duty・Work	
+所得税	しょとくぜい	Income Tax	
+続柄	つづきがら	Family (relationship)・Connection	
+前職	ぜんしょく	Former Job	
+支配	しはい	Control	
+回路	かいろ	Cycle	
+腕	うで	Arm	
+膝	ひざ	Knee	
+前傾	ぜんけい	Forward Inclination	
+矯正	きょうせい	Correction (of a fault・defect・flaw・etc)	
+刺激	しげき	Stimulus・Stimulation・Irritation	
+工夫	くふう	Devising・Contriving・Inventing・Figuring Out	
+同梱	どうこん	Include	
+別途	べっと	Seperately	
+固定	こてい	Fixing・Being Fixed	
+形態	けいたい	Form・Shape・Figure	
+共存	きょうぞん	Coexistence	
+採る	とる	To Adopt・To Decide On	
+方式	ほうしき	Form・Method	
+分離	ぶんり	Seperation・Partition	
+最悪	さいあく	Horrible・Worst	
+被害	ひがい	Suffering・Damage・Injury	
+考慮	こうりょ	Consideration・Taking into Account	
+電話帳	でんわちょう	Phonebook	
+配布	はいふ	Distribution	
+模様	もよう	Pattern・Figure・Design	
+割合	割合	Rate・Ratio・Percentage・Proportion	
+発令	はつれい	Official Announcement・Proclamation	
+推奨	すいしょう	Recommendation・Endorsement	
+概念	がいねん	Concept	
+常識	じょうしき	Common Sense・Good Sense	
+基づく	もとづく	To be based on・To be founded on・To be grounded on・To be in accoerdance with	
+品質保証	ひんしつほしょう	Quality Assurance・QA	
+実践	じっせん	Practice・Putting into Practice	
+実践的プログラマー	じっせんてきぷろぐらまー	Pragmatic Programmer	
+混同	こんどう	Confusion・Mixing・Merger	
+要求	ようきゅう	Demand・Firm Request・Requisition・Requirement・Desire	
+実現	じつげん	Implementation・Materialization・Realization	
+視点	してん	Point of View	
+役割	やくわり	Part・Assigning	
+認識	にんしき	Recognition・Awareness・Perception・Understanding・Knowledge	
+行動	こうどう	Action・Conduct・Behaviour	
+規格	きかく	Standard・Norm	
+様口調	ようくちょう	Tone of Voice	
+重なる	かさなる	Overlap	
+有効性	ゆうこうせい	Effectiveness	
+効率性	こうりつせい	Efficiency	
+満足性	まんぞくせい	Satisfaction	
+回避性	かいひせい	Freedom from Risk	
+利用状況網羅性	りようじょうきょうもうらせい	Context Coverage	
+備考	びこう	Notes	
+定義内容	ていぎないよう	Definitions	
+要求	ようきゅう	Request	
+遂行	すいこう	Carry Out	
+単位	たんい	Unit	
+縮退	しゅくたい	Degeneracy・Degeneration	
+喪失	そうしつ	Loss・Forfeit	
+引き起こす	ひきおこす	To Cause	
+異常	いじょう	Strangeness・Abmormality・Disorder	
+計算	けいさん	Calculation	
+観測	かんそく	Observation・Survey・Measurement	
+測定	そくてい	Measurement	
+指定	してい	Designation	
+理論的	りろんてき	Theoretical	
+相違	そうい	Difference・Discrepancy・Variation	
+一般的	いっぱんてき	General	
+欠陥	けっかん	Defect	
+不具合	ふぐあい	Defect	
+致命的	ちめいてき	Deadly	
+手戻り	てもどり	Backtracking	
+工程前後	こうていぜんご	Before and After Process	
+技術者	ぎじゅつしゃ	Engineer	
+確保	かくほ	Securing	
+多数	たすう	Many	
+困難	こんなん	Difficulty・Hardship・Trouble・Distress	
+漏れる	もれる	Leakage・Leak	
+軽減	けいげん	Mitigation	
+従来	じゅうらい	Up To Now・So Far	
+短期間	たんきかん	Short Term	
+比較的	ひかくてき	Relatively	
+方向性	ほうこうせい	Direction・Trend・Course	
+型	かた	Model・Type	
+感情	かんじょう	Emotions	
+把握	はあく	Grasp	
+利益計画	りえきけいかく	Profit Plan	
+定金額	ていきんがく	Fixed Ammount	
+後ほど	のちほど	Later	
+経費締め	けいひしめ	Closing Expenses	
+支援	しえん	Support	
+再販実績	さいはんじっせき	Resale Record	
+お馴染み	おなじみ	Familiar	
+文脈	ぶんみゃく	Context	
+運用面	うんようめん	Operational	
+引き継ぎ	ひきつぎ	Handover	
+直前	ちょくぜん	Just Before	
+請求書発行	せいきゅうしょはっこう	Invoicing	
+発信者	はっしんしゃ	Sender	
+あて先	あてさき	Address	
+返却	へんきゃく	Return	
+権限付与	けんげんふよ	Authorization	
+頂戴	ちょうだい	Receive	
+送別会	そうべつかい	Farewell Party	
+賛成	さんせい	Agreement	
+早速	さっそく	Right Away	
+得られる	えられる	Got	
+労働者代表	ろうどうしゃだいひょう	Worker Representative	
+返答	へんとう	Reply	
+程度	ていど	Degree	
+小数点	しょうすうてん	Decimal Point	
+権限	けんげん	Authority	
+引き継ごう	ひきつごう	Take Over	
+扱い	あつかい	Treatment・Service・Handle	
+沿う	そう	To Run Along	
+稼働実績	かどうじっせき	Operation Record	
+残時間	ざんじかん	Remaining Time	
+先程	さきほど	A Short While Ago	
+定形外	ていがたがい	Non-standard-size	
+詫びる	わびる	To Apologize	
+訂正	ていせい	Correction・Revision・Amendment	
+仮想	かそう	Virtual	
+起動	きどう	Startup・Booting Up・Activation	
+取得	しゅとく	Acquistion	
+用意	ようい	Preparation	
+割り当てる	わりあてる	To Assign	
+試行錯誤	しこうさくご	Trail and Error	
+積み重ねる	つみかさねる	Pile Up	
+本件	ほんけん	Case	
+設置	せっち	Installation	
+送信	そうしん	Send	
+記載	きさい	Description	
+見調査	みちょうさ	Uninvestigated	
+非ピーク	ひぴーく	Non-Peak	
+使用率	しようりつ	Utilization Rate	
+指定	してい	Specify	
+確保	かくほ	Securing	
+遺跡	いせき	Remains	
+受信	じゅしん	Receiving	
+動作	どうさ	Movement	
+応答	おうとう	Reply・Answer・Response	
+無効	むこう	Ivalid・Void・Ineffective・Unavailable	
+上位	じょうい	Superior・Top・Ranking	
+既に	すでに	Already	
+任意参加者	にんいさんかしゃ	Voluantary Participant	
+工数	こうすう	Man Hours	
+箇所	かしょ	Part	
+対処	たいしょ	Dealing with・Coping with	
+魅力	みりょく	Charm・Fascination	
+暗黙	あんもく	Tacit・Unspoken・Implicit	
+暗黙の了解	あんもくのりょうかい	Unspoken Agreement	
+明示	めいじ	Explicit	
+満たす	みたす	To Satisfy・To Fill	
+満たない	みたない	Less Than・Fraction Of・Below	
+機能適合性	きのうてきごうせい	Functional Suitability	
+性能効率性	せいのうこうりつせい	Performance Efficiency	
+互換性	ごかんせい	Compability	
+使用性	しようせい	Usability	
+信頼性	しんらいせい	Realiability	
+"<b><span style=""font-weight: 400;"">セキュリティ</span></b>"	<div><div>せきゅりてぃ</div></div>	Security	
+保守性	ほしゅせい	Maintainability	
+移植性	いしょくせい	Flexibility	
+試用	しよう	Trial・Experimental Use	
+送り返す	おくりかえす	To Send Back	
+体験	たいけん	Practical Experience	
+手動	しゅどう	Manual (Operation)	
+支障	ししょう	Obstacle・Hinderance・Impediment・Difficulty	
+宛	あて	Addressed To	
+死活	しかつ	Life and Death	
+併せる	あわせる	Combine	
+所属	しょぞく	Belonging To	
+勤怠	きんたい	Diligence and Indolence・Attendance and Absence	
+締まり	しまり	Closing	
+編成	へんせい	Composition・Formation・Organization	
+月額	げつがく	Monthly Amount	
+上限	じょうげん	Upper Limit	
+監視	かんし	Monitoring	
+自社	じしゃ	Own Company	
+留保	りゅうほ	Reservation	
+総じて	そうじて	In General・Generally	
+拠点	きょてん	Position	
+巡	じゅん	Patroll	
+記憶	きおく	Memory	
+客席訪問	きゃくせきほうもん	Audience Visit	
+微妙	びみょう	Subtle・Delicate	
+海水浴に行く	かいすいよくにいく	Go Swimming in the Ocean	
+日光浴をする	にっこうよくをする	Sunbath・Stay in The Sun	
+太陽の光を浴びる	たいようのひかりをあびる	Sunbathe・Stay in the Sun	
+シャワーを浴びる	しゃわーをあびる	Take a Shower	
+日焼けする	ひやけする	Get a Suntan	
+肌が真つ黒になる	はだがまつくろになる	Be Tammed (Almost) Black	
+真つ暗な部屋	まつくらなへや	A Pitch Dark Room	
+サングラスを外す	さんぐらすをはずす	Take Off One's Glass	
+ボタンを外す	ぼたんをはずす	Unbutton	
+サングラスのあとがついている	さんぐらすのあとがついている	Get a Tan Mark From One’s Sunglass	
+汗をかく	あせをかく	Sweat	
+海にもぐる	うみにもぐる	Dive into the Ocean	
+おぼれる	おぼれる	(Almost) drown<br>	
+ロープをつかむ	ろーぷをつかむ	Grab A Rope	
+魚が捕まえる	さかながつかまえる	Catch Fish	
+魚をつる	さかなをつる	Fish	
+魚が捕まる	さかながつかまる	Fish be Caught	
+棚をつる	たなをつる	Put up a Shelf	
+詐欺に引っかかる	さぎにひっかかる	Get Conned	
+魚を引っかける	さかなをひっかける	Catch fish with a hook	
+ボートをこぐ	ぼーとをこぐ	Row a Boat	
+ボートをひっくり返る	ぼーとをひっくりかえる	A Boat is ripped over<br>	
+ボートの行方	ぼーとのゆくえ	The Whereabout of Boats	
+自転車をこぐ	じてんしゃをこぐ	Pedal a Bicycle	
+ボートをひっくり返す	ぼーとをひっくりかえす	Overturn a Boat	
+ボートの行方不明	ぼーとのゆくえふめい	Whereabouts of the Boat is being missing	
+船が岸に近づける	ふねがきしにちづける	Take a Boat into the Shore	
+サメが近づく	さめがちかづく	A Shark Comes Close	
+サメが近寄る	さめがちかよる	A Shark Come Close	
+あちこちへ行く	あちこちへいく	Go All Over The Place	
+あちこちらへいく	あちこちらへいく	Go All Over the Place	
+うまそうなさえ	うまそうなさえ	Tempting Bait	
+おいしそうなさえ	おいしそうなさえ	Tempting Bait	
+集計	しゅうけい	Aggregation	
+購入済み	こうにゅうずみ	Purchased	
+徹底	てってい	Thoroughness	
+収支	しゅうし	Balance of Payments	
+格納	かくのう	Store	
+節々	ふしぶし	Joints	
+解析	かいせき	Analysis	
+行間	ぎょうかん	Line Spacing	
+優しい	やさしい	Tender・Kind・Gentle	
+警戒	けいかい	Vigilence	
+逆引き	ぎゃくびき	Reverse Lookup	
+解決策	かいけつさく	Solution Strategy	
+該当	がいとう	Corresponding To	
+回避策	かいひさく	Workaround	
+型式	かたしき	Model	
+範囲	はんい	Range	
+基盤ブランチ	きばんぶらんち	Base Branch	
+差異	さい	Difference・Disparity・Gap	
+概算	がいさん	Approximation・Rough Estimation	
+扱う	あつかう	To Deal with (A Person)・To Deal with (A Problem)	
+承る	うけたまわる	To Hear・To Be Told・To Know	
+挙動	きょどう	Conduct・Behavior・Behaviour	
+経緯	けいい	Details・Particulars・Sequence of Events	
+費用	ひよう	Pay	
+催促	さいそく	Pressing・Urging・Demanding	
+踏み台	踏み台	Stepping Stone	
+走らせる	はしらせる	To Run (Computer Program)・	
+廃止	はいし	Abolition・Discontinuance	
+秘密鍵	ひみつかぎ	Private Key (Cryptography)	
+秘密鍵暗号	ひみつかぎあんごう	Secret Key Cryptography	
+秘密鍵暗号方式	ひみつかぎあんごうほうしき	Secret Key Cryptosystem	
+注意喚起	ちゅういかんき	Call for Attention・Alert・Heads-up・Reminder	
+立てる	立てる	To Put Up・To Set Up・To Stand Up	
+滞在	たいざい	Stay	
+太字	ふとじ	Bold	
+滞在歴	たいざいれき	History of Having Stayed Somewhere	
+滞在国	たいざいこく	Country One is Staying in	
+滞在地	たいざいち	Place Where One Resides or is Staying	
+適任者	てきにんしゃ	Suitable Person	
+出願	しゅつがん	Application・Filling an Application	
+怠る	おこたる	To neglect・To be negligent・To be neglectful of・To fail to do	
+受験料	じゅけんりょう	Exam Fee	
+整頓	せいとん	Orderliness	
+厳しい	きびしい	Severe・Strict・Rigid・Unsparing・Relentless	
+貧乏	びんぼう	Poverty-Stricken・Destitute・Poor	
+推察	すいさつ	Guess・Conjecture・Surmise	
+重なる	かさなる	Overlap	
+領域	りょういき	Region	
+棚卸	たなおろし	Inventory Count	
+消失	しょうしつ	Disappearance	
+駄菓子	だがし	Cheap Sweats	
+ヘトヘト	へとへと	Completely Exhausted・Tired	
+費用別	ひようべつ	By Expense	
+奇跡	きせき	Miracle	
+捧げる	ささげる	Dedicate	
+舞	まい	Dancing	
+艶やかな	つややかな	Glossy・Sleek・Shiny・Lustrous	
+唇	くちびる	Lip・Lips	
+ボロボロ	ぼろぼろ	Worn Out	
