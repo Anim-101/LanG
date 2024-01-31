@@ -1,0 +1,3532 @@
+#separator:tab
+#html:true
+"整数
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せいすう
+
+<div style='font-family: Arial; font-size: 20px;'>Integer</div>"
+"チラシ・びら
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちらし
+
+<div style='font-family: Arial; font-size: 20px;'>Leaflet</div>"
+"徒歩5分
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"とほごふん
+
+<div style='font-family: Arial; font-size: 20px;'>A Five Minute Walk</div>"
+"賃貸アパート
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちんたいあぱーと
+
+<div style='font-family: Arial; font-size: 20px;'>A Rental Apartment</div>"
+"家賃
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やちん
+
+<div style='font-family: Arial; font-size: 20px;'>Monthly Rent</div>"
+"管理費
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かんりひ
+
+<div style='font-family: Arial; font-size: 20px;'>Caretaker Fee</div>"
+"無料・ただ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"むりょう・ただ
+
+<div style='font-family: Arial; font-size: 20px;'>No Charge</div>"
+"三階建て
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さんかいだて
+
+<div style='font-family: Arial; font-size: 20px;'>A Three Story Building</div>"
+"南向き
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みなみむき
+
+<div style='font-family: Arial; font-size: 20px;'>Facing The South</div>"
+"築10年
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちく10ねん
+
+<div style='font-family: Arial; font-size: 20px;'>Being Built 10 Years Ago</div>"
+"自転車置き場
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じてんしゃおきば
+
+<div style='font-family: Arial; font-size: 20px;'>A Bicycle Parking Lot</div>"
+"マンション =&gt; 少し高級な感じがある集合住宅。分譲と賃貸がある。
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まんしょん =&gt; すこしこうきゅうなかんじがあるしゅうごうじたく。ぶんじょうとちんたいがある。
+
+<div style='font-family: Arial; font-size: 20px;'>Mansion =&gt; Rather high-class apartment. May be available for rental or purchase.</div>"
+"敷金
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しききん=&gt;家は部屋を借りる時に家主に預けておく保証金
+
+<div style='font-family: Arial; font-size: 20px;'>Key money deposited with the owner as a guarantee when the contract is first taken out.</div>"
+"礼金
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"れいきん=&gt;家や部屋を借りる時に家主に払う一時金。ない場合もある。
+
+<div style='font-family: Arial; font-size: 20px;'>One time payment to the owner when we rent an apartment or house. In some cases this payment isn’t required.</div>"
+"1 LDK
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"L: リビング(居間)、D: ダイニング(食事の出来る場所)、K: キッチン(台所)、数字: LDK以外の部屋の数を表す。
+
+<div style='font-family: Arial; font-size: 20px;'>L: Living, D: Dining, K: Kitchen, Number: Number of Rooms</div>"
+"広々としている
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"Spacious
+
+<div style='font-family: Arial; font-size: 20px;'>ひろびろとしている</div>"
+"ナカメがいい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なかめがいい
+
+<div style='font-family: Arial; font-size: 20px;'>Have a Good View</div>"
+"日当たりがいい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひあたりがいい
+
+<div style='font-family: Arial; font-size: 20px;'>Gets a Lot of Sunlight</div>"
+"人通りが多い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひとどおりがおおい
+
+<div style='font-family: Arial; font-size: 20px;'>There are lots of Pedestrians</div>"
+"一軒家・一戸建て
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いっけんや・いっこだて
+
+<div style='font-family: Arial; font-size: 20px;'>A Detached House</div>"
+"物干し
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ものほし
+
+<div style='font-family: Arial; font-size: 20px;'>A Clothesline</div>"
+"風呂場
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふろば
+
+<div style='font-family: Arial; font-size: 20px;'>A Bathroom</div>"
+"洗面所
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せんめんじょ
+
+<div style='font-family: Arial; font-size: 20px;'>A Washroom</div>"
+"一人暮らし
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひとりぐらし
+
+<div style='font-family: Arial; font-size: 20px;'>Live Alone</div>"
+"一人住まい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひとりすまい
+
+<div style='font-family: Arial; font-size: 20px;'>Living Alone</div>"
+"近所付き合い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きんじょつきあい
+
+<div style='font-family: Arial; font-size: 20px;'>Relation with Neighbor</div>"
+"彼と付き合う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かれとつきあう
+
+<div style='font-family: Arial; font-size: 20px;'>Go out with a Man</div>"
+"友達と付き合う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ともだちとつきあう
+
+<div style='font-family: Arial; font-size: 20px;'>Go along with Friends</div>"
+"引越しの荷造りをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひっこしのにづくりをする
+
+<div style='font-family: Arial; font-size: 20px;'>Pick up to Move</div>"
+"回覧板を回す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいらんばんをまわす
+
+<div style='font-family: Arial; font-size: 20px;'>Send a Bulletin around to Neighbors</div>"
+"この辺り
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"このあたり
+
+<div style='font-family: Arial; font-size: 20px;'>This Neighberhood・Vicinity</div>"
+"この付近
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"このふきん
+
+<div style='font-family: Arial; font-size: 20px;'>The Neighborhood・Vicinity</div>"
+"真ん前
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まんまえ
+
+<div style='font-family: Arial; font-size: 20px;'>The Very Font Of</div>"
+"真後ろ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まうしろ
+
+<div style='font-family: Arial; font-size: 20px;'>The Very Back Of</div>"
+"真ん中
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まんなか
+
+<div style='font-family: Arial; font-size: 20px;'>The Very Middle Of</div>"
+"斜の前
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ななのなめ
+
+<div style='font-family: Arial; font-size: 20px;'>Catecorner to the Right (Left)</div>"
+"買い替える
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいかえる
+
+<div style='font-family: Arial; font-size: 20px;'>Buy a New One for the Old One</div>"
+"家電製品
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かでんせいひん
+
+<div style='font-family: Arial; font-size: 20px;'>Electronic Appliances</div>"
+"省エネ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょうえね
+
+<div style='font-family: Arial; font-size: 20px;'>Energy Conservation</div>"
+"電気代を節約する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"でんきだいをせつやくする
+
+<div style='font-family: Arial; font-size: 20px;'>Reduce The Electricity Bill</div>"
+"ゴミが溜まる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ごみがたまる
+
+<div style='font-family: Arial; font-size: 20px;'>Garbage Accumulates</div>"
+"リサイクルに出す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"りさいくるにだす
+
+<div style='font-family: Arial; font-size: 20px;'>Put Out for Recycling<br></div>"
+"不用品を処分する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふようひんをしょぶんする
+
+<div style='font-family: Arial; font-size: 20px;'>Get Rid of Clutter</div>"
+"ゴミを分別する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ごみをぶんべつする
+
+<div style='font-family: Arial; font-size: 20px;'>Seperate Garbage</div>"
+"燃やせるゴミ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もやせるごみ
+
+<div style='font-family: Arial; font-size: 20px;'>Burnable Garbage</div>"
+"可燃ゴミ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かねんごみ
+
+<div style='font-family: Arial; font-size: 20px;'>Burnagle Garbage</div>"
+"燃えないゴミ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もえないごみ
+
+<div style='font-family: Arial; font-size: 20px;'>Unburnable Garbage</div>"
+"燃やせないゴミ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もやせないごみ
+
+<div style='font-family: Arial; font-size: 20px;'>Unburnable Garbage</div>"
+"生ゴミ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なまごみ
+
+<div style='font-family: Arial; font-size: 20px;'>Kitchen Garbage</div>"
+"粗大ゴミ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"そだいごみ
+
+<div style='font-family: Arial; font-size: 20px;'>Large Size Garbage</div>"
+"資源ゴミ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しげんごみ
+
+<div style='font-family: Arial; font-size: 20px;'>Recycle Garbage</div>"
+"指定のゴミ袋
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"していのごみぶくろ
+
+<div style='font-family: Arial; font-size: 20px;'>Garbage Bag Specified by the City Government</div>"
+"ペットボトルをすすぐ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぺっとぼとるをすすぐ
+
+<div style='font-family: Arial; font-size: 20px;'>Rinse a Pet Bottle</div>"
+"ラベルをはがす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"らべるをはがす
+
+<div style='font-family: Arial; font-size: 20px;'>Peel the Label Off</div>"
+"ツールを貼る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"つーるをはる
+
+<div style='font-family: Arial; font-size: 20px;'>Put a Sticker On</div>"
+"アルミ缶をつぶす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あるみかんをつぶす
+
+<div style='font-family: Arial; font-size: 20px;'>Crush The Almunium Can</div>"
+"古新聞を再利用する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふるしんぶんをさいりようする
+
+<div style='font-family: Arial; font-size: 20px;'>Reuse the Old Newspaper</div>"
+"水がもれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みずがもれる
+
+<div style='font-family: Arial; font-size: 20px;'>Water Leaks</div>"
+"水をもらす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みずをもらす
+
+<div style='font-family: Arial; font-size: 20px;'>Let Water Leak</div>"
+"秘密がもれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひみつがもれる
+
+<div style='font-family: Arial; font-size: 20px;'>A Secret Leaks Out</div>"
+"秘密をもらす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひみつをもらす
+
+<div style='font-family: Arial; font-size: 20px;'>Leak a Secret</div>"
+"こぼれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こぼれる
+
+<div style='font-family: Arial; font-size: 20px;'>Spill Out</div>"
+"段ボール箱
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"だんぼーるばこ
+
+<div style='font-family: Arial; font-size: 20px;'>A Cardboard Box</div>"
+"ガムテープ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"がむてーぷ
+
+<div style='font-family: Arial; font-size: 20px;'>A Parcel Tape</div>"
+"肉などのトレイ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にくなどのとれい
+
+<div style='font-family: Arial; font-size: 20px;'>A Styrofoam Tray</div>"
+"ポリ袋
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぷりぶくろ
+
+<div style='font-family: Arial; font-size: 20px;'>A Plastic Bag</div>"
+"キャプ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きゃっぷ
+
+<div style='font-family: Arial; font-size: 20px;'>A Bottle Top</div>"
+"良くいらっしゃいました
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"よくいらっしゃいました
+
+<div style='font-family: Arial; font-size: 20px;'>Welcome! Please Come In</div>"
+"どうぞお上がり下さい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうぞおがりください
+
+<div style='font-family: Arial; font-size: 20px;'>Welcome! Please Come In</div>"
+"お邪魔します
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おじゃまします
+
+<div style='font-family: Arial; font-size: 20px;'>Thank You</div>"
+"ご無沙汰しています
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ごぶさたしています
+
+<div style='font-family: Arial; font-size: 20px;'>It has been a long time since we saw each other. How have you been?</div>"
+"お元気でいらっしゃいましたか?
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おげんきでいらっしゃいましたか
+
+<div style='font-family: Arial; font-size: 20px;'>It has been a long time since we saw each other. How have you been?</div>"
+"ええ、おかげさまで
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ええ、おかげさまで
+
+<div style='font-family: Arial; font-size: 20px;'>Quite Well、Thank You</div>"
+"つまらないものですが
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"つまらないものですが
+
+<div style='font-family: Arial; font-size: 20px;'>I have something to give to you. I hope you will like it.</div>"
+"有り難う御座います
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ありがとうございます
+
+<div style='font-family: Arial; font-size: 20px;'>Thank you very much</div>"
+"遠慮なき頂きます
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"えんりょなくいただきます
+
+<div style='font-family: Arial; font-size: 20px;'>Thank you very much. It is very kind of you.</div>"
+"お茶を持ちします
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おちゃをもちします
+
+<div style='font-family: Arial; font-size: 20px;'>I will bring you a cup of tea</div>"
+"どうぞおかまいなく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうぞおかまいなく
+
+<div style='font-family: Arial; font-size: 20px;'>Please Don’t Worry</div>"
+"ゆっくりしていってください
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ゆっくりしていってください
+
+<div style='font-family: Arial; font-size: 20px;'>Please Stay as Long as You Can</div>"
+"ごゆうくりお召し上がりください
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ごゆっくりおめしあがりください
+
+<div style='font-family: Arial; font-size: 20px;'>Please Enjoy</div>"
+"友人を家に招く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ゆうじんをいえにまねく
+
+<div style='font-family: Arial; font-size: 20px;'>Invite Friends to One's House</div>"
+"友人家に招待する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ゆうじんいえにしょうたいする
+
+<div style='font-family: Arial; font-size: 20px;'>Invite Friends to One's Home</div>"
+"座る心地がいいソファー
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"すわるここちがいいソファー
+
+<div style='font-family: Arial; font-size: 20px;'>A Comfortable Sofa</div>"
+"寝心地がいいベッド
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねごこちがいいべっと
+
+<div style='font-family: Arial; font-size: 20px;'>A Comfortable Bed</div>"
+"居心地が良い家
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いごこちがよいいえ
+
+<div style='font-family: Arial; font-size: 20px;'>AComfortable House</div>"
+"家で過ごす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いえですごす
+
+<div style='font-family: Arial; font-size: 20px;'>Stay Home</div>"
+"ゆっくりする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ゆっくりする
+
+<div style='font-family: Arial; font-size: 20px;'>Have a Leisurely Time</div>"
+"のんびりする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"のんびりする
+
+<div style='font-family: Arial; font-size: 20px;'>Relax</div>"
+"くつろぐ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"くつろぐ
+
+<div style='font-family: Arial; font-size: 20px;'>Relax、Make Onself at Home</div>"
+"快適に暮らす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいてきにくらす
+
+<div style='font-family: Arial; font-size: 20px;'>Have a Comfortable Life</div>"
+"半額セール
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はんがくせーる
+
+<div style='font-family: Arial; font-size: 20px;'>A Half Price Sale</div>"
+"手ごろな価格
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"てごろなかかく
+
+<div style='font-family: Arial; font-size: 20px;'>An Affordable Price</div>"
+"家事をする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かじをする
+
+<div style='font-family: Arial; font-size: 20px;'>Do Housework</div>"
+"炊事
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"すいじ
+
+<div style='font-family: Arial; font-size: 20px;'>Cooking</div>"
+"食卓を片付ける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょくたくをかたづける
+
+<div style='font-family: Arial; font-size: 20px;'>Clear the Table</div>"
+"汚れた食器
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"よごれたしょっき
+
+<div style='font-family: Arial; font-size: 20px;'>Dirty Dishesh</div>"
+"洗い物を流しに持って行く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あらいものをながしにもっていく
+
+<div style='font-family: Arial; font-size: 20px;'>Take the Dirty Dishes to the sink</div>"
+"子育てをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こそだてをする
+
+<div style='font-family: Arial; font-size: 20px;'>Raise A Child</div>"
+"子供をかわいがる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こどもをかわいがる
+
+<div style='font-family: Arial; font-size: 20px;'>Love One’s Children</div>"
+"子供を甘やかす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こどもをあまやかす
+
+<div style='font-family: Arial; font-size: 20px;'>Spoil One’s Child</div>"
+"子供が甘える
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こどもがあまえる
+
+<div style='font-family: Arial; font-size: 20px;'>A Child Wants More Attention</div>"
+"子供をしつける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こどもをしつける
+
+<div style='font-family: Arial; font-size: 20px;'>Teach Manners to Child</div>"
+"しつけ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しつけ
+
+<div style='font-family: Arial; font-size: 20px;'>Discipline・Teaching Manners</div>"
+"お尻をたたく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おしりをたたく
+
+<div style='font-family: Arial; font-size: 20px;'>Spank</div>"
+"怒鳴る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どなる
+
+<div style='font-family: Arial; font-size: 20px;'>Yell</div>"
+"この話はよそう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"このはなしはよそう
+
+<div style='font-family: Arial; font-size: 20px;'>Let’s Stop Talking About It</div>"
+"よしなさい・よせ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"よしなさい・よせ
+
+<div style='font-family: Arial; font-size: 20px;'>Stop It</div>"
+"妊娠する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にんしんする
+
+<div style='font-family: Arial; font-size: 20px;'>Get Pregnant</div>"
+"子供を生む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こどもをうむ
+
+<div style='font-family: Arial; font-size: 20px;'>Give Birth To a Baby</div>"
+"生まれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うまれる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Born</div>"
+"赤ちゃんをおんぶする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あかちゃんをおんぶする
+
+<div style='font-family: Arial; font-size: 20px;'>Carry a baby on one's back</div>"
+"赤ちゃんをおぶう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あかちゃんをおぶう
+
+<div style='font-family: Arial; font-size: 20px;'>Carry a Baby on One’s Back</div>"
+"だっこする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"だっこする
+
+<div style='font-family: Arial; font-size: 20px;'>Pick the baby・Pet up</div>"
+"腕に抱く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うでにだく
+
+<div style='font-family: Arial; font-size: 20px;'>Pick The Baby・Pet Up</div>"
+"紙おむつ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かみおむつ
+
+<div style='font-family: Arial; font-size: 20px;'>Disposable Diaper</div>"
+"やんちゃな子供
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やんちゃなこども
+
+<div style='font-family: Arial; font-size: 20px;'>A Mischievous Child</div>"
+"落書きをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"らくがきする
+
+<div style='font-family: Arial; font-size: 20px;'>Scribble</div>"
+"暴れる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あばれる
+
+<div style='font-family: Arial; font-size: 20px;'>Get Out Of Control</div>"
+"頭をぶつ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あたまをぶつ
+
+<div style='font-family: Arial; font-size: 20px;'>Bump One’s Head On</div>"
+"顔をなぐる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かおをなぐる
+
+<div style='font-family: Arial; font-size: 20px;'>Punch Someone in the Face</div>"
+"足でける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あしでける
+
+<div style='font-family: Arial; font-size: 20px;'>Kick</div>"
+"猫の耳を引っ張る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねこのみみをひっぱる
+
+<div style='font-family: Arial; font-size: 20px;'>Pull Cat’s Ear</div>"
+"動物をいじめる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうぶつをいじめる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Cruel to an Annual</div>"
+"さわぐ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さわぐ
+
+<div style='font-family: Arial; font-size: 20px;'>Make a Noise</div>"
+"さわがしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さわがしい
+
+<div style='font-family: Arial; font-size: 20px;'>Be Noisy</div>"
+"そうぞうしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"そうぞうしい
+
+<div style='font-family: Arial; font-size: 20px;'>Be Noisy・Rip Roaring</div>"
+"やかましい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やかましい
+
+<div style='font-family: Arial; font-size: 20px;'>Be Noisy・Fault Finding・Vexing</div>"
+"にぎやかな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にぎやかな
+
+<div style='font-family: Arial; font-size: 20px;'>Be Lively</div>"
+"銀行でお金を下ろす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぎんこうでおかねをおろす
+
+<div style='font-family: Arial; font-size: 20px;'>Withdraw Some Money from One's Bank</div>"
+"銀行でお金を引き出す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぎんこうでおかねをひきだす
+
+<div style='font-family: Arial; font-size: 20px;'>Withdraw Some Money from One’s Bank</div>"
+"銀行でお金を預ける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぎんこうでおかねをあずける
+
+<div style='font-family: Arial; font-size: 20px;'>Put Money in a Bank Account</div>"
+"銀行口座
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぎんこうこうざ
+
+<div style='font-family: Arial; font-size: 20px;'>Bank Account</div>"
+"自動で引き落とされる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じどうでひきおとされる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Paid byAutomatic Bank Transfer</div>"
+"授業料を払い込む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じどうりょうをはらいこむ
+
+<div style='font-family: Arial; font-size: 20px;'>Pay Tuition Fees with a Bank Transfer</div>"
+"家賃を振り込む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やちんをふりこむ
+
+<div style='font-family: Arial; font-size: 20px;'>Transfer a Monthly Rent</div>"
+"振り込み
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふりこみ
+
+<div style='font-family: Arial; font-size: 20px;'>Bank Transfer</div>"
+"公共料金を支払い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こうきょうりょうきんをしはらい
+
+<div style='font-family: Arial; font-size: 20px;'>Pay The Public Utility Charges</div>"
+"支払い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しはらい
+
+<div style='font-family: Arial; font-size: 20px;'>Payment</div>"
+"電気代
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"でんきだい
+
+<div style='font-family: Arial; font-size: 20px;'>Electricity Bills</div>"
+"ガス代
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"がすだい
+
+<div style='font-family: Arial; font-size: 20px;'>Gas Bill</div>"
+"水道代
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"すいどうだい
+
+<div style='font-family: Arial; font-size: 20px;'>Water Bills</div>"
+"電話代
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"でんわだい
+
+<div style='font-family: Arial; font-size: 20px;'>Telephone Bills</div>"
+"手数料がかかる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"てすうりょうがかかる
+
+<div style='font-family: Arial; font-size: 20px;'>A Charge is Levied</div>"
+"収入
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しゅうにゅう
+
+<div style='font-family: Arial; font-size: 20px;'>Income・Revenue</div>"
+"支出
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ししゅつ
+
+<div style='font-family: Arial; font-size: 20px;'>Expenditure</div>"
+"黒字
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"くろじ
+
+<div style='font-family: Arial; font-size: 20px;'>Surplus・The Black</div>"
+"赤字
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あかじ
+
+<div style='font-family: Arial; font-size: 20px;'>Deficit・The Red</div>"
+"外食する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"がいしょくする
+
+<div style='font-family: Arial; font-size: 20px;'>Eat Out</div>"
+"自炊する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じすいする
+
+<div style='font-family: Arial; font-size: 20px;'>Cook One’s Own Meals</div>"
+"高くつく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たかくつく
+
+<div style='font-family: Arial; font-size: 20px;'>Be Costly</div>"
+"栄養がかたよる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"えいようがかたよる
+
+<div style='font-family: Arial; font-size: 20px;'>One’s Diet Becomes Unbalanced</div>"
+"バランスが取れた食事
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ばらんすがとれたしょくじ
+
+<div style='font-family: Arial; font-size: 20px;'>A Balanced Meal</div>"
+"生活費が不足する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せいかつひがふそくする
+
+<div style='font-family: Arial; font-size: 20px;'>Run Out of Spending Money</div>"
+"食費を節約する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょくひをせつやくする
+
+<div style='font-family: Arial; font-size: 20px;'>Economize on Food Expenses</div>"
+"旅行するを余裕がない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"りょこうするをよゆうがない
+
+<div style='font-family: Arial; font-size: 20px;'>Have No Extra Money for Travelling</div>"
+"収入につりあう生活
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しゅうにゅうにつりあうせいかつ
+
+<div style='font-family: Arial; font-size: 20px;'>Affordable Lifestyle</div>"
+"むだを省く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"むたをはぶく
+
+<div style='font-family: Arial; font-size: 20px;'>Eliminate Waste</div>"
+"むだづかいをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"むだづかいをする
+
+<div style='font-family: Arial; font-size: 20px;'>Waste Money</div>"
+"ぜいたくをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぜいたくをする
+
+<div style='font-family: Arial; font-size: 20px;'>Splurge</div>"
+"老人ホームのホームヘルパー
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ろうじんほーむのほーむへるパー
+
+<div style='font-family: Arial; font-size: 20px;'>A Helper in the Nursing Home</div>"
+"語学学校の講師
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ごがくがっこうのこうし
+
+<div style='font-family: Arial; font-size: 20px;'>A Language School Teacher</div>"
+"会社の事務員
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいしゃのじむいん
+
+<div style='font-family: Arial; font-size: 20px;'>A Clerk</div>"
+"コンピューター関係の仕事
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こんぴゅーたーかんけいのしごと
+
+<div style='font-family: Arial; font-size: 20px;'>ITRelated JOB</div>"
+"レストランのオーナー
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"れすとらんのおーなー
+
+<div style='font-family: Arial; font-size: 20px;'>A Resturant Owner</div>"
+"ホテルの従業員
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ほてるのじゅうぎょういん
+
+<div style='font-family: Arial; font-size: 20px;'>A Hotel Worker</div>"
+"フリーター
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふりーたー
+
+<div style='font-family: Arial; font-size: 20px;'>A General Name of People Who Live on Part-Time Jobs</div>"
+"就職する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しゅうしょくする
+
+<div style='font-family: Arial; font-size: 20px;'>Get a Job</div>"
+"就職活動
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しゅうしょくかつどう
+
+<div style='font-family: Arial; font-size: 20px;'>Job Hunting</div>"
+"求人情報
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きゅうじんじょうほう
+
+<div style='font-family: Arial; font-size: 20px;'>Job Information</div>"
+"履歴書を書く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"りれきしょをかく
+
+<div style='font-family: Arial; font-size: 20px;'>Prepare a Resume</div>"
+"年齢制限がある
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねんれいせいげんがある
+
+<div style='font-family: Arial; font-size: 20px;'>Has an age Limit</div>"
+"経験を問わない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"けいけんをとわない
+
+<div style='font-family: Arial; font-size: 20px;'>No Previous Experience are Required</div>"
+"採用する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さいようする
+
+<div style='font-family: Arial; font-size: 20px;'>Employ</div>"
+"人手が不足している
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひとでがふそくしている
+
+<div style='font-family: Arial; font-size: 20px;'>Lack of Manpower</div>"
+"正社員を募集する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せいしゃいんをぼしゅうする
+
+<div style='font-family: Arial; font-size: 20px;'>Advertise a Permanent Position</div>"
+"派遣社員に登録する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はけんしゃいんにとうろくする
+
+<div style='font-family: Arial; font-size: 20px;'>Register as an Agency Map</div>"
+"会社に問い合わせる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいしゃにといあわせる
+
+<div style='font-family: Arial; font-size: 20px;'>Ask the Company About</div>"
+"気軽にたずねる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きがるにたずねる
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Free To Ask Questions</div>"
+"面接で緊張する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"めんせつできんちょうする
+
+<div style='font-family: Arial; font-size: 20px;'>Get Nervous at a Job Interview</div>"
+"面接にふさわしい服装
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"めんせつにふさわしいふくそう
+
+<div style='font-family: Arial; font-size: 20px;'>Proper Outfit for a Job Interview</div>"
+"８時間勤務
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はちじかんきんむ
+
+<div style='font-family: Arial; font-size: 20px;'>Working an 8-hour Day, an 8 hour shift</div>"
+"時給で働く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じきゅうではたらく
+
+<div style='font-family: Arial; font-size: 20px;'>Work for an hourly Wage</div>"
+"交通費が支給される
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こうつうひがしきゅうされる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Reimbursed for one's transportation Costs</div>"
+"お金をかせぐ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おかねをかせぐ
+
+<div style='font-family: Arial; font-size: 20px;'>Work for One’s Living、Make Money</div>"
+"お金をもうける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おかねをもうける
+
+<div style='font-family: Arial; font-size: 20px;'>Make a Profit・Make a Good Bargain</div>"
+"店がもうかる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みせがもうがる
+
+<div style='font-family: Arial; font-size: 20px;'>The Store Makes a Lot of Profit</div>"
+"上司
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じょうし
+
+<div style='font-family: Arial; font-size: 20px;'>Boss</div>"
+"部下
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぶか
+
+<div style='font-family: Arial; font-size: 20px;'>Subordinate</div>"
+"先輩
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せんぱい
+
+<div style='font-family: Arial; font-size: 20px;'>One’s Senior</div>"
+"同僚
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうりょう
+
+<div style='font-family: Arial; font-size: 20px;'>Colleague</div>"
+"仕事の仲間
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しごとのなかま
+
+<div style='font-family: Arial; font-size: 20px;'>Colleauge</div>"
+"大企業に就職する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"だいきぎょうにしゅうしょくする
+
+<div style='font-family: Arial; font-size: 20px;'>Get a Job in a Big Company</div>"
+"4月に入社する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"4がつににゅうしゃする
+
+<div style='font-family: Arial; font-size: 20px;'>Join a Company in April</div>"
+"我が社の女子社員
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わがしゃのじょししゃいん
+
+<div style='font-family: Arial; font-size: 20px;'>Female Staff in our Company</div>"
+"新入社員
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しんにゅうしゃいん
+
+<div style='font-family: Arial; font-size: 20px;'>A New Employee</div>"
+"先輩に教わる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せんぱいにおそわる
+
+<div style='font-family: Arial; font-size: 20px;'>Learn from the more Experienced Memebers of the Staff</div>"
+"先輩を見習う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せんぱいをみならう
+
+<div style='font-family: Arial; font-size: 20px;'>Follow the Example of the More Experienced Staff</div>"
+"早退する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"そうたいする
+
+<div style='font-family: Arial; font-size: 20px;'>Go Home Early</div>"
+"遅刻する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちこくする
+
+<div style='font-family: Arial; font-size: 20px;'>Be Late</div>"
+"休憩する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きゅうけいする
+
+<div style='font-family: Arial; font-size: 20px;'>Take a Break</div>"
+"休みを取る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やすみをとる
+
+<div style='font-family: Arial; font-size: 20px;'>Take a Holiday</div>"
+"休暇を取る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きゅうかをとる
+
+<div style='font-family: Arial; font-size: 20px;'>Take a Holiday</div>"
+"有給休暇
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ゆうきゅうきゅうか
+
+<div style='font-family: Arial; font-size: 20px;'>Paid Leave</div>"
+"席を外す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せきをはずす
+
+<div style='font-family: Arial; font-size: 20px;'>Leave One’s Desk</div>"
+"やりがいのある仕事
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やりがいのあるしごと
+
+<div style='font-family: Arial; font-size: 20px;'>A Challenging Job</div>"
+"仕事が生きがいだ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しごとがいきがいだ
+
+<div style='font-family: Arial; font-size: 20px;'>I Live for My Work</div>"
+"休み間がない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やすみまがない
+
+<div style='font-family: Arial; font-size: 20px;'>Never Have Time to Rest</div>"
+"体がもたない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"からだがもたない
+
+<div style='font-family: Arial; font-size: 20px;'>Can't Keep This Pace Up</div>"
+"やる気がない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やるきがない
+
+<div style='font-family: Arial; font-size: 20px;'>Have no Motivation / Drive</div>"
+"やる気が出ない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やるきがでない
+
+<div style='font-family: Arial; font-size: 20px;'>Not Get Motivated</div>"
+"具合が悪いふりをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぐあいがわるいふりをする
+
+<div style='font-family: Arial; font-size: 20px;'>Pretent to Feel Sick</div>"
+"仕事を怠ける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しごとをなまける
+
+<div style='font-family: Arial; font-size: 20px;'>Neglect One's Work</div>"
+"怠け者
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なまけもの
+
+<div style='font-family: Arial; font-size: 20px;'>A Lazy Person</div>"
+"仕事をサボる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しごとをさぼる
+
+<div style='font-family: Arial; font-size: 20px;'>Neglect One's Work</div>"
+"働き者
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はたらきもの
+
+<div style='font-family: Arial; font-size: 20px;'>A Hardworking Person</div>"
+"仕事でミスをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しごとでみすをする
+
+<div style='font-family: Arial; font-size: 20px;'>Make a Mistake at Work</div>"
+"遅刻の言い訳をする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちこくのいいわけをする
+
+<div style='font-family: Arial; font-size: 20px;'>Make Excuse for Being Late</div>"
+"上司にコマをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じょうしにごまをする
+
+<div style='font-family: Arial; font-size: 20px;'>Butter Up With Boss</div>"
+"おせじをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おせじをする
+
+<div style='font-family: Arial; font-size: 20px;'>Flutter Someone</div>"
+"超忙しい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちょういそがしい
+
+<div style='font-family: Arial; font-size: 20px;'>Extremely Busy</div>"
+"会議が長引く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいぎがながびく
+
+<div style='font-family: Arial; font-size: 20px;'>The Meeting is Prolonged</div>"
+"会議の準備をする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいぎのじゅんびをする
+
+<div style='font-family: Arial; font-size: 20px;'>Prepare for the Meeting</div>"
+"ミーティングの準備をする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みーてぃングのじゅんびをする
+
+<div style='font-family: Arial; font-size: 20px;'>Prepare for the Meeting</div>"
+"意見を述べる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いけんをのべる
+
+<div style='font-family: Arial; font-size: 20px;'>Opinion Express</div>"
+"意見をまとめる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いけんをまとめる
+
+<div style='font-family: Arial; font-size: 20px;'>Opinion Summarize</div>"
+"意見を求める
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いけんをもとめる
+
+<div style='font-family: Arial; font-size: 20px;'>Opinion Ask For</div>"
+"具体的な案をする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぐたいてきななあんをする
+
+<div style='font-family: Arial; font-size: 20px;'>Suggest Concrete Plans</div>"
+"抽象的な案を出す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちゅうしょうてきなあんをだす
+
+<div style='font-family: Arial; font-size: 20px;'>Suggest Abstract Plan</div>"
+"アイデアを出す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あいであをだす
+
+<div style='font-family: Arial; font-size: 20px;'>Suggest Ideas</div>"
+"結論が出す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"けつろんがだす
+
+<div style='font-family: Arial; font-size: 20px;'>Come to a Conclusion</div>"
+"資料を配る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しりょうをくばる
+
+<div style='font-family: Arial; font-size: 20px;'>Materials Distribute</div>"
+"プリントを配る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぷりんとをくばる
+
+<div style='font-family: Arial; font-size: 20px;'>Handouts distribute</div>"
+"メモを取る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"めもをとる
+
+<div style='font-family: Arial; font-size: 20px;'>Take Notes</div>"
+"張り切る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はりきる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Full of Enthusiasm</div>"
+"仕事を引き受ける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しごとをひきうける
+
+<div style='font-family: Arial; font-size: 20px;'>Take a Job</div>"
+"仕事の打ち合わせをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しごとのうちあわせをする
+
+<div style='font-family: Arial; font-size: 20px;'>Make Business Arrangements</div>"
+"スケジュールを組む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"すけじゅーるをくむ
+
+<div style='font-family: Arial; font-size: 20px;'>Make up the Schedule</div>"
+"仕事を順調にこなす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しごとをじゅんちょうにこなす
+
+<div style='font-family: Arial; font-size: 20px;'>Work Efficiently</div>"
+"電話を取り次ぐ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"でんわをとりつぐ
+
+<div style='font-family: Arial; font-size: 20px;'>Take a Phone Message</div>"
+"電話を転送する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"でんわをてんそうする
+
+<div style='font-family: Arial; font-size: 20px;'>Transfer a Call</div>"
+"電話を保留する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"でんわをほりゅうする
+
+<div style='font-family: Arial; font-size: 20px;'>Put Someone on Hold</div>"
+"残業する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ざんぎょうする
+
+<div style='font-family: Arial; font-size: 20px;'>Work Overtime</div>"
+"出張が多い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しゅっちょうがおおい
+
+<div style='font-family: Arial; font-size: 20px;'>Go On Lot of Business Trip</div>"
+"出世する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しゅっせする
+
+<div style='font-family: Arial; font-size: 20px;'>Get Promoted</div>"
+"昇進する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょうしんする
+
+<div style='font-family: Arial; font-size: 20px;'>Get a&nbsp; Promotion</div>"
+"本社に転勤になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ほんしゃにてんきんになる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Transferred to the Head Office</div>"
+"転職する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"てんしょくする
+
+<div style='font-family: Arial; font-size: 20px;'>Find a Job in Another Company</div>"
+"会社を首になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいしゃをくびになる
+
+<div style='font-family: Arial; font-size: 20px;'>Get Fired</div>"
+"リストラされる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"りすとらされる
+
+<div style='font-family: Arial; font-size: 20px;'>Get Fired</div>"
+"退職する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たいしょくする
+
+<div style='font-family: Arial; font-size: 20px;'>Retire</div>"
+"失業する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しつぎょうする
+
+<div style='font-family: Arial; font-size: 20px;'>Lose One’s Job</div>"
+"書類を作成する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょるいをさくせいする
+
+<div style='font-family: Arial; font-size: 20px;'>Prepare A Document</div>"
+"カナを漢字に変換する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かなをかんじにへんかんする
+
+<div style='font-family: Arial; font-size: 20px;'>Convert Kana Into Kanji</div>"
+"文字を削除する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もじをさくじょする
+
+<div style='font-family: Arial; font-size: 20px;'>Delete Characters / Letters</div>"
+"漢字を確定する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かんじをかくていする
+
+<div style='font-family: Arial; font-size: 20px;'>Select The Correct Kanji</div>"
+"改行する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいぎょうする
+
+<div style='font-family: Arial; font-size: 20px;'>Start A New Line</div>"
+"文字のサイズを設定する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もじのさいずをせっていする
+
+<div style='font-family: Arial; font-size: 20px;'>Set The Font Size</div>"
+"フォントを変更する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふぉんとをへんこうする
+
+<div style='font-family: Arial; font-size: 20px;'>Change The Font Size</div>"
+"カーソルを移動する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かーそるをいどうする
+
+<div style='font-family: Arial; font-size: 20px;'>Move The Cursor</div>"
+"範囲を選択する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はんいをせんたくする
+
+<div style='font-family: Arial; font-size: 20px;'>Select The Area</div>"
+"目的の位置に合わせる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もくてきのいちにあわせる
+
+<div style='font-family: Arial; font-size: 20px;'>Adjust The Layout</div>"
+"文字を中央にそろえる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もじをちゅうおうにそろえる
+
+<div style='font-family: Arial; font-size: 20px;'>Center Justify</div>"
+"右に寄せる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みぎによせる
+
+<div style='font-family: Arial; font-size: 20px;'>Align Right</div>"
+"下線をつける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かせんをつける
+
+<div style='font-family: Arial; font-size: 20px;'>Underline</div>"
+"アンダーラインをつける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あんだーらいんをつける
+
+<div style='font-family: Arial; font-size: 20px;'>Underline</div>"
+"記号を入れる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きごうをいれる
+
+<div style='font-family: Arial; font-size: 20px;'>Insert Symbols</div>"
+"図を挿入する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ずをそうにゅうする
+
+<div style='font-family: Arial; font-size: 20px;'>Insert a Figure / Diagram</div>"
+"図を拡大する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ずをかくだいする
+
+<div style='font-family: Arial; font-size: 20px;'>Enlarge a Figure / Diagram</div>"
+"内容を修正する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ないようをしゅうせいする
+
+<div style='font-family: Arial; font-size: 20px;'>Modify The Content</div>"
+"文書を編集する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぶんしょをへんしゅうする
+
+<div style='font-family: Arial; font-size: 20px;'>Compile A Document</div>"
+"元に戻す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もとにもどす
+
+<div style='font-family: Arial; font-size: 20px;'>Reverse</div>"
+"図形をコピーする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ずけいをこぴーする
+
+<div style='font-family: Arial; font-size: 20px;'>Copy a Figure / Diagram</div>"
+"やり直す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やりなおす
+
+<div style='font-family: Arial; font-size: 20px;'>Do it Over</div>"
+"切り取る・カットする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きりとる・かっとする
+
+<div style='font-family: Arial; font-size: 20px;'>Cut</div>"
+"切り取る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きりとる
+
+<div style='font-family: Arial; font-size: 20px;'>Cutting</div>"
+"貼り付ける・ペーストする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はりつける・ぺーすとする
+
+<div style='font-family: Arial; font-size: 20px;'>Paste</div>"
+"貼り付け
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はりつけ
+
+<div style='font-family: Arial; font-size: 20px;'>Paste</div>"
+"画像を取り込む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"がぞうをとりこむ
+
+<div style='font-family: Arial; font-size: 20px;'>Import an Image</div>"
+"文書を保存する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぶんしょをほぞんする
+
+<div style='font-family: Arial; font-size: 20px;'>Save a Document</div>"
+"上書きを保存する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うわがきをほぞんする
+
+<div style='font-family: Arial; font-size: 20px;'>Save Changes (To a Computer File)</div>"
+"ファイルを添付する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふぁいるをてんぷする
+
+<div style='font-family: Arial; font-size: 20px;'>Attach A File</div>"
+"プリンターで印刷する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぷりんたーでいんさつする
+
+<div style='font-family: Arial; font-size: 20px;'>Print (On One's Printer)</div>"
+"プリンターでプリントする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぷりんたーでぷりんとする
+
+<div style='font-family: Arial; font-size: 20px;'>Print (On One's Printer)</div>"
+"プリンターの用紙が切れる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぷりんたーのようしがきれる
+
+<div style='font-family: Arial; font-size: 20px;'>The Printer is Out of Paper</div>"
+"インク・トナーがなくなる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いんく・となーがなくなる
+
+<div style='font-family: Arial; font-size: 20px;'>Run out of Ink・Toner</div>"
+"印刷の範囲を指定する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いんさつのはんいをしていする
+
+<div style='font-family: Arial; font-size: 20px;'>Select a Range for Printing</div>"
+"印刷の向きを確認する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いんさつのむきをかくにんする
+
+<div style='font-family: Arial; font-size: 20px;'>Check The Vertical Alignment of the Print Job</div>"
+"余白を多くする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"よはくをおおくする
+
+<div style='font-family: Arial; font-size: 20px;'>Set Bigger Margins</div>"
+"標準サイズの用紙
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひょうじゅんさいずのようし
+
+<div style='font-family: Arial; font-size: 20px;'>Standard - Size Paper</div>"
+"印刷がずれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いんさつがずれる
+
+<div style='font-family: Arial; font-size: 20px;'>The Printing On The Page is Askew</div>"
+"手間を省く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"てまをはぶく
+
+<div style='font-family: Arial; font-size: 20px;'>Save a Lot of Work</div>"
+"表示を切り替える
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひょうじをきりかえる
+
+<div style='font-family: Arial; font-size: 20px;'>Change The Display Setting</div>"
+"データが消える
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"でーたがきえる
+
+<div style='font-family: Arial; font-size: 20px;'>Lose Data</div>"
+"消去する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょうきょする
+
+<div style='font-family: Arial; font-size: 20px;'>Delete Data</div>"
+"迷惑メール
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"めいわくめーる
+
+<div style='font-family: Arial; font-size: 20px;'>Junk E-Mail・Spam</div>"
+"受信を拒否する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じゅしんをきょひする
+
+<div style='font-family: Arial; font-size: 20px;'>Reject Messages</div>"
+"個人情報を盗まれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こじんじょうほうをぬすまれる
+
+<div style='font-family: Arial; font-size: 20px;'>Have Personal Information Stolen</div>"
+"ワイルスに感染する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わいるすにかんせんする
+
+<div style='font-family: Arial; font-size: 20px;'>Get Injected By a Computer Virus</div>"
+"新いワイルスに対応する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あたらしいわいるすにたいおうする
+
+<div style='font-family: Arial; font-size: 20px;'>Deal With a New Computer Virus</div>"
+"チャットを楽しむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちゃっとをたのしむ
+
+<div style='font-family: Arial; font-size: 20px;'>Enjoy Chatting On Line</div>"
+"コミュニケーションを楽しむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こみゅにけしょーんをたのしむ
+
+<div style='font-family: Arial; font-size: 20px;'>Enjoy Communicating</div>"
+"掲示板に書き込む&nbsp;
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"けいじばんにかきこむ
+
+<div style='font-family: Arial; font-size: 20px;'>Post (A Message) on a Electronic Bulletin Board</div>"
+"ネットオークション
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねっとおーくしょん
+
+<div style='font-family: Arial; font-size: 20px;'>A Net Auction<br></div>"
+"品物を売り買いする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しなものをうりかいする
+
+<div style='font-family: Arial; font-size: 20px;'>Trade Goods</div>"
+"オンラインゲームをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おんらいんげーむをする
+
+<div style='font-family: Arial; font-size: 20px;'>Play On Line Games</div>"
+"思いやりがある
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おもいやりがある
+
+<div style='font-family: Arial; font-size: 20px;'>Considerate</div>"
+"若々しい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わかわかしい
+
+<div style='font-family: Arial; font-size: 20px;'>Youthful</div>"
+"生き生きとした
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いきいきとした
+
+<div style='font-family: Arial; font-size: 20px;'>Lively</div>"
+"ほがらかな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ほがらかな
+
+<div style='font-family: Arial; font-size: 20px;'>Cheerful</div>"
+"さわやかな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さわやかな
+
+<div style='font-family: Arial; font-size: 20px;'>Refreshing・Delightful</div>"
+"人なつっこい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひとなつっこい
+
+<div style='font-family: Arial; font-size: 20px;'>Friendly</div>"
+"無邪気な
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"むじゃきな
+
+<div style='font-family: Arial; font-size: 20px;'>Innocent・Childlike</div>"
+"大ざっぱな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おおざっぱな
+
+<div style='font-family: Arial; font-size: 20px;'>Rough</div>"
+"いいかげんな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いいかげんな
+
+<div style='font-family: Arial; font-size: 20px;'>Irresponsible</div>"
+"だらしない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"だらしない
+
+<div style='font-family: Arial; font-size: 20px;'>Sloppy</div>"
+"不潔な
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふけつな
+
+<div style='font-family: Arial; font-size: 20px;'>Filthy</div>"
+"厚かましい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あつかましい
+
+<div style='font-family: Arial; font-size: 20px;'>Impudent</div>"
+"ずうずうしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ずうずうしい
+
+<div style='font-family: Arial; font-size: 20px;'>Impudent</div>"
+"欲張りな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"よくばりな
+
+<div style='font-family: Arial; font-size: 20px;'>Greedy</div>"
+"強引な
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ごういんな
+
+<div style='font-family: Arial; font-size: 20px;'>Pushy</div>"
+"乱暴な
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"らんぼうな
+
+<div style='font-family: Arial; font-size: 20px;'>Rough</div>"
+"わがままな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わがままな
+
+<div style='font-family: Arial; font-size: 20px;'>Self Centered</div>"
+"プライドが高い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぷらいどがたかい
+
+<div style='font-family: Arial; font-size: 20px;'>Very Proud</div>"
+"マナーがいい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まなーがいい
+
+<div style='font-family: Arial; font-size: 20px;'>Well Mannered</div>"
+"センスがいい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せんすがいい
+
+<div style='font-family: Arial; font-size: 20px;'>Tasteful</div>"
+"要領がいい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ようりょうがいい
+
+<div style='font-family: Arial; font-size: 20px;'>Good At Handling Things</div>"
+"おだやかな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おだやかな
+
+<div style='font-family: Arial; font-size: 20px;'>Mild</div>"
+"おとなしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おとなしい
+
+<div style='font-family: Arial; font-size: 20px;'>Quiet</div>"
+"落ち着いている
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おちついている
+
+<div style='font-family: Arial; font-size: 20px;'>Self-Possessed</div>"
+"頼もしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たのもしい
+
+<div style='font-family: Arial; font-size: 20px;'>Reliable</div>"
+"そそっかしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"そそっかしい
+
+<div style='font-family: Arial; font-size: 20px;'>Scatter-Brained、Careless</div>"
+"のんきな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"のんきな
+
+<div style='font-family: Arial; font-size: 20px;'>Carefree</div>"
+"短気な
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たんきな
+
+<div style='font-family: Arial; font-size: 20px;'>Self Centered</div>"
+"気が短い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きがみじかい
+
+<div style='font-family: Arial; font-size: 20px;'>Short Tempered</div>"
+"気が小さい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きがちいさい
+
+<div style='font-family: Arial; font-size: 20px;'>Timid</div>"
+"あわれな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あわれな
+
+<div style='font-family: Arial; font-size: 20px;'>Miserable</div>"
+"くどい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"くどい
+
+<div style='font-family: Arial; font-size: 20px;'>Long Winded (Way of Saying)</div>"
+"ひきょうな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひきょうな
+
+<div style='font-family: Arial; font-size: 20px;'>Mean</div>"
+"ずるい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ずるい
+
+<div style='font-family: Arial; font-size: 20px;'>Dishonest・You Are Cheating</div>"
+"ダサい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ださい
+
+<div style='font-family: Arial; font-size: 20px;'>Tacky・Not Cool</div>"
+"上品な
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じょうひんな
+
+<div style='font-family: Arial; font-size: 20px;'>Refined</div>"
+"品がある
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひんがある
+
+<div style='font-family: Arial; font-size: 20px;'>Refined</div>"
+"品がいい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひんがいい
+
+<div style='font-family: Arial; font-size: 20px;'>Refined</div>"
+"かっこい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かっこい
+
+<div style='font-family: Arial; font-size: 20px;'>Cool</div>"
+"気が強い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きがつよい
+
+<div style='font-family: Arial; font-size: 20px;'>Aggressive</div>"
+"器用な
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きような
+
+<div style='font-family: Arial; font-size: 20px;'>Skilful</div>"
+"まじめな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まじめな
+
+<div style='font-family: Arial; font-size: 20px;'>Serious・Honest</div>"
+"下品な
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"げひんな
+
+<div style='font-family: Arial; font-size: 20px;'>Vulger</div>"
+"品がない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひんがない
+
+<div style='font-family: Arial; font-size: 20px;'>Vulger</div>"
+"かっこい悪い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かっこいわるい
+
+<div style='font-family: Arial; font-size: 20px;'>Not Cool</div>"
+"気が弱い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きがよわい
+
+<div style='font-family: Arial; font-size: 20px;'>Faint-Hearted・Timid</div>"
+"不器用な
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふきような
+
+<div style='font-family: Arial; font-size: 20px;'>Clumsy</div>"
+"ふまじめな
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふまじめな
+
+<div style='font-family: Arial; font-size: 20px;'>Not Serious</div>"
+"豊かな国
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ゆたかなくに
+
+<div style='font-family: Arial; font-size: 20px;'>Wealthy Country</div>"
+"快適な暮らし
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かいてきなくらし
+
+<div style='font-family: Arial; font-size: 20px;'>Comfortable Life</div>"
+"楽な方法
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"らくなほうほう
+
+<div style='font-family: Arial; font-size: 20px;'>Easy Way</div>"
+"派手なシャツ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はでなしゃつ
+
+<div style='font-family: Arial; font-size: 20px;'>Flashy Shirt</div>"
+"粗末な食事
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"そまつなしょくじ
+
+<div style='font-family: Arial; font-size: 20px;'>Plain Food</div>"
+"まじめな暮らし
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まじめなくらし
+
+<div style='font-family: Arial; font-size: 20px;'>Miserable Life</div>"
+"やっかいな問題
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やっかいなもんだい
+
+<div style='font-family: Arial; font-size: 20px;'>Difficult Problem</div>"
+"あいまいな返事
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あいまいなへんじ
+
+<div style='font-family: Arial; font-size: 20px;'>Vague Reply</div>"
+"ありふれた話
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ありふれたはなし
+
+<div style='font-family: Arial; font-size: 20px;'>Ordinary Story</div>"
+"あわただしい一日
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あわただしいいちにち
+
+<div style='font-family: Arial; font-size: 20px;'>Busy Day</div>"
+"さわがしい通り
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さわがしいとおり
+
+<div style='font-family: Arial; font-size: 20px;'>Noisy Street</div>"
+"そうぞうしい通り
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"そうぞうしいとおり
+
+<div style='font-family: Arial; font-size: 20px;'>Noisy Street</div>"
+"スピーカーの音がやかましい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"すぴーかーのおとがやかましい
+
+<div style='font-family: Arial; font-size: 20px;'>The Speaker is Very Loud</div>"
+"彼はファションにやかましい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かれはふぁしょんにやかましい
+
+<div style='font-family: Arial; font-size: 20px;'>He Has Strong Views on Fashion</div>"
+"めでたい日
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"めでたいひ
+
+<div style='font-family: Arial; font-size: 20px;'>Joyous Day</div>"
+"長さが等しい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ながさがひとしい
+
+<div style='font-family: Arial; font-size: 20px;'>Be The Same Length</div>"
+"みにく争い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みにくあらそい
+
+<div style='font-family: Arial; font-size: 20px;'>Ugly Dispute</div>"
+"荒っぽい言葉
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あらっぽいことば
+
+<div style='font-family: Arial; font-size: 20px;'>Rough Language</div>"
+"空っぽの財布
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"からっぽのさいふ
+
+<div style='font-family: Arial; font-size: 20px;'>Empty Wallet</div>"
+"焼きすぎて魚が真っ黒になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やきすぎてさかながまっくろになる
+
+<div style='font-family: Arial; font-size: 20px;'>Fish is Burned Back on the Gril</div>"
+"顔が真っ青になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かおがまっさおになる
+
+<div style='font-family: Arial; font-size: 20px;'>Face Turns Pale</div>"
+"顔が真っ赤になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かおがまっかになる
+
+<div style='font-family: Arial; font-size: 20px;'>Face Turns Red</div>"
+"頭が真っ白になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かおがまっしろになる
+
+<div style='font-family: Arial; font-size: 20px;'>Someone’s Hair Turns Grey (As They Age)</div>"
+"頭の中が真っ白になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あたまのなかがまっしろになる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Totally Lost</div>"
+"にらむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"めにらむ
+
+<div style='font-family: Arial; font-size: 20px;'>Glare At</div>"
+"部屋の中を除く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"へやのなかをのぞく
+
+<div style='font-family: Arial; font-size: 20px;'>Peek in The Room</div>"
+"たばこをくわえる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たばこをくわえる
+
+<div style='font-family: Arial; font-size: 20px;'>Leave a Cigarette in One's Room</div>"
+"りんごをかじる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"りんごをかじる
+
+<div style='font-family: Arial; font-size: 20px;'>Bite into An Apple</div>"
+"耳音でささやく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みみおとでささやく
+
+<div style='font-family: Arial; font-size: 20px;'>Wisper in The Ear</div>"
+"ガムをかむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"がむをかむ
+
+<div style='font-family: Arial; font-size: 20px;'>Chew Gum</div>"
+"うなずく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うなずく
+
+<div style='font-family: Arial; font-size: 20px;'>Nod</div>"
+"肩にかつぐ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かたにかつぐ
+
+<div style='font-family: Arial; font-size: 20px;'>Carry On One’s Shoulder</div>"
+"わきに抱える
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わきにかかえる
+
+<div style='font-family: Arial; font-size: 20px;'>Carry Under One's Arm</div>"
+"かごをぶら下げる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かごをぶらさげる
+
+<div style='font-family: Arial; font-size: 20px;'>Hang a Basket</div>"
+"ひじをつく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひじをつく
+
+<div style='font-family: Arial; font-size: 20px;'>Put One’s Elbows on The Table</div>"
+"触る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さわる
+
+<div style='font-family: Arial; font-size: 20px;'>Touch</div>"
+"頭をかく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あたまをかく
+
+<div style='font-family: Arial; font-size: 20px;'>Scratch One’s Head</div>"
+"ポケットに手をつっこむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぽけっとにてをつっこむ
+
+<div style='font-family: Arial; font-size: 20px;'>Put One`s Hand in One’s Pocket</div>"
+"パンにハムをはさむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぱんにはむをはさむ
+
+<div style='font-family: Arial; font-size: 20px;'>Put Ham In a Sandwitch</div>"
+"のりでくっつける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"のりでくっつける
+
+<div style='font-family: Arial; font-size: 20px;'>Use Glue To Stick Two Things Together</div>"
+"水道の蛇口をひねる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"すいどうのじゃぐちをひねる
+
+<div style='font-family: Arial; font-size: 20px;'>Turn On A Tap</div>"
+"ひざを曲げる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひざをまげる
+
+<div style='font-family: Arial; font-size: 20px;'>Bend One’s Knees</div>"
+"みぞをまたぐ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みぞをまたぐ
+
+<div style='font-family: Arial; font-size: 20px;'>Step Over a Ditch</div>"
+"いしにつまずく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いしにつまずく
+
+<div style='font-family: Arial; font-size: 20px;'>Stumble on a Stone</div>"
+"雪道ですべる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ゆきみちですべる
+
+<div style='font-family: Arial; font-size: 20px;'>Slip on a Snowy Road</div>"
+"道路でしゃがむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうろでしゃがむ
+
+<div style='font-family: Arial; font-size: 20px;'>Sit Down on The Road</div>"
+"体をねじる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"からだをねじる
+
+<div style='font-family: Arial; font-size: 20px;'>Twist One’s Body</div>"
+"壁にもたれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かべにもたれる
+
+<div style='font-family: Arial; font-size: 20px;'>Lean Against The Wall</div>"
+"壁にぶつかる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かべにぶつかる
+
+<div style='font-family: Arial; font-size: 20px;'>Bump Into Wall</div>"
+"壁にボールをぶつける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かべにぼーるをぶつける
+
+<div style='font-family: Arial; font-size: 20px;'>Throw a Ball Against the Wall</div>"
+"自転車とすれ違う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じてんしゃとすれちがう
+
+<div style='font-family: Arial; font-size: 20px;'>Go By a Bicycle</div>"
+"地面をほう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じめんをほう
+
+<div style='font-family: Arial; font-size: 20px;'>Crawl On The Ground</div>"
+"おじきをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おじきをする
+
+<div style='font-family: Arial; font-size: 20px;'>Bow</div>"
+"くやしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"くやしい
+
+<div style='font-family: Arial; font-size: 20px;'>So Unfortunate</div>"
+"くやむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"くやむ
+
+<div style='font-family: Arial; font-size: 20px;'>Regret</div>"
+"つらい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"つらい
+
+<div style='font-family: Arial; font-size: 20px;'>Painful</div>"
+"情けない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なさけない
+
+<div style='font-family: Arial; font-size: 20px;'>Miserable</div>"
+"申し訳ない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もうしわけない
+
+<div style='font-family: Arial; font-size: 20px;'>Shameful</div>"
+"残念だ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ざんねんだ
+
+<div style='font-family: Arial; font-size: 20px;'>It’s a Pity</div>"
+"仕方がない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しかたがない
+
+<div style='font-family: Arial; font-size: 20px;'>It Can’t be Helped</div>"
+"しょうがない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょうがない
+
+<div style='font-family: Arial; font-size: 20px;'>It Can’t be Helped</div>"
+"やむを得ない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やむをえない
+
+<div style='font-family: Arial; font-size: 20px;'>There is Nothing You Can Do About It</div>"
+"疑問に思う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぎもんにおもう
+
+<div style='font-family: Arial; font-size: 20px;'>I Doubt It</div>"
+"不思議だ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふしぎだ
+
+<div style='font-family: Arial; font-size: 20px;'>It’s Mysterious・Weird</div>"
+"納得がない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なっとくがない
+
+<div style='font-family: Arial; font-size: 20px;'>Be Unable to Accept</div>"
+"納得がいく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なっとくがいく
+
+<div style='font-family: Arial; font-size: 20px;'>Be Convinced</div>"
+"あきる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あきる
+
+<div style='font-family: Arial; font-size: 20px;'>Get Bored</div>"
+"あきれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あきれる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Amazed</div>"
+"あきらめる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あきらめる
+
+<div style='font-family: Arial; font-size: 20px;'>Give Up<br></div>"
+"あせる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あせる
+
+<div style='font-family: Arial; font-size: 20px;'>Be In Hurry</div>"
+"ためらう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ためらう
+
+<div style='font-family: Arial; font-size: 20px;'>Hesitate</div>"
+"あこがれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あこがれる
+
+<div style='font-family: Arial; font-size: 20px;'>Long For</div>"
+"落ち込む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おちこむ
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Depressed</div>"
+"恋しい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こいしい
+
+<div style='font-family: Arial; font-size: 20px;'>Miss・Long For</div>"
+"なつかしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なつかしい
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Homesick・Have Fond Memories</div>"
+"ありがたい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ありがたい
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Grateful</div>"
+"みっともない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"みっともない
+
+<div style='font-family: Arial; font-size: 20px;'>Shameful・Unsuitable</div>"
+"ばからしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ばからしい
+
+<div style='font-family: Arial; font-size: 20px;'>Silly</div>"
+"おしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おしい
+
+<div style='font-family: Arial; font-size: 20px;'>Regrettable</div>"
+"にくい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にくい
+
+<div style='font-family: Arial; font-size: 20px;'>Hate</div>"
+"にくらしい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にくらしい
+
+<div style='font-family: Arial; font-size: 20px;'>Hate</div>"
+"面倒くさい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"めんどうくさい
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Weary Of</div>"
+"面倒な仕事
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"めんどうなしごと
+
+<div style='font-family: Arial; font-size: 20px;'>A Troublesome Task</div>"
+"夢中になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"むちゅうになる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Mad About</div>"
+"悩む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なやむ
+
+<div style='font-family: Arial; font-size: 20px;'>Be Distressed By</div>"
+"退屈する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たいくつする
+
+<div style='font-family: Arial; font-size: 20px;'>Be Bored</div>"
+"悩み
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なやみ
+
+<div style='font-family: Arial; font-size: 20px;'>Worry</div>"
+"神に祈る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かみにいのる
+
+<div style='font-family: Arial; font-size: 20px;'>Pray to God</div>"
+"神にちかう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かみにちかう
+
+<div style='font-family: Arial; font-size: 20px;'>Swear By God</div>"
+"仏をおがむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ほとけをおがむ
+
+<div style='font-family: Arial; font-size: 20px;'>Worship the Buddha</div>"
+"尊敬する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"そんけいする
+
+<div style='font-family: Arial; font-size: 20px;'>Respect</div>"
+"えらいと思う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"えらいとおもう
+
+<div style='font-family: Arial; font-size: 20px;'>Find (Someone) Admirable</div>"
+"信用する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しんようする
+
+<div style='font-family: Arial; font-size: 20px;'>Trust</div>"
+"疑う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うたがう
+
+<div style='font-family: Arial; font-size: 20px;'>Doubt</div>"
+"いじめる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いじめる
+
+<div style='font-family: Arial; font-size: 20px;'>Bully</div>"
+"やっつける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やっつける
+
+<div style='font-family: Arial; font-size: 20px;'>Beat (Attack)</div>"
+"からかう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"からかう
+
+<div style='font-family: Arial; font-size: 20px;'>Make Fun of Someone</div>"
+"バカにする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ばかにする
+
+<div style='font-family: Arial; font-size: 20px;'>Look Down On</div>"
+"けなす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"けなす
+
+<div style='font-family: Arial; font-size: 20px;'>Run Down</div>"
+"責める
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せめる
+
+<div style='font-family: Arial; font-size: 20px;'>Blame</div>"
+"おどかす
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おどかす
+
+<div style='font-family: Arial; font-size: 20px;'>Surprise・Threaten</div>"
+"頼る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たよる
+
+<div style='font-family: Arial; font-size: 20px;'>Depend On</div>"
+"頼りにする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たよりにする
+
+<div style='font-family: Arial; font-size: 20px;'>Depend On</div>"
+"許す
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ゆるす
+
+<div style='font-family: Arial; font-size: 20px;'>Forgive</div>"
+"裏切る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うらぎる
+
+<div style='font-family: Arial; font-size: 20px;'>Betray</div>"
+"だます
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"だます
+
+<div style='font-family: Arial; font-size: 20px;'>Cheat</div>"
+"傷つける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きずつける
+
+<div style='font-family: Arial; font-size: 20px;'>Hurt</div>"
+"避ける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さける
+
+<div style='font-family: Arial; font-size: 20px;'>Avoid</div>"
+"放っておく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ほっておく
+
+<div style='font-family: Arial; font-size: 20px;'>Leave</div>"
+"私のことはほっといて
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わたしのことはほっといて
+
+<div style='font-family: Arial; font-size: 20px;'>Leave me Alone！</div>"
+"仕事を任せる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しごとをまかせる
+
+<div style='font-family: Arial; font-size: 20px;'>Entrust The Job With</div>"
+"感謝する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かんしゃする
+
+<div style='font-family: Arial; font-size: 20px;'>Be Grateful</div>"
+"ほほえむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ほほえむ
+
+<div style='font-family: Arial; font-size: 20px;'>Give a Happy Smile</div>"
+"冗談を言う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じょうだんをいう
+
+<div style='font-family: Arial; font-size: 20px;'>Joke</div>"
+"従う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"したがう
+
+<div style='font-family: Arial; font-size: 20px;'>Obey・Follow</div>"
+"いやみをいう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いやみをいう
+
+<div style='font-family: Arial; font-size: 20px;'>Make Sarcastic Remarks</div>"
+"逆らう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さからう
+
+<div style='font-family: Arial; font-size: 20px;'>Defy</div>"
+"文句を言う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もんくをいう
+
+<div style='font-family: Arial; font-size: 20px;'>Complain About</div>"
+"うそをつく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うそをつく
+
+<div style='font-family: Arial; font-size: 20px;'>Lie</div>"
+"わびる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わびる
+
+<div style='font-family: Arial; font-size: 20px;'>Apolozige</div>"
+"うそつき
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うそつき
+
+<div style='font-family: Arial; font-size: 20px;'>A Liar</div>"
+"だまる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"だまる
+
+<div style='font-family: Arial; font-size: 20px;'>Become Quiet</div>"
+"友達に恵まれる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ともだちにめぐまれる
+
+<div style='font-family: Arial; font-size: 20px;'>Have Many Good Friends</div>"
+"自慢する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じまんする
+
+<div style='font-family: Arial; font-size: 20px;'>Brag About</div>"
+"友達をもめる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ともだちをもめる
+
+<div style='font-family: Arial; font-size: 20px;'>Have Trouble with Friends</div>"
+"いやな態度を取る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いやなたいどをとる
+
+<div style='font-family: Arial; font-size: 20px;'>Have a Bad Attitude</div>"
+"いばる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いばる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Arrogant</div>"
+"ふざける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふざける
+
+<div style='font-family: Arial; font-size: 20px;'>Play With</div>"
+"態度を改める
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たいどをあらためる
+
+<div style='font-family: Arial; font-size: 20px;'>Change One’s Attitude</div>"
+"まねをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まねをする
+
+<div style='font-family: Arial; font-size: 20px;'>Mimic・Copy・Imitate</div>"
+"悪口を言う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わるぐちいう
+
+<div style='font-family: Arial; font-size: 20px;'>Say Bad Things About</div>"
+"失敗を人のせいにする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しっぱいをひとのせいにする
+
+<div style='font-family: Arial; font-size: 20px;'>Blame Others For One's Own Mistakes</div>"
+"医師の診察を受ける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いしのしんさつをうける
+
+<div style='font-family: Arial; font-size: 20px;'>See The Doctor</div>"
+"早めに医者にかかる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はやめにいしゃにかかる
+
+<div style='font-family: Arial; font-size: 20px;'>Go and See the Doctor Before It Gets Worse</div>"
+"健康診断を受ける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"けんこうしんだんをうける
+
+<div style='font-family: Arial; font-size: 20px;'>Have a Physical Checkup</div>"
+"血圧が高い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"けつあつがたかい
+
+<div style='font-family: Arial; font-size: 20px;'>Have High Blood Pressure</div>"
+"病気の症状
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"びょうきのしょうじょう
+
+<div style='font-family: Arial; font-size: 20px;'>Symptoms of Sickness</div>"
+"血圧が低い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"けつあつがひくい
+
+<div style='font-family: Arial; font-size: 20px;'>Have High Blood Pressure</div>"
+"症状が治まる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょうじょうがおさまる
+
+<div style='font-family: Arial; font-size: 20px;'>Condition Improves</div>"
+"顔色が悪い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かおいろがわるい
+
+<div style='font-family: Arial; font-size: 20px;'>Look Unwell</div>"
+"顔が真っ青だ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かおがまっさおだ
+
+<div style='font-family: Arial; font-size: 20px;'>Look Very Pale</div>"
+"体の具合が悪い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"からだのぐあいがわるい
+
+<div style='font-family: Arial; font-size: 20px;'>Not Feel Well</div>"
+"吐き気がかかる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はきけがかかる
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Sick</div>"
+"吐く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はく
+
+<div style='font-family: Arial; font-size: 20px;'>Vomit</div>"
+"頭がぼうっとする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あたまがぼうっとする
+
+<div style='font-family: Arial; font-size: 20px;'>My Head is not Clear</div>"
+"熱中症
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねっちゅうしょう
+
+<div style='font-family: Arial; font-size: 20px;'>HeatStroke</div>"
+"体に熱がこもる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"からだにねつがこもる
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Feverish</div>"
+"家にこもる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いえにこもる
+
+<div style='font-family: Arial; font-size: 20px;'>Refuses to Go Out</div>"
+"体がだるい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"からだがだるい
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Languid</div>"
+"肩がこる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かたがこる
+
+<div style='font-family: Arial; font-size: 20px;'>Have Stiff Shoulders</div>"
+"肩をもむ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かたをもむ
+
+<div style='font-family: Arial; font-size: 20px;'>Message One’s Shoulder</div>"
+"ストレスがたまる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"すとれすがたまる
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Stressed Out</div>"
+"痛みをこらえる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いたみをこらえる
+
+<div style='font-family: Arial; font-size: 20px;'>Endure Pain</div>"
+"痛みをがまんする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いたみをがまんする
+
+<div style='font-family: Arial; font-size: 20px;'>Endure Pain</div>"
+"悲しいをこらえる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かなしいをこらえる
+
+<div style='font-family: Arial; font-size: 20px;'>Bear Sadness</div>"
+"痛みに耐える
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いたみにたえる
+
+<div style='font-family: Arial; font-size: 20px;'>Endure Pain</div>"
+"悲しみに耐える
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かなしみにたえる
+
+<div style='font-family: Arial; font-size: 20px;'>Bear Sadness</div>"
+"肌が荒れる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はだがあれる
+
+<div style='font-family: Arial; font-size: 20px;'>Have Rough Skin</div>"
+"肌のつやがいい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"はだのつやがいい
+
+<div style='font-family: Arial; font-size: 20px;'>Have Smoot Skin</div>"
+"体がかゆい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"からだがかゆい
+
+<div style='font-family: Arial; font-size: 20px;'>Get Itchy All Over</div>"
+"体をかく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"からだをかく
+
+<div style='font-family: Arial; font-size: 20px;'>Scratch</div>"
+"湿疹ができる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しっしんができる
+
+<div style='font-family: Arial; font-size: 20px;'>Get a Rash</div>"
+"アレルギーがある
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あれるぎーがある
+
+<div style='font-family: Arial; font-size: 20px;'>Be Alargic To</div>"
+"花粉症で鼻がつまる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かふんしょうではながつまる
+
+<div style='font-family: Arial; font-size: 20px;'>Be Stuffed Up From Hay Fever</div>"
+"虫歯になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"むしばになる
+
+<div style='font-family: Arial; font-size: 20px;'>Get Cavity</div>"
+"リハビリをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"りはびりをする
+
+<div style='font-family: Arial; font-size: 20px;'>Go For Rehabiliation</div>"
+"リハビリを受ける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"りはびりをうける
+
+<div style='font-family: Arial; font-size: 20px;'>Receive Rehabilliation</div>"
+"傷口がふさがる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きずぐちがふさがる
+
+<div style='font-family: Arial; font-size: 20px;'>Wounds Heal</div>"
+"レントゲンを撮る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"れんとげんをとる
+
+<div style='font-family: Arial; font-size: 20px;'>Have An X-Ray Taken</div>"
+"手術の傷あとが痛む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しゅじゅつのきずあとがいたむ
+
+<div style='font-family: Arial; font-size: 20px;'>The Scar From My Operation Aches</div>"
+"がんで死亡する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"がんでしぼうする
+
+<div style='font-family: Arial; font-size: 20px;'>Die From Cancer</div>"
+"必ずしも〜とは限らない→お金持ちが必ずしも幸福とは限らない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かならずしも〜とはかぎらない→おかねもちがかならずしもこうふくとはかぎらない
+
+<div style='font-family: Arial; font-size: 20px;'>Being Rich Does Not Necessary Mean Happy</div>"
+"必ず→人間は必ず死ぬ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かならず→にんげんはかならずしぬ
+
+<div style='font-family: Arial; font-size: 20px;'>We Will All Eventually Die</div>"
+"いつか→いつかアフリカに行きたい・ここにはいつか来たことがある
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いつか→いつかあふりかにいきたい・ここにはいつかきたことがある
+
+<div style='font-family: Arial; font-size: 20px;'>Someday I Would Like to Go To Africa・I Have Come Here Once Before</div>"
+"いつまでも→いつまでもお元気で
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いつまでも→いつまでもおげんきで
+
+<div style='font-family: Arial; font-size: 20px;'>Please Take Care</div>"
+"いつのまにか→いつのまにか夜になった
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いつのまにか→いつのまにかよるになった
+
+<div style='font-family: Arial; font-size: 20px;'>Night Came Before We Knew It</div>"
+"つい→ついうそを言ってしまった
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"つい→ついうそをいってしまった
+
+<div style='font-family: Arial; font-size: 20px;'>I Lied Without Meaning To</div>"
+"ついに→ついに絵が完成でした
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ついに→ついにえがかんせいでした
+
+<div style='font-family: Arial; font-size: 20px;'>Finally The Painting was Finished</div>"
+"どうしても→用事があってどうしても行けない・どうしても成功させたい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうしても→ようじがあってどうしてもいけない・どうしてもせいこうさせたい
+
+<div style='font-family: Arial; font-size: 20px;'>It is Simply Not Possible For Me To Go As I Have Other Commitments・I would like to succeed it no matter what</div>"
+"どうも上手に話せない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうもじょうずにはなせない
+
+<div style='font-family: Arial; font-size: 20px;'>I Cannot Really Explain it Well</div>"
+"どうも道に迷ったようだ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうもみちにまよったようだ
+
+<div style='font-family: Arial; font-size: 20px;'>I Think I am Lost</div>"
+"どうも失礼しました
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうもしつれいしました
+
+<div style='font-family: Arial; font-size: 20px;'>Please Excuse Me</div>"
+"昨日はどうも
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きのうはどうも
+
+<div style='font-family: Arial; font-size: 20px;'>It was Nice to see you yesterday</div>"
+"なんとか→なんとか会議に間に合った
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なんとか→なんとかかいぎにまにあった
+
+<div style='font-family: Arial; font-size: 20px;'>I Managed To Make It To The Meeting</div>"
+"この問題どうにかしなければならない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"このもんだいどうにかしなければならない
+
+<div style='font-family: Arial; font-size: 20px;'>We Must Somehow Resolve The Problem</div>"
+"なんとなく→これはなんとなく面白そうな本だ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なんとなく→これはなんとなくおもしろそうなほんだ
+
+<div style='font-family: Arial; font-size: 20px;'>This Book is Sort Of Interesting</div>"
+"なんとも〜ない→そんなこと、なんとも思わない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なんとも〜ない→そんなこと、なんともおもわない
+
+<div style='font-family: Arial; font-size: 20px;'>I don’t Care About It</div>"
+"もし(も)→もし(も)100万円あったら...
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もし(も)→もし(も)100まんえんあったら
+
+<div style='font-family: Arial; font-size: 20px;'>If I had One Million Yen</div>"
+"もしかすると・もしかしたら→もしかすると、彼の話はうそかもしれない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"もしかすると・もしかしたら→もしかすると、かれのはなしはうそかもしれない
+
+<div style='font-family: Arial; font-size: 20px;'>He Could Be Telling a Lie</div>"
+"なるべく(=できるだけ)→早く来て下さい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なるべく(=できるだけ)→はやくきてください
+
+<div style='font-family: Arial; font-size: 20px;'>Please Come Early If We Can</div>"
+"なるほど→なるほど面白い本だ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なるほど→なるほどおもしろいほんだ
+
+<div style='font-family: Arial; font-size: 20px;'>It Certainly Is An Interesting Book</div>"
+"確か→あの人は、確か(=多分)林さんのお父さんだと思う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たしか→あのひとは、たしか(=たぶん)はやしさんのおとうさんだとおもう
+
+<div style='font-family: Arial; font-size: 20px;'>I Think He is Hayashi San's Father</div>"
+"確かに→あの人は、確かに(=間違いなく)林さんのお父さんだ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たしかに→あのひとは、たしかに(=まちがいなく)はやしさんのおとうさんだ
+
+<div style='font-family: Arial; font-size: 20px;'>That Guy Is Definitely Hayashi-San's Father</div>"
+"まもなく→コンサートがまもなく(=もうすぐ)始まる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まもなく→こんさーとがまもなく(=もうすぐ)はじまる
+
+<div style='font-family: Arial; font-size: 20px;'>The Concert Will Start Soon</div>"
+"まもなく→家に帰ってまもなく(=少し後)客が来た
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まもなく→いえにかえってまもなく(=すこしあと)きゃくがきた
+
+<div style='font-family: Arial; font-size: 20px;'>Soon After I Came Home, A Guest Arrived</div>"
+"近々→近々(＝近日中に)お伺います
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちかぢか→ちかぢか(=きんじつちゅうに)おうかがいます
+
+<div style='font-family: Arial; font-size: 20px;'>I will Come To See Yoo Sometime Soon</div>"
+"そのうち→そのうちわかるようになるでしょう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"そのうち→そのうちわかるようになるでしょう
+
+<div style='font-family: Arial; font-size: 20px;'>You Will Understand Someday</div>"
+"やがて→やがて夏休みも終わる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やがて→やがてなつやすみもおわる
+
+<div style='font-family: Arial; font-size: 20px;'>The Summer Holiday Will Soon Be Over</div>"
+"やがて→父が死んでやがて1年になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やがて→ちちがしんてやがていちねんになる
+
+<div style='font-family: Arial; font-size: 20px;'>It Will Soon Be A Year Since My Father Passed Away</div>"
+"ようやく→ようやく(=やっと)暖かくなってきた
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ようやく→ようやく(=やっと)あたたかくなってきた
+
+<div style='font-family: Arial; font-size: 20px;'>It's Finally Getting Warmer</div>"
+"いずれ→いずれ(いつか)こうなると思っていた
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いずれ→いずれ(いつか)こうなるとおもっていた
+
+<div style='font-family: Arial; font-size: 20px;'>I Figured That It Would Eventually Be Like This</div>"
+"たちまち→チケットはたちまち(=すぐに)売り切れた
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たちまち→ちけっとはたちまち(=すぐに)うりきれた
+
+<div style='font-family: Arial; font-size: 20px;'>The Tickets Were Immediately Sold Out</div>"
+"ただちに→ただちに(=すぐに)出発したほうがいい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ただちに→ただちに(すぐに)しゅっぱつしたほうがいい
+
+<div style='font-family: Arial; font-size: 20px;'>You’d Better Go Right Away</div>"
+"にわかに→にわかに(=急に)空が曇って来た
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にわかに→にわかに(=きゅうに)そらがくもってきた
+
+<div style='font-family: Arial; font-size: 20px;'>Suddenly The Sky Became Overcast</div>"
+"にわか雨
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にわかあめ
+
+<div style='font-family: Arial; font-size: 20px;'>A Sudden Shower</div>"
+"絶えず→絶えず水が流れている
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たえず→たえずみずがながれている
+
+<div style='font-family: Arial; font-size: 20px;'>The Water Is Constantly Running</div>"
+"つねに→つねに(=いつも)健康に注意する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"つねに→つねに(=いつも)けんこうにちゅういする
+
+<div style='font-family: Arial; font-size: 20px;'>Keep Health In Mind</div>"
+"しきりに→しきりに(=何度も)電話が鳴る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しきりに→しきりに(=なんども)でんわがなる
+
+<div style='font-family: Arial; font-size: 20px;'>Praise Repeatedly</div>"
+"しよっちゅう→しよっちゅう(=よく)酒を飲む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しよっちゅう→しよっちゅう(=よく)さけをのむ
+
+<div style='font-family: Arial; font-size: 20px;'>Frequently Drink Alchohol</div>"
+"(もう)すでに→(その絵はすでに売れてしまった
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"(もう)すでに→そのえはすでにうれてしまった
+
+<div style='font-family: Arial; font-size: 20px;'>The Painting Has Already Been Sold</div>"
+"とっくに→期限はとっくに(=ずいぶん前に)過ぎている
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"とっくに→きげんはとっくに(=ずいぶんまえに)すぎている
+
+<div style='font-family: Arial; font-size: 20px;'>The Deadline Has Already Passed</div>"
+"とっくの(=ずっと)昔
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"とっくの(=ずっと)むかし
+
+<div style='font-family: Arial; font-size: 20px;'>Long Ago</div>"
+"前もって→前もって調べておく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まえもって→まえもってしらべておく
+
+<div style='font-family: Arial; font-size: 20px;'>Look into...In Advance</div>"
+"ほぼ→ほぼ(=約)1万円
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ほぼ→ほぼ(=やく)1まんえん
+
+<div style='font-family: Arial; font-size: 20px;'>Approximately (About) 10,000 Yen</div>"
+"お(お)よそ→おおよそ・およそ(=だいたい)2週間
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"お(お)よそ→おおよそ・およそ(=だいたい)2しゅうかん
+
+<div style='font-family: Arial; font-size: 20px;'>Approximately (roughly) 2 weeks</div>"
+"ほんの→ほんの少し
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ほんの→ほんのすこし
+
+<div style='font-family: Arial; font-size: 20px;'>A Tiny Bit (Very Little)</div>"
+"たった→たった一人で
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たった→たったひとりで
+
+<div style='font-family: Arial; font-size: 20px;'>All By Oneself</div>"
+"せいぜい→出席者はせいぜい30人程度だ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せいぜい→しゅっせきしゃはせいぜい30にんていどだ
+
+<div style='font-family: Arial; font-size: 20px;'>There Will Be Only About 30 Attendants</div>"
+"少なくとも→少なくとも30人は来る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"すくなくとも→すくなくとも30ひとはくる
+
+<div style='font-family: Arial; font-size: 20px;'>At Least 30 People are Coming</div>"
+"せめて→せめて5位以内になりたかった
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せめて→せめて5いいないになりたかった
+
+<div style='font-family: Arial; font-size: 20px;'>I was Hoping to Come in no Worse Than Fifth</div>"
+"せめて→せめて声だけでも聞きたい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せめて→せめてこえだけでもききたい
+
+<div style='font-family: Arial; font-size: 20px;'>If Only I Could Hear His/Her Voice</div>"
+"たびたび・しばしば→「たびたびお電話してすみません」
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たびたび・しばしば→「たびたびおでんわしてすみません」
+
+<div style='font-family: Arial; font-size: 20px;'>Sorry For Phoning You So Many Times</div>"
+"いよいよ→いよいよ明日出発します
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いよいよ→いよいよあしたしゅっぱつします
+
+<div style='font-family: Arial; font-size: 20px;'>I Will Finally Depart Tomorrow</div>"
+"いちいち→いちいち文句を言う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いちいち→いちいちもんくをいう
+
+<div style='font-family: Arial; font-size: 20px;'>Complain About Everything</div>"
+"ふわふわ(する)→このタオルはふわふわしている
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふわふわ(する)→このたおるはふわふわしている
+
+<div style='font-family: Arial; font-size: 20px;'>This Towel is Very Soft</div>"
+"ふわふわ(する)→ふわふわと浮かぶ雲
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ふわふわ(する)→ふわふわとうかぶくも
+
+<div style='font-family: Arial; font-size: 20px;'>Floating Clouds in the Sky</div>"
+"まごまごする→分からなくてまごまごする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まごまごする→わからなくてまごまごする
+
+<div style='font-family: Arial; font-size: 20px;'>Be At A Loss</div>"
+"それぞれ・めいめい・ひとりひとり・各々→それぞれ意見を述べる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"それぞれ・めいめい・ひとりひとり・おのおの→それぞれいけんをのべる
+
+<div style='font-family: Arial; font-size: 20px;'>Each Person Voices His/Her Opinions</div>"
+"ばったり→友達にばったり会う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ばったり→ともだちにばったりあう
+
+<div style='font-family: Arial; font-size: 20px;'>Bump Into A Friend</div>"
+"こっそり→こっそり逃げる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こっそり→こっそりにげる
+
+<div style='font-family: Arial; font-size: 20px;'>Sneak Out</div>"
+"ぴったり→ぴったりくっつく
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぴったり→ぴったりくっつく
+
+<div style='font-family: Arial; font-size: 20px;'>Stick Tightly</div>"
+"ぎっしり→みかんがぎっしりつまっている
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぎっしり→みかんがぎっしりつまっている
+
+<div style='font-family: Arial; font-size: 20px;'>It is packed with Tangerines</div>"
+"ぎっしり→予定がぎっしり入っている
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぎっしり→よていがぎっしりはいっている
+
+<div style='font-family: Arial; font-size: 20px;'>The Schedule is Tight</div>"
+"じつくり→じつくり読む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じつくり→じつくりよむ
+
+<div style='font-family: Arial; font-size: 20px;'>Read Slowly And Carefully</div>"
+"ちらっと・ちらりと→ちらっと見る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちらっと・ちらりと→ちらっとみる
+
+<div style='font-family: Arial; font-size: 20px;'>Glance At</div>"
+"うんざり(する)→親の説教にうんざりする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うんざり(する)→おやのせっきょうにうんざりする
+
+<div style='font-family: Arial; font-size: 20px;'>Get Fed Up With One’s Parents' Lectures</div>"
+"びっしょり→急に雨が降ってびっしょりぬれた
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"びっしょり→きゅうにあめがふってびっしょりぬれた
+
+<div style='font-family: Arial; font-size: 20px;'>I Got Soaked in a Sudden Rain</div>"
+"しいんとする→しいんとする・シーンとする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しいんとする→しいんとする・シーンとする
+
+<div style='font-family: Arial; font-size: 20px;'>Be All Quiet</div>"
+"しいんとする→しいんと・シーンと静かになる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しいんとする→しいんと・シーンとしずかになる
+
+<div style='font-family: Arial; font-size: 20px;'>It Falls Still and Silent</div>"
+"ずらりと・ずらっと→本がずらりと並んでいる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ずらりと・ずらっと→ほんがずらりとならんでいる
+
+<div style='font-family: Arial; font-size: 20px;'>Books Are Lined Up</div>"
+"さっさと→さっさと帰る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さっさと→さっさとかえる
+
+<div style='font-family: Arial; font-size: 20px;'>Leave at Once</div>"
+"せっせと→せっせと働く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せっせと→せっせとはたらく
+
+<div style='font-family: Arial; font-size: 20px;'>Work Steadily</div>"
+"どっと→客がどっと来る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どっと→きゃくがどっとくる
+
+<div style='font-family: Arial; font-size: 20px;'>Customers Pour Into</div>"
+"どっと→どっと疲れる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どっと→どっとつかれる
+
+<div style='font-family: Arial; font-size: 20px;'>Suddenly Feel Exhausted</div>"
+"すっとする→すっと立ち上がる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"すっとする→すっとたちあがる
+
+<div style='font-family: Arial; font-size: 20px;'>Stand Up Abruptly</div>"
+"気分がすっとする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"きぶんがすっとする
+
+<div style='font-family: Arial; font-size: 20px;'>Feel Refreshed</div>"
+"ひとりでに→ドアがひとりでに開く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひとりでに→どあがひとりでにあく
+
+<div style='font-family: Arial; font-size: 20px;'>The Door Opens By Itself</div>"
+"いっせいに→いっせいに立ち上がる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いっせいに→いっせいにたちあがる
+
+<div style='font-family: Arial; font-size: 20px;'>Stand Up All At Once</div>"
+"相当・かなり→田中さんは、相当気が強い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"そうとう・かなり→たなかさんは、そうとうきがつよい
+
+<div style='font-family: Arial; font-size: 20px;'>Tanaka-San is Rather Strong Minded</div>"
+"大いに→友人と大いに語り合う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おおいに→ゆうじんとおおいにかたりあう
+
+<div style='font-family: Arial; font-size: 20px;'>Have a Long Talk with Friends</div>"
+"大いに→可能性は大いにある
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おおいに→かのうせいはおおいにある
+
+<div style='font-family: Arial; font-size: 20px;'>There is Great Possibility</div>"
+"うんと→うんと便利になる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うんと→うんとべんりになる
+
+<div style='font-family: Arial; font-size: 20px;'>Become Extremely Convenient</div>"
+"うんと→お金がうんとある
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"うんと→おかねがうんとある
+
+<div style='font-family: Arial; font-size: 20px;'>Have a Lot of Money</div>"
+"たっぷり→水をたっぷり飲む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たっぷり→みずをたっぷりのむ
+
+<div style='font-family: Arial; font-size: 20px;'>Drink a Lot of Water</div>"
+"たっぷり→時間がたっぷりある
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たっぷり→じかんがたっぷりある
+
+<div style='font-family: Arial; font-size: 20px;'>Have an Ample Time</div>"
+"あまりにも→あまりにも難しい問題
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あまりにも→あまりにもむずかしいもんだい
+
+<div style='font-family: Arial; font-size: 20px;'>An Overly Difficult Problem To Solve</div>"
+"やや→やや大きめの茶わん
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やや→ややおおきめのちゃわん
+
+<div style='font-family: Arial; font-size: 20px;'>A little Bigger Rice Bowl</div>"
+"多少→多少イタリアン語が話せます
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たしょう→たしょういたりあんごがはなせます
+
+<div style='font-family: Arial; font-size: 20px;'>I Can Speak Some Italian</div>"
+"いくぶん・いくら→景気がいくぶん良くなかった
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いくぶん・いくら→けいきがいくぶんよくなかった
+
+<div style='font-family: Arial; font-size: 20px;'>The Economic Situation Has Improved a Little</div>"
+"わりに・わりと→わりに・わりと(=比較的)やさしい問題
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わりに・わりと→わりに・わりと(=ひかくてき)やさしいもんだい
+
+<div style='font-family: Arial; font-size: 20px;'>A Relatively Easy Problem</div>"
+"わりあいに→わりあいに早く着いた
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わりあいに→わりあいにはやくついた
+
+<div style='font-family: Arial; font-size: 20px;'>I Unexpectedly Arrived Early</div>"
+"なお(いっそう)→これのほうが、なお安い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なお(いっそう)→これのほうが、なおやすい
+
+<div style='font-family: Arial; font-size: 20px;'>The One is EvenCheaper Than That</div>"
+"より(いっそう)→これのほうが、より難しい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"より(いっそう)→これのほうが、よりむずかしい
+
+<div style='font-family: Arial; font-size: 20px;'>This One is Even More Difficult</div>"
+"むしろ→AよりむしろBのほうがいい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"むしろ→AよりむしろBのほうがいい
+
+<div style='font-family: Arial; font-size: 20px;'>I Would Rather Have B Than A</div>"
+"余計に→そうすると、余計分かるなくなる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"よけいに→そうすると、よけいわかるなくなる
+
+<div style='font-family: Arial; font-size: 20px;'>You Would Get More Confused If You Did So</div>"
+"じょじょに→じょじょにうまくなる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じょじょに→じょじょにうまくなる
+
+<div style='font-family: Arial; font-size: 20px;'>Get Better Little by Little</div>"
+"次第に→雪が次第にとける
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しだいに→ゆきがしだいにとける
+
+<div style='font-family: Arial; font-size: 20px;'>The Snow Gradually Melts</div>"
+"さらに→さらに美味しくなる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さらに→さらにおいしくなる
+
+<div style='font-family: Arial; font-size: 20px;'>Become More Delicious</div>"
+"一段と→寒さが一段と寂しくなる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いちだんと→さむさがいちだんとさびしくなる
+
+<div style='font-family: Arial; font-size: 20px;'>It becomes a Lot Colder</div>"
+"ぐっと→ぐっと良くなった
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぐっと→ぐっとよくなった
+
+<div style='font-family: Arial; font-size: 20px;'>It has Imrpoved A Lot</div>"
+"めっきり→めっきり寒くなる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"めっきり→めっきりさむくなる
+
+<div style='font-family: Arial; font-size: 20px;'>It Becomes Noticeably Cool</div>"
+"主に→この雑誌の対象は、主に中学生だ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おもに→このざっしのたいしょうは、おもにちゅうがくせいだ
+
+<div style='font-family: Arial; font-size: 20px;'>This Magazine is Mainly For Junior High School Student</div>"
+"くれぐれも→くれぐれもご両親に宜しくお伝えください
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"くれぐれも→くれぐれもごりょうしんによろしくおつたえください
+
+<div style='font-family: Arial; font-size: 20px;'>Please Send My Best Regards To Your Parents</div>"
+"一応→工事は一応完成した
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いちおう→こうじはいちおうかんせいした
+
+<div style='font-family: Arial; font-size: 20px;'>The Construction Has More or Less Finished</div>"
+"一般に→一般に女性のほうが長生きをする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いっぱんに→いっぱんじょせいのほうがながいきをする
+
+<div style='font-family: Arial; font-size: 20px;'>Generally Women Live Longer</div>"
+"明らかに→明らかに違う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あきらかに→あきらかにちがう
+
+<div style='font-family: Arial; font-size: 20px;'>It is Obviously Wrong</div>"
+"いわば→昨日の会議は、いわば宴会のようなものだった
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いわば→きのうのかいぎは、いわばえんかいのようなものだった
+
+<div style='font-family: Arial; font-size: 20px;'>Yesterday's Meeting was Like a Party</div>"
+"いわゆる→古典音楽とは、いわゆるクラシックのことを言う
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いわゆる→こてんおんがくとは、いわゆるくらしっくのことをいう
+
+<div style='font-family: Arial; font-size: 20px;'>Koten -Ongaku Means So-Call Classical Music</div>"
+"まさか→まさかこんな事件が起きるとは....
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まさか→まさかこんなじけんおきるとは....
+
+<div style='font-family: Arial; font-size: 20px;'>We Never Imagined That Such An Event Would Ever Happen</div>"
+"まさに→まさにあなたの言う通りです
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まさに→まさにあなたのいうとおりです
+
+<div style='font-family: Arial; font-size: 20px;'>What are you Saying is Perfectly Right</div>"
+"まさに→今まさに夜が明けよいとしている
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"まさに→いままさによがあけよいとしている
+
+<div style='font-family: Arial; font-size: 20px;'>The Day is Just Breaking</div>"
+"一度に・いっぺんに→一度に覚えるのは無理だ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いちどに。いっぺんに→いちどにおぼえるのはむりだ
+
+<div style='font-family: Arial; font-size: 20px;'>It is Impossible to Memorize Everything at Once</div>"
+"一気に→ビールを一気に飲む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いっきに→びーるをいっきにのむ
+
+<div style='font-family: Arial; font-size: 20px;'>Gulp Down a Mug of Beer</div>"
+"思い切り→父に思い(っ)切りしかられた
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おもいきり→ちちにおもい(っ)きりしかられた
+
+<div style='font-family: Arial; font-size: 20px;'>My Father Severely Reprimanded Me</div>"
+"思い切って→思い切って転職する
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おもいきって→おもいきっててんしょくする
+
+<div style='font-family: Arial; font-size: 20px;'>Take the Plunge and Change Jobs</div>"
+"思わず→痛くて思わず叫んだ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おもわず→いたくておもわずさけんだ
+
+<div style='font-family: Arial; font-size: 20px;'>I Cried out with Pain</div>"
+"思いがけず・思いがけなく→思いがけず昔の友人に会った
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おもいがけず・おもいがけなく→おもいがけずむかしのゆうじんにあった
+
+<div style='font-family: Arial; font-size: 20px;'>Unexpectedly I bumped into my old friend</div>"
+"なにしろ→なにしろ(=とにかく)忙しいくて食事をとる時間もない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なにしろ→なにしろ(=とにかく)いそがしくてしょくじをとるじかんもない
+
+<div style='font-family: Arial; font-size: 20px;'>I Have Been too busy to Eat</div>"
+"なにかと→来週はなにかと忙しい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なにかと→らいしゅうはなにかといそがしい
+
+<div style='font-family: Arial; font-size: 20px;'>I Will Be Very Busy With This and That Next Week</div>"
+"相変わらず→あの店は相変わらず混んでいる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あいかわらず→あのみせはあいかわらずこんでいる
+
+<div style='font-family: Arial; font-size: 20px;'>The Shop is As Busy as Ever</div>"
+"取り合いず→取り合いず何か食べよう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"とりあいず→とりあいずなにかたべよう
+
+<div style='font-family: Arial; font-size: 20px;'>Let's Eat First</div>"
+"取り合いず→取り合いず問題はないだろう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"とりあいず→とりあいずもんだいはないだろう
+
+<div style='font-family: Arial; font-size: 20px;'>Let's Not Worry About it Now</div>"
+"わざと→時計をわざと進めせる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わざと→とけいをわざとすすめせる
+
+<div style='font-family: Arial; font-size: 20px;'>Intentionally Set The Clock Ahead</div>"
+"わざわざ→わざわざお越しいいただいて
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わざわざ→わざわざおこしいただいて
+
+<div style='font-family: Arial; font-size: 20px;'>I Appreciate You Coming</div>"
+"いっそう→これのほうが、(なお)いっそう大きい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いっそう→これのほうが、(なお)いっそうおおきい
+
+<div style='font-family: Arial; font-size: 20px;'>This One is a Lot Bigger</div>"
+"いっそ→苦しくてがまんできない。いっそ死にたい
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いっそ→くるしくてがまんできない。いっそしにたい
+
+<div style='font-family: Arial; font-size: 20px;'>I Cannot bear the Pain Anymore, I'd rather Die</div>"
+"今に→そんなことをしていると、今に後悔しますよ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いまに→そんなことをしていると、いまにこうかいしますよ
+
+<div style='font-family: Arial; font-size: 20px;'>You Will Someday Regret What You are Doing Now</div>"
+"今にも→今にも雨が降りそうだ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いまにも→いまにもあめがふりそうだ
+
+<div style='font-family: Arial; font-size: 20px;'>It Looks Like It's Going to Rain Any Minute</div>"
+"今さら→今さらできないと言われても困る
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いまさら→いまさらできないといわれてもこまる
+
+<div style='font-family: Arial; font-size: 20px;'>It is Too Late For You To Renege</div>"
+"未だに→未だにその事件は解決していない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いまだに→いまだにそのじけんはかいけつしていない
+
+<div style='font-family: Arial; font-size: 20px;'>The Crime Has Still Not Been Solved</div>"
+"ただ今→田中は、ただいま、席を外しています
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ただいま→たなかは、ただいま、せきをはずしています
+
+<div style='font-family: Arial; font-size: 20px;'>Tanaka San is not here at the moment</div>"
+"たった今→彼はたった今帰った
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たったいま→かれはたったいまかえった
+
+<div style='font-family: Arial; font-size: 20px;'>He Has Just Left</div>"
+"別に欲しいものはない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"べつにほしいものはない
+
+<div style='font-family: Arial; font-size: 20px;'>I don't really need anything</div>"
+"この問題はそう難しくない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"このもんだいはそうむずかしくない
+
+<div style='font-family: Arial; font-size: 20px;'>This problem is not that difficult</div>"
+"大して勉強しなかったが、合格できた
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"たいしてべんきょうしなかったが、ごうかくできた
+
+<div style='font-family: Arial; font-size: 20px;'>I passed the exam although I did not study much</div>"
+"私はその事件とは一切関係ない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"わたしはそのじけんとはいっさいかんけいない
+
+<div style='font-family: Arial; font-size: 20px;'>I have nothing to do with the case</div>"
+"彼はとても50歳には見えない
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かれはとても50さいにはみえない
+
+<div style='font-family: Arial; font-size: 20px;'>He doesn't at all look 50 years old</div>"
+"彼女は恐らく結婚しないだろう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かのじょはおそらくけっこんしないだろう
+
+<div style='font-family: Arial; font-size: 20px;'>She Won't Most Probably Get Married</div>"
+"どうやら雨が降りそうだ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"どうやらあめがふりそうだ
+
+<div style='font-family: Arial; font-size: 20px;'>It looks like it is going to rain</div>"
+"彼の話は果たして本当だろうか
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かれのはなしははたしてほんとうだろうか
+
+<div style='font-family: Arial; font-size: 20px;'>Is his story really true?</div>"
+"やってもどうせだめだろう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"やってもどうせだめだろう
+
+<div style='font-family: Arial; font-size: 20px;'>It probably won't work out even if I try it</div>"
+"せっかく覚えたのに、テストに出なかった
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せっかくおぼえたのに、てすとにでなかった
+
+<div style='font-family: Arial; font-size: 20px;'>I spent some time memorising them but they were not on the test</div>"
+"せっかくここまで来たら、彼の家に寄ってみよう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せっかくここまできたら、かれのいえによってみよう
+
+<div style='font-family: Arial; font-size: 20px;'>Let's drop by his house since we are in the area</div>"
+"一旦・一度・ひとたび→一旦約束したら、守るべきだ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いったん・いちど・ひとたび→いったんやくそくしたら、まもるべきだ
+
+<div style='font-family: Arial; font-size: 20px;'>Once you make a promise, you should keep it</div>"
+"一旦・ひとまず→一旦休んで、午後からまた始めよう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いったん・ひとまず→いったんやすんで、ごごからまたはじめよう
+
+<div style='font-family: Arial; font-size: 20px;'>Let's Take a Break and Start Again in the afternoon</div>"
+"かえって→近道したら、かえって時間がかかった
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"かえって→ちかみちしたら、かえってじかんがかかった
+
+<div style='font-family: Arial; font-size: 20px;'>We took a shortcut but it actually took us more time</div>"
+"さっそく→ご注文の品を早速お送りします。
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さっそく→ごちゅうもんのしなをさっそくおおくりします
+
+<div style='font-family: Arial; font-size: 20px;'>I will send the items you ordered right away</div>"
+"さすがに→さすがに先生はよく知っている
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さすかに→さすがにせんせいはよくしっている
+
+<div style='font-family: Arial; font-size: 20px;'>That is just what we expected from our dedicated teacher!</div>"
+"おいにく→その日はあいにく都合が悪いです
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"おいにく→そのひはおいにくつごうがわるいです
+
+<div style='font-family: Arial; font-size: 20px;'>Unfortunately I am not available (I can't make it)</div>"
+"あくまで(も)→彼はあくまで自分が正しいと主張した
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"あくまで(も)→かれはあくまでじぶんがただしいとしゅちょうした
+
+<div style='font-family: Arial; font-size: 20px;'>He Insisted That He Was Right</div>"
+"なんだが・なんとなく・なぜか→なんだか眠い
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なんだか・なんとなく・なぜか→なんだかねむい
+
+<div style='font-family: Arial; font-size: 20px;'>I feel sleepy for some reason</div>"
+"なんと・なんて→なんときれいな人だろう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"なんと・なんで→なんときれいなひとだろう
+
+<div style='font-family: Arial; font-size: 20px;'>What a beautiful Woman</div>"
+"物事→学校で多くの物事を学ぶ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ものごと→がっこうでおおくのものごとをまなぶ
+
+<div style='font-family: Arial; font-size: 20px;'>Learn a Lot of Things at School</div>"
+"人物→有名な人物
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"じんぶつ→ゆうめいなじんぶつ
+
+<div style='font-family: Arial; font-size: 20px;'>A Famous Person</div>"
+"物理→物理の試験
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ぶつり→ぶつりのしけん
+
+<div style='font-family: Arial; font-size: 20px;'>Physics Exam</div>"
+"食物→カロリーの高い食物
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょくもつ→かろりーもたかいしょくもつ
+
+<div style='font-family: Arial; font-size: 20px;'>High Calorie Food</div>"
+"作物→この地域の主要な作物は米です
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"さくもつ→このちいきのしゅようなさくもつはこめです
+
+<div style='font-family: Arial; font-size: 20px;'>The Rice is the Main Crop in this Area</div>"
+"書物→古い書物を読む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょもつ→ふるいしょもつをよむ
+
+<div style='font-family: Arial; font-size: 20px;'>Read Old Books</div>"
+"生き物→いきものの世話をする
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いきもの→いきもののせわをする
+
+<div style='font-family: Arial; font-size: 20px;'>Take Care of Animals・Insects</div>"
+"生物
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せいぶつ
+
+<div style='font-family: Arial; font-size: 20px;'>A Living Thing</div>"
+"入れ物→プラスチックの入れ物
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"いれもの→ぷらすちっくのいれもの
+
+<div style='font-family: Arial; font-size: 20px;'>A Plastic Container</div>"
+"物音→物音が聞こえる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ものおと→ものおとがきこえる
+
+<div style='font-family: Arial; font-size: 20px;'>Head a Sound</div>"
+"物置→物置にしまう
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ものおき→ものおきにしまう
+
+<div style='font-family: Arial; font-size: 20px;'>Put it Away in the Storage</div>"
+"物語→物語を読む
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ものがたり→ものがたりをよむ
+
+<div style='font-family: Arial; font-size: 20px;'>Read a Story</div>"
+"生年月日→生年月日を聞く
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せいねんがっぴ→せいねんがっぴをきく
+
+<div style='font-family: Arial; font-size: 20px;'>Ask One's Death of Birth</div>"
+"月日→月日を流れる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"つきひ→つきひをながれる
+
+<div style='font-family: Arial; font-size: 20px;'>Time Pases</div>"
+"元日
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"がんじつ
+
+<div style='font-family: Arial; font-size: 20px;'>Time Pases</div>"
+"後日→後日、また連絡します
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ごじつ→ごじつ、またれんらくします
+
+<div style='font-family: Arial; font-size: 20px;'>I will contact you later</div>"
+"日時→バーティーの日時を決める
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にちじ→ぱーちぃーのにちじをきめる
+
+<div style='font-family: Arial; font-size: 20px;'>Decide on the Date of the Party</div>"
+"今日→今日の日本の社会を考える
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"こんにち→こんにちのにほんのしゃかいをかんがえる
+
+<div style='font-family: Arial; font-size: 20px;'>Review The Japanese of Society</div>"
+"日中→明日の日中は家にいません
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にっちゅう→あすのにっちゅうはいえにいません
+
+<div style='font-family: Arial; font-size: 20px;'>I Won’t Be at Home during the Day Tomorrow</div>"
+"日光→日光を浴びる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"にっこう→にっこうをあびる
+
+<div style='font-family: Arial; font-size: 20px;'>Battle in the Sun</div>"
+"日の出→日の出
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひので
+
+<div style='font-family: Arial; font-size: 20px;'>Sunrise</div>"
+"日の入り→日の入り
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ひのいり→ひのいり
+
+<div style='font-family: Arial; font-size: 20px;'>Sunset</div>"
+"来日→先月、来日しました
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せんげつ→らいにちしました
+
+<div style='font-family: Arial; font-size: 20px;'>He Came To Japant Last Month</div>"
+"年間→年間の予定を立てる
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねんかん→ねんかんのよていをたてる
+
+<div style='font-family: Arial; font-size: 20px;'>Set Up A Schedule for the Year</div>"
+"年月→長い年月・年月がたつ
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねんげつ→ながいねんがつ・ねんがつがたつ
+
+<div style='font-family: Arial; font-size: 20px;'>A Long Time Has Passed</div>"
+"年中→年中暑い場所
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねんじゅう→ねんじゅうあついばしょ
+
+<div style='font-family: Arial; font-size: 20px;'>A Place That is Hot all year around</div>"
+"年度→来年度の予算
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねんど→らいねんどのよさん
+
+<div style='font-family: Arial; font-size: 20px;'>Next Year’s Budget</div>"
+"少年→青少年
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"しょうねん→せいしょうねん
+
+<div style='font-family: Arial; font-size: 20px;'>The Youth</div>"
+"青年→背の高い青年
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"せいねん→せのたかいせいねん
+
+<div style='font-family: Arial; font-size: 20px;'>A Tall Young Man</div>"
+"中年→中年女性
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ちゅうねん→ちゅうねんじょせい
+
+<div style='font-family: Arial; font-size: 20px;'>A Middle Aged Woman</div>"
+"年代→同じ年代
+<div style='font-family: Arial; font-size: 50px;'></div>
+"	"ねんだい→おなじねんだい
+
+<div style='font-family: Arial; font-size: 20px;'>The Same Generation</div>"
