@@ -1,0 +1,62 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:7
+q>8U]I=-:Y	Kanji	引き続き、日本語	関数	かんすう	Function	
+vWgZ=Zz]b6	Kanji	引き続き、日本語	予選	よせん	Preliminary Contest・Qualifying Round・Trial・Heat・Primary	
+OK{hWU;F3g	Kanji	引き続き、日本語	素数	そすう	Prime Number	
+B8Mh=7b*e~	Kanji	引き続き、日本語	積もり書き	つもりがき	Written Estimate	
+yDsr`s)}u=	Kanji	引き続き、日本語	要する	ようする	To need・To Demand・To Take・To Require	
+"tf;#r?oBJu"	Kanji	引き続き、日本語	宣言書	せんげんしょ	(Written) Declaration	
+vOLjOh1Yop	Kanji	引き続き、日本語	沿革	えんかく	History・Development	
+bAx]T5UIaK	Kanji	引き続き、日本語	挑戦	ちょうせん	Challenge・Deiance・Dare・Attempt・Try	
+AnYbw4[0L+	Kanji	引き続き、日本語	通達	つうたつ	Notification・Official Notes・Directive	
+N}p/y=W+Y9	Kanji	引き続き、日本語	未承諾	みしょうだく	No Consent・Not Approved	
+iBnjz0Q$!g	Kanji	引き続き、日本語	容量	ようりょう	Capacity・Volume	
+"K#OI$LY8du"	Kanji	引き続き、日本語	年次	ねんじ	Annual・Yearly	
+I$.8j!>Y|h	Kanji	引き続き、日本語	起票	きひょう	Issue of a Voucher	
+j;kE;2NWIU	Kanji	引き続き、日本語	悪意	あくい	Malicious・Ill Will・Evil Intention	
+fLUE&ly-o1	Kanji	引き続き、日本語	別紹介	べつしょうかい	Distinct Introduction	
+Q|Pf@Fi5.v	Kanji	引き続き、日本語	相場	そうば	Market Price・Speculation・Reputation	
+NC0wg14@Y4	Kanji	引き続き、日本語	総称	そうしょう	General Term・Generic Name	
+"vpNuw3d#S{"	Kanji	引き続き、日本語	従来	じゅうらい	Traditional・Conventional・Usual・Existing	
+PO|wH8wJeu	Kanji	引き続き、日本語	"<span style=""background-color: rgb(255, 255, 255);"">中小</span>"	ちゅうしょう	Small and Medium	
+y&C0I[jb60	Kanji	引き続き、日本語	独自	どくじ	Original	
+i*OW0<gt8C	Kanji	引き続き、日本語	自律的	じりつてき	Autonomous・Autonomic・Self-Sustaining・Self-Directed	
+PGw9bqdGVG	Kanji	引き続き、日本語	異なる	ことなる	To Differ・To Be Different・To Disagree	
+"Dk|t#Of@+<"	Kanji	引き続き、日本語	"<span style=""background-color: rgb(255, 255, 255);"">遥か</span>"	はるか	Far Away	
+pBT>:+><~U	Kanji	引き続き、日本語	安価	あんか	Low-Priced・Cheap・Inexpensive	
+rs6=D.dM=h	Kanji	引き続き、日本語	選定	せんてい	Selection	
+v!_{WXcV:a	Kanji	引き続き、日本語	手軽	てがる	Easy・Simple・Informal・Offhand・Cheap	
+s;_6M1|WKd	Kanji	引き続き、日本語	実績	じっせき	Achievements・Actual Results・Accomplishments・Past Results・Tract Record	
+q{L4H1U/~&	Kanji	引き続き、日本語	転記	てんき	Posting(of notes, notices, etc.)・Transcription	
+BRi10s^{CD	Kanji	引き続き、日本語	格納	かくのう	Storage・Housing for Equipment and Machines	
+d9@HBok7}R	Kanji	引き続き、日本語	座標	ざひょう	Coordinate・Coordinates・Coordinate System	
+x4!*2]9*Nc	Kanji	引き続き、日本語	認識	にんしき	Recognition・Awareness・Perception・Understanding・Knowledge	
+P:X_l-mv<J	Kanji	引き続き、日本語	既存	きそん	Existing	
+lL{.Qq/tvA	Kanji	引き続き、日本語	間接	かんせつ	Indrection・Indirectness	
+l]~1*1GbP;	Kanji	引き続き、日本語	移し替え	うつしかえ	Transfer・Shift	
+GG2w1o@dRd	Kanji	引き続き、日本語	突き合わせる	つきあわせる	To Place Persons Opposite・To Come Face to Face with	
+N%|mxH7Pi{	Kanji	引き続き、日本語	巡回	じゅんかい	Going Around・Patrol・Round・Tour	
+pX5`v{7@SI	Kanji	引き続き、日本語	競合	きょうごう	Contention・Competition・Rivalry・Quarrel	
+P-mp1bD5&<	Kanji	引き続き、日本語	収集	しゅうしゅう	Collecting・Accumulating・Gathering	
+h~UMJI[lhJ	Kanji	引き続き、日本語	異常	いじょう	Strangeness・Abnormality	
+qydn*BmmCo	Kanji	引き続き、日本語	領域	りょういき	Area・Domain・Territory・Field・Range・Region・Regime	
+ecC2iDT6rJ	Kanji	引き続き、日本語	人件費	じんけんひ	Labor Cost・Labour Cost	
+A(}43LVy`g	Kanji	引き続き、日本語	削減	さくげん	Cut・Reduction・Curtailment	
+GN4UbJ>ZkS	Kanji	引き続き、日本語	期待	きたい	Expectations	
+r!R(TYDMUx	Kanji	引き続き、日本語	改革	かいかく	Reform・Reformation・Reorganization	
+lx2ivdz&	Kanji	引き続き、日本語	落ち込み	おちこみ	Depression	
+C,OtG$xU88	Kanji	引き続き、日本語	注釈	ちゅうしゃく	Notes・Comment・Remark・Annotation	
+mQzd]uOXr$	Kanji	引き続き、日本語	深刻度	しんこくど	Severity	
+F.zC],gs,7	Kanji	引き続き、日本語	形式	けいしき	Format	
+eud]U1Ez?<	Kanji	引き続き、日本語	存在	そんざい	Existence	
+kwAKZm<wu1	Kanji	引き続き、日本語	影響	えいきょう	Influence	
+yh4lt*5^9E	Kanji	引き続き、日本語	サービス運用妨害	さーびすうんようぼうがい	Deinal of Service	
+zQxkjv}swB	Kanji	引き続き、日本語	状態	じょうたい	Situation	
+Pq?v03b1T:	Kanji	引き続き、日本語	可能性	かのうせい	Possibility	
+dq2Ww5.}^b	Kanji	引き続き、日本語	漏洩	ろうえい	Leak (of Secrets, Information, etc)・Disclosure	
+"sRt(eg{Kd#"	Kanji	引き続き、日本語	前提	ぜんてい	Condition・Assumption・Prerequisite・Hypothesis	
+c:@or-o:yo	Kanji	引き続き、日本語	俯瞰	ふかん	Bird's Eye View	
