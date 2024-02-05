@@ -1,0 +1,56 @@
+関数	かんすう	Function
+予選	よせん	Preliminary Contest・Qualifying Round・Trial・Heat・Primary
+素数	そすう	Prime Number
+積もり書き	つもりがき	Written Estimate
+要する	ようする	To need・To Demand・To Take・To Require
+宣言書	せんげんしょ	(Written) Declaration
+沿革	えんかく	History・Development
+挑戦	ちょうせん	Challenge・Deiance・Dare・Attempt・Try
+通達	つうたつ	Notification・Official Notes・Directive
+未承諾	みしょうだく	No Consent・Not Approved
+容量	ようりょう	Capacity・Volume
+年次	ねんじ	Annual・Yearly
+起票	きひょう	Issue of a Voucher
+悪意	あくい	Malicious・Ill Will・Evil Intention
+別紹介	べつしょうかい	Distinct Introduction
+相場	そうば	Market Price・Speculation・Reputation
+総称	そうしょう	General Term・Generic Name
+従来	じゅうらい	Traditional・Conventional・Usual・Existing
+中小	ちゅうしょう	Small and Medium
+独自	どくじ	Original
+自律的	じりつてき	Autonomous・Autonomic・Self-Sustaining・Self-Directed
+異なる	ことなる	To Differ・To Be Different・To Disagree
+遥か	はるか	Far Away
+安価	あんか	Low-Priced・Cheap・Inexpensive
+選定	せんてい	Selection
+手軽	てがる	Easy・Simple・Informal・Offhand・Cheap
+実績	じっせき	Achievements・Actual Results・Accomplishments・Past Results・Tract Record
+転記	てんき	Posting(of notes, notices, etc.)・Transcription
+格納	かくのう	Storage・Housing for Equipment and Machines
+座標	ざひょう	Coordinate・Coordinates・Coordinate System
+認識	にんしき	Recognition・Awareness・Perception・Understanding・Knowledge
+既存	きそん	Existing
+間接	かんせつ	Indrection・Indirectness
+移し替え	うつしかえ	Transfer・Shift
+突き合わせる	つきあわせる	To Place Persons Opposite・To Come Face to Face with
+巡回	じゅんかい	Going Around・Patrol・Round・Tour
+競合	きょうごう	Contention・Competition・Rivalry・Quarrel
+収集	しゅうしゅう	Collecting・Accumulating・Gathering
+異常	いじょう	Strangeness・Abnormality
+領域	りょういき	Area・Domain・Territory・Field・Range・Region・Regime
+人件費	じんけんひ	Labor Cost・Labour Cost
+削減	さくげん	Cut・Reduction・Curtailment
+期待	きたい	Expectations
+改革	かいかく	Reform・Reformation・Reorganization
+落ち込み	おちこみ	Depression
+注釈	ちゅうしゃく	Notes・Comment・Remark・Annotation
+深刻度	しんこくど	Severity
+形式	けいしき	Format
+存在	そんざい	Existence
+影響	えいきょう	Influence
+サービス運用妨害	さーびすうんようぼうがい	Deinal of Service
+状態	じょうたい	Situation
+可能性	かのうせい	Possibility
+漏洩	ろうえい	Leak (of Secrets, Information, etc)・Disclosure
+前提	ぜんてい	Condition・Assumption・Prerequisite・Hypothesis
+俯瞰	ふかん	Bird's Eye View
